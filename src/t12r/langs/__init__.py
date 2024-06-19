@@ -2,3 +2,4 @@
 
 from t12r.langs.Lang import Lang
 from t12r.langs.Sinhala import Sinhala
+from t12r.langs.SinhalaEnglishData import SinhalaEnglishData
