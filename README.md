@@ -116,6 +116,12 @@
 
 > namoo namoo namoo namoo maataa
 
+### Sri Lanka
+
+ශ්‍රී ලංකාව බ්‍රිතාන්‍ය පාලන සමයේ දී සිලෝන් ලෙස හැඳින්වු අතර වර්තමානයේ නිල වශයෙන් ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජය ලෙස හදුන්වයි. ශ්‍රී ලංකාව සෙරන්ඩිබ්, සිලොන්, දීප්තිමත් දිවයින,ධර්ම දිවයින, ඉන්දියන් සාගරයේ මුතු ඇටය නමින්ද හදුන්වයි. විවිධ නම් ගණනාවකින් පුරාණයේ හැඳින්වූ මෙම දූපත "නම් දහසක් ඇති දූපත" ලෙස ප්‍රචලිත ද විය. මෙය දකුණු ආසියානු දූපතකි. එය ඉන්දියානු සාගරයේ, බෙංගාල බොක්කෙහි නිරිත දෙසින් සහ අරාබි මුහුදේ ගිනිකොන දෙසින් පිහිටා ඇත; එය ඉන්දියානු උප මහද්වීපය මන්නාරම් බොක්ක සහ පෝක් සමුද්‍ර සන්ධිය මගින් වෙන් කරනු ලැබේ. ශ්‍රී ලංකාවේ පිහිටීම ප්‍රධාන මුහුදු මාර්ගවල පිහිටීම හේතුවෙන් බටහිර ආසියාව සහ අග්නිදිග ආසියාව අතර උපායමාර්ගික නාවික සම්බන්ධකයක් ලෙස එය පුරාණ කාලයේ සිටම භාවිතය ගැණුනි. ඉන්දියානු ජනරජය සහ ශ්‍රී ලංකා ජනරජය 1976 මාර්තු 23 වන දින මනාර් බොක්ක සහ බෙංගාල බොක්කෙහි සමුද්‍ර මායිම් ස්ථාපිත කරමින් ගිවිසුමක් අත්සන් කරන ලදී. ශ්‍රී ලංකාවට ආසන්න ම රටවල් ලෙස ඉන්දියාව සහ මාලදිවයින හැදින්විය හැකිය.
+
+> shrii langkaava briataanya paalana samayee dii siloon lesa haendinvu atara vartamaanayee nila vashayen shrii langkaa prajaataantrika samaajavaadii janarajaya lesa hadunvayi. shrii langkaava seranzib, silon, diiptimat divayina,dharma divayina, indiyan saagarayee mutu aeqaya naminda hadunvayi. vividha nam ganhanaavakin puraanhayee haendinvuu mema duupata "nam dahasak aeti duupata" lesa pracalita da viya. meya dakunhu aasiyaanu duupataki. eya indiyaanu saagarayee, benggaala bokkehi nirita desin saha araabi muhudee ginikona desin pihiqaa aeta; eya indiyaanu upa mahadviipaya mannaaram bokka saha pook samudraa sandhiya magin ven karanu laebee. shrii langkaavee pihiqiima pradhaana muhudu maargavala pihiqiima heetuven baqahira aasiyaava saha agnidiga aasiyaava atara upaayamaargika naavika sambandhakayak lesa eya puraanha kaalayee siqama bhaavitaya gaenhuni. indiyaanu janarajaya saha shrii langkaa janarajaya 1976 maartu 23 vana dina manaar bokka saha benggaala bokkehi samudraa maayim sthaapita karamin givisumak atsan karana ladii. shrii langkaavaqa aasanna ma raqaval lesa indiyaava saha maaladivayina haedinviya haekiya.
+
 ### Sri Lanka History
 
 ශ්‍රී ලංකාවේ ඉතිහාසය දකුණු ආසියාව, අග්නිදිග ආසියාව හා ඉන්දියන් සාගරය ඇතුළු ඉන්දියානු උප මහාද්වීපය හා ඒ අවට ප්‍රදේශවල ඉතිහාසය සමඟ බැඳී පවතී.

@@ -78,6 +78,7 @@ class SinhalaEnglishData:
         ('බ්‍රි', 'bri'),
         ('ම්‍ය', 'my'),
         ('ශ්‍ර', 'shr'),
+        ('ද්‍ර', 'dra'),
     ]
     DIACRITIC_PAIRS = [
         #
@@ -105,6 +106,7 @@ class SinhalaEnglishData:
         # HACK
         ('ාං', 'aang'),
         ('ිං', 'ing'),
+        ('ෙං', 'eng'),
     ]
 
     VOWEL_PAIRS = [

@@ -40,6 +40,7 @@ class TestData:
 
     SI_LINES_SOURCES = [
         'national_anthem',
+        'sri_lanka',
         'sri_lanka_history',
         'koggala',
         'the_quick_brown_fox',
