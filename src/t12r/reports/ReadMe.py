@@ -16,9 +16,9 @@ class ReadMe:
         for pair in TestData.SI_EN_PAIRS:
             lines.extend(
                 [
-                    f'### {pair[0]}',
+                    pair[0],
                     '',
-                    pair[1],
+                    '> ' + pair[1],
                     '',
                 ]
             )
