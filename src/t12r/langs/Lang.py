@@ -16,3 +16,7 @@ class Lang:
     def transliterate(self, text: str) -> str:
         token_list = self.to_tokens(text)
         return Token.to_str(token_list)
+
+    def inverse_transliterate(self, text: str) -> str:
+        token_list = Token.from_str(text)
+        return self.from_tokens(token_list)

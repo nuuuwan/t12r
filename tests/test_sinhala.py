@@ -64,7 +64,7 @@ class TestSinhala(unittest.TestCase):
                 text_en_ascii = text_en.encode("ascii", "ignore").decode()
                 self.assertEqual(text_en, text_en_ascii)
 
-                text_si2 = SI.from_tokens(SI.to_tokens(text_si))
+                text_si2 = SI.inverse_transliterate(text_en)
                 print('')
                 print(text_si2)
                 self.assertEqual(text_si, text_si2)

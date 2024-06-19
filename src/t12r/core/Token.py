@@ -1,5 +1,5 @@
 class Token:
-    DELIM = '·'
+    DELIM = '_'
 
     def __init__(self, chars: str):
         self.chars = chars
@@ -17,10 +17,13 @@ class Token:
 
     @staticmethod
     def to_str(tokens: list) -> str:
-        return Token.DELIM.join([token.chars for token in tokens])
+        s = Token.DELIM.join([token.chars for token in tokens])
+        s = s.replace(Token.DELIM + ' ' + Token.DELIM, ' ')
+        return s
 
     @staticmethod
     def from_str(s: str) -> list:
+        s = s.replace(' ', Token.DELIM + ' ' + Token.DELIM)
         return [Token(char) for char in s.split(Token.DELIM)]
 
 
