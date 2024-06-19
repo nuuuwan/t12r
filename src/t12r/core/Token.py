@@ -1,4 +1,6 @@
 class Token:
+    DELIM = '·'
+
     def __init__(self, chars: str):
         self.chars = chars
 
@@ -12,6 +14,14 @@ class Token:
         if isinstance(value, Token):
             return self.chars == value.chars
         return False
+
+    @staticmethod
+    def to_str(tokens: list) -> str:
+        return Token.DELIM.join([token.chars for token in tokens])
+
+    @staticmethod
+    def from_str(s: str) -> list:
+        return [Token(char) for char in s.split(Token.DELIM)]
 
 
 Token.SPACE = Token(' ')

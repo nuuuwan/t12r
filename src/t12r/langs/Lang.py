@@ -15,5 +15,4 @@ class Lang:
 
     def transliterate(self, text: str) -> str:
         token_list = self.to_tokens(text)
-        s = ''.join([token.chars for token in token_list])
-        return s
+        return Token.to_str(token_list)
