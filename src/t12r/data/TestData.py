@@ -1,28 +1,56 @@
-'''
-පස් ගොඩ ගැනිමෙන් තනන ලද රේල් පාර බිමින් ද මහ පාරින් ද අඩි කිහිපයක් උස්වූවකි.පස් කැඩිමෙන් හෑරැන අගල්,රේල්පාර දෙපැත්තහි තැනින් තැන දැකිය හැකිය.බෝක්කුවක් අසල වන අගලක් ඇතැම් විට ඕලු නෙඵම් හා මසුන්ද සහිත කුඩා විලක විලාසය ගනියි.
-'''
+import os
+from functools import cache
+
+from utils import File, Log
+
+log = Log('TestData')
 
 
 class TestData:
-    SI_EN_PAIRS = [
-        (
-            'කොග්ගල',
-            'koggala',
-        ),
-        (
-            'වූ කලි',
-            'vuu kali',
-        ),
-        (
-            'කොග්ගල වූ කලි එක් පැත්තකින් මුහුදින්ද අනික් පැත්තෙන් සුන්දර වු නදියකින් ද සීමාවුනු බිම්තීරයකි.',
-            'koggala vuu kali ek paeththakin muhudhindha anik paeththen sundhara vu nadhiyakin dha siimaavunu bimthiirayaki.',
-        ),
-        (
-            'පීත්ත පටියක් සේ දිවෙන ගාලු මාතර පාරින් වෙන් කරනු ලැබු මෙහි වෙරලබඩ වනාහි ගමෙහි සුලභ ගෙයක මිදුලට හෝ ආලින්දයට හෝ සමකල යුත්තකි.',
-            'piiththa patiyak see dhivena gaalu maathara paarin ven karanu laebu mehi veralabada vanaahi gamehi sulabha geyaka midhulata hoo aalindhayata hoo samakala yuththaki.',
-        ),
-        (
-            'ගාලු-මාතර පාර ලගින්ම දිවෙන රේල් පාර පස් කන්දක් මතුවෙහි හොවන ලද පටන් ගැන්ම හෝ කෙලවර හෝ නොදැක්ක හැකි තීරයක් වැන්න.',
-            'gaalu-maathara paara laginma dhivena reel paara pas kandhak mathuvehi hovana ladha patan gaenma hoo kelavara hoo nodhaekka haeki thiirayak vaenna.',
-        ),
+    @staticmethod
+    def clean(line):
+        line = ''.join(c for c in line if 3456 <= ord(c) <= 3583 or c == ' ')
+        line = line.strip()
+        return line
+
+    @staticmethod
+    def clean_data(file_name):
+        file_path = os.path.join('data', file_name + '.txt')
+        file = File(file_path)
+        lines = file.read_lines()
+
+        lines = [TestData.clean(line) for line in lines]
+        lines = [line for line in lines if line]
+        lines = list(set(lines))
+        lines.sort()
+
+        file.write_lines(lines)
+        log.info(f'Cleaned {file_path}')
+
+    @staticmethod
+    @cache
+    def read_data(file_name) -> list[str]:
+        file_path = os.path.join('data', file_name + '.txt')
+        lines = File(file_path).read_lines()
+        n_lines = len(lines)
+        log.debug(f'Read {n_lines} lines from {file_path}')
+        return lines
+
+    WORD_LIST = read_data('si-word-list')
+
+    SI_LINES_SOURCES = [
+        'national_anthem',
+        'sri_lanka_history',
+        'koggala',
+        'the_quick_brown_fox',
     ]
+
+    @staticmethod
+    def get_si_lines_idx():
+        return {
+            file_name: TestData.read_data(file_name)
+            for file_name in TestData.SI_LINES_SOURCES
+        }
+
+
+TestData.SI_LINES_IDX = TestData.get_si_lines_idx()

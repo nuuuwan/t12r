@@ -1,3 +1,5 @@
+from functools import cache
+
 from utils import Log
 
 from t12r.core import Token
@@ -6,39 +8,32 @@ from t12r.langs.SinhalaEnglishData import SinhalaEnglishData
 
 log = Log('Sinhala')
 
-# References
-#  - https://en.wikipedia.org/wiki/Sinhala_script
-
 
 class Sinhala(Lang, SinhalaEnglishData):
     def __init__(self):
         super().__init__("si", "Sinhala")
 
     @staticmethod
+    @cache
     def is_vowel(c: str) -> bool:
         return c and (c in Sinhala.SINHALA_VOWELS)
 
     @staticmethod
+    @cache
     def is_consonant(c: str) -> bool:
         return c and (c in Sinhala.SINHALA_CONSONANTS)
 
     @staticmethod
+    @cache
     def is_vowel_diacritic(c: str) -> bool:
         return c and (c in Sinhala.SINHALA_DIACRITICS)
 
     @staticmethod
+    @cache
     def is_sinhala(c: str) -> bool:
-        return (
-            Sinhala.is_vowel(c)
-            or Sinhala.is_consonant(c)
-            or Sinhala.is_vowel_diacritic(c)
-        )
+        return c and c in Sinhala.SINHALA_ALL_UNICODE
 
-    @staticmethod
-    def get_vowel_token(c: str) -> Token:
-        c_token = Sinhala.SINHALA_TO_ENGLISH_VOWEL.get(c, Token.UNKNOWN)
-        return Token(c_token)
-
+    @cache
     def get_consonant_token(c_consonant: str, c_diacritic: str):
         c_token_consonant = Sinhala.SINHALA_TO_ENGLISH_CONSONANT.get(
             c_consonant, Token.UNKNOWN
@@ -49,29 +44,42 @@ class Sinhala(Lang, SinhalaEnglishData):
         return Token(c_token_consonant + c_token_diacritic)
 
     def to_tokens(self, text: str) -> list[Token]:
-        token_list = []
-        for i, c in enumerate(text):
-            c_next = text[i + 1] if i + 1 < len(text) else None
-            # log.debug(f'{i}): "{c}", "{c_next}"')
+        if not text:
+            return []
 
-            if not Sinhala.is_sinhala(c):
-                token_list.append(Token(c))
-            elif Sinhala.is_vowel(c):
-                token_list.append(Sinhala.get_vowel_token(c))
-            elif Sinhala.is_consonant(c):
-                if Sinhala.is_vowel_diacritic(c_next):
-                    token_list.append(Sinhala.get_consonant_token(c, c_next))
-                elif not Sinhala.is_sinhala(c_next) or Sinhala.is_consonant(
-                    c_next
-                ):
-                    token_list.append(Sinhala.get_consonant_token(c, None))
-        # log.debug(f'{text} -> {token_list}')
-        return token_list
+        for c in Sinhala.SINHALA_VOWELS:
+            if text.startswith(c):
+                j = len(c)
+                c_token = Sinhala.SINHALA_TO_ENGLISH_VOWEL[c]
+                return [Token(c_token)] + self.to_tokens(text[j:])
+
+        for c in Sinhala.SINHALA_CONSONANTS:
+            if text.startswith(c):
+                c_token = Sinhala.SINHALA_TO_ENGLISH_CONSONANT[c]
+                j = len(c)
+                text_rem = text[j:]
+
+                if text_rem:
+                    for c_diacritic in Sinhala.SINHALA_DIACRITICS:
+                        if not c_diacritic:
+                            continue
+                        if text_rem.startswith(c_diacritic):
+                            c_token_diacritic = (
+                                Sinhala.SINHALA_TO_ENGLISH_DIACRITIC[
+                                    c_diacritic
+                                ]
+                            )
+                            return [
+                                Token(c_token + c_token_diacritic)
+                            ] + self.to_tokens(text[len(c + c_diacritic):])
+
+                return [Token(c_token + 'a')] + self.to_tokens(text[len(c):])
+
+        return [Token(text[0])] + self.to_tokens(text[1:])
 
     def from_tokens(self, token_list: list[Token]) -> str:
         text = ''
         for i, token in enumerate(token_list):
-            # log.debug(f'{i}): {token}')
             if token.chars in Sinhala.ENGLISH_VOWELS:
                 c = Sinhala.ENGLISH_TO_SINHALA_VOWEL.get(token.chars)
                 text += c
@@ -94,5 +102,4 @@ class Sinhala(Lang, SinhalaEnglishData):
 
             text += token.chars
 
-        # log.debug(f'{token_list} -> {text}')
         return text
