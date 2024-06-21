@@ -14,19 +14,19 @@ class TestPairs(unittest.TestCase):
         unique_char_str_si = Pairs.get_unique_char_str(0)
         self.assertEqual(
             unique_char_str_si,
-            'ංඃඅආඇඈඉඊඋඌඍඑඒඓඔඕඖ'
+            'ංඃඅආඇඈඉඊඋඌඑඒඓඔඕඖ'
             + 'කඛගඝඞඟචඡජඣඤඥඦටඨඩඪණඬතථදධනඳපඵබභමඹ'
-            + 'යරලවශෂසහළෆ්ාැෑිීුූෘෙේෛොෝෞෟෲ‍',
+            + 'යරලවශෂසහළෆ්ාැෑිීුූෘෙේෛොෝෞෲ‍',
         )
         self.assertEqual(
             len(unique_char_str_si),
-            76,
+            74,
         )
 
         unique_char_str_en = Pairs.get_unique_char_str(1)
         self.assertEqual(
             unique_char_str_en,
-            'abcdefghijklmnopqrstuvxyz~',
+            'abcdefghijklmnopqrstuvwxyz',
         )
         self.assertEqual(
             len(unique_char_str_en),

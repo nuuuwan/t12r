@@ -8,7 +8,7 @@ def main():
 
     wb = WikiBenchmark(si.transliterate, si.inverse_transliterate)
 
-    info = wb.benchmark(n_max=100)
+    info = wb.benchmark(n_max=30)
     print(json.dumps(info, indent=4))
 
 

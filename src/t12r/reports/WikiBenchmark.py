@@ -1,7 +1,10 @@
 import os
 import random
+import re
 
 from utils import File, Log
+
+from t12r.langs.Diff import Diff
 
 log = Log('WikiBenchmark')
 
@@ -17,6 +20,13 @@ class WikiBenchmark:
         self.func_transliterate = func_transliterate
         self.func_inverse_transliterate = func_inverse_transliterate
 
+    @staticmethod
+    def clean(s):
+        SINHALA_UNICODE_RANGE = r'[^\u0D80-\u0DFF]'
+        s = re.sub(SINHALA_UNICODE_RANGE, ' ', s)
+        s = re.sub(r'\s+', ' ', s)
+        return s.strip()
+
     @property
     def file_names(self) -> list[str]:
         return [
@@ -27,11 +37,15 @@ class WikiBenchmark:
 
     def benchmark_wiki_page(self, file_name: str) -> dict:
         file_path = os.path.join(self.DIR_WIKI_PAGES, file_name)
-        text_si = File(file_path).read()
+        text_si_original = File(file_path).read()
+        text_si = WikiBenchmark.clean(text_si_original)
         text_en = self.func_transliterate(text_si)
         text_si2 = self.func_inverse_transliterate(text_en)
 
         is_unambiguous = text_si == text_si2
+        if not is_unambiguous:
+            print(Diff(text_si, text_si2))
+            raise Exception('Unambiguous transliteration failed')
 
         n_text_si = len(text_si)
         n_text_en = len(text_en)

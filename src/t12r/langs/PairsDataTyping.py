@@ -1,7 +1,7 @@
 from functools import cache
 
-DASH_CHAR = '~'
-NO_VOWEL_CHAR = ''
+DASH_CHAR = ''
+NO_VOWEL_CHAR = 'w'
 
 
 @cache
@@ -24,7 +24,7 @@ def nasal(x: str) -> str:
 
 @cache
 def prenasal(x: str) -> str:
-    return 'n' + DASH_CHAR + x
+    return (x * 2) + DASH_CHAR + 'n'
 
 
 class PairsDataTyping:
@@ -96,20 +96,8 @@ class PairsDataTyping:
         ('ළ', 'lh'),
         ('ෆ', 'f'),
         # conjunct/complex
-        ('ක්‍ර', 'kr'),
         ('ක්‍ව', f'k{DASH_CHAR}v'),
         ('ක්‍ෂ', f'k{DASH_CHAR}x'),
-        ('ඛ්‍ය', 'khy'),
-        ('ජ්‍ය', 'jy'),
-        ('ත්‍ය', 'ty'),
-        ('ත්‍ර', 'tr'),
-        ('ද්‍ය', 'dy'),
-        ('ද්‍ර', 'dr'),
-        ('න්‍ය', 'ny'),
-        ('ප්‍ර', 'pr'),
-        ('ම්‍ය', 'my'),
-        ('ව්‍ය', 'vy'),
-        ('ශ්‍ර', 'shr'),
     ]
 
     DIACRITIC_PAIRS = [
@@ -141,10 +129,8 @@ class PairsDataTyping:
     ]
 
     CONSONANTS_PLUS_DIACRITIC_PAIRS = [
-        ('ඍ', 'sru'),
         ('කෘ', 'kru'),
         ('කෲ', 'kruu'),
-        ('දෟ', 'dru'),
         ('පෘ', 'pru'),
         ('බ්‍රි', 'bri'),
     ]
