@@ -29,8 +29,17 @@ class Lang:
                     i_dst,
                 )
 
-        return text[0] + Lang._generic_transliterate(
-            text[1:],
-            i_src,
-            i_dst,
-        )
+        i_offset = 0
+        unique_char_str = Pairs.get_unique_char_str(i_src)
+        while True:
+            if i_offset >= len(text):
+                return text
+
+            if text[i_offset] in unique_char_str:
+                return text[:i_offset] + Lang._generic_transliterate(
+                    text[i_offset:],
+                    i_src,
+                    i_dst,
+                )
+
+            i_offset += 1

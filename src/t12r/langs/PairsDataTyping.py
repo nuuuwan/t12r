@@ -1,5 +1,7 @@
 from functools import cache
 
+DASH_CHAR = '~'
+
 
 @cache
 def long(x: str) -> str:
@@ -16,12 +18,12 @@ def nasal(x: str) -> str:
     if x == '':
         return 'n'
 
-    return x + '-n'
+    return x + DASH_CHAR + 'n'
 
 
 @cache
 def prenasal(x: str) -> str:
-    return 'n-' + x
+    return 'n' + DASH_CHAR + x
 
 
 class PairsDataTyping:
@@ -50,7 +52,7 @@ class PairsDataTyping:
         ('ඛ', aspirate('k')),
         ('ග', 'g'),
         ('ඝ', aspirate('g')),
-        ('ඞ', nasal('g-')),
+        ('ඞ', nasal(f'g{DASH_CHAR}')),
         ('ඟ', prenasal('g')),
         #
         ('ච', 'c'),
@@ -80,7 +82,7 @@ class PairsDataTyping:
         ('බ', 'b'),
         ('භ', aspirate('b')),
         ('ම', 'm'),  # nasal
-        ('ඹ', 'm-b'),  # prenasal
+        ('ඹ', f'm{DASH_CHAR}b'),  # prenasal
         #
         ('ය', 'y'),
         ('ර', 'r'),
@@ -94,8 +96,8 @@ class PairsDataTyping:
         ('ෆ', 'f'),
         # conjunct/complex
         ('ක්‍ර', 'kr'),
-        ('ක්‍ව', 'k-v'),
-        ('ක්‍ෂ', 'k-x'),
+        ('ක්‍ව', f'k{DASH_CHAR}v'),
+        ('ක්‍ෂ', f'k{DASH_CHAR}x'),
         ('ඛ්‍ය', 'khy'),
         ('ජ්‍ය', 'jy'),
         ('ත්‍ය', 'ty'),

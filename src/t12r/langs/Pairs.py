@@ -40,3 +40,12 @@ class Pairs(PairsDataTyping):
             key=lambda x: (-len(x[0]), x[0]),
         )
         return pairs
+
+    @staticmethod
+    @cache
+    def get_unique_char_str(i_src: int) -> str:
+        pairs = Pairs.build_pairs()
+        char_str = ''.join([pair[i_src] for pair in pairs])
+        unique_char_str = ''.join(sorted(list(set(char_str))))
+        print(unique_char_str)
+        return unique_char_str
