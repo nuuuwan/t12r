@@ -1,6 +1,6 @@
 import os
 
-from utils import File
+from utils import File, Console
 
 from t12r import Sinhala
 
@@ -20,7 +20,7 @@ def main():
 
         print()
         for line in lines:
-            print(line)
+            print(Console.note(line))
         print()
 
         File(temp_path).write_lines(lines)
