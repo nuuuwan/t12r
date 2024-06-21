@@ -4,8 +4,6 @@ import re
 
 from utils import File, Log
 
-from t12r.langs.Diff import Diff
-
 log = Log('WikiBenchmark')
 
 
@@ -44,7 +42,7 @@ class WikiBenchmark:
 
         is_unambiguous = text_si == text_si2
         if not is_unambiguous:
-            print(Diff(text_si, text_si2))
+
             raise Exception('Unambiguous transliteration failed')
 
         n_text_si = len(text_si)
