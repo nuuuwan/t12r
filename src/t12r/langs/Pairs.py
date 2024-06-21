@@ -2,6 +2,7 @@ from functools import cache
 
 from utils import Log
 
+# from t12r.langs.PairsDataFormal import PairsDataFormal
 from t12r.langs.PairsDataTyping import PairsDataTyping
 
 log = Log('Pairs')
