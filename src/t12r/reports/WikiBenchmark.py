@@ -17,8 +17,6 @@ class WikiBenchmark:
         self.func_transliterate = func_transliterate
         self.func_inverse_transliterate = func_inverse_transliterate
 
-
-
     @property
     def file_names(self) -> list[str]:
         return [
