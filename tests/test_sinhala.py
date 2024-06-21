@@ -16,6 +16,15 @@ class TestSinhala(unittest.TestCase):
                 text_si2 = SI.inverse_transliterate(text_en)
                 text_en_ascii = text_en.encode("ascii", "ignore").decode()
 
+                # print('-' * 40)
+                # print()
+                # print(text_si)
+                # print()
+                # print(text_en)
+                # print()
+                # print(text_si2)
+                # print()
+
                 # check if the transliteration is ASCII
                 self.assertEqual(text_en, text_en_ascii)
 

@@ -11,6 +11,19 @@ def aspirate(x: str) -> str:
     return x + 'h'
 
 
+@cache
+def nasal(x: str) -> str:
+    if x == '':
+        return 'n'
+
+    return x + '-n'
+
+
+@cache
+def prenasal(x: str) -> str:
+    return 'n-' + x
+
+
 class PairsDataTyping:
     VOWEL_PAIRS = [
         ('අ', 'a'),
@@ -37,37 +50,37 @@ class PairsDataTyping:
         ('ඛ', aspirate('k')),
         ('ග', 'g'),
         ('ඝ', aspirate('g')),
-        ('ඞ', 'gn'),
-        ('ඟ', 'ng'),
+        ('ඞ', nasal('g-')),
+        ('ඟ', prenasal('g')),
         #
         ('ච', 'c'),
         ('ඡ', aspirate('c')),
         ('ජ', 'j'),
         ('ඣ', aspirate('j')),
-        ('ඤ', 'jn'),
+        ('ඤ', nasal('j')),
         ('ඥ', 'jhn'),
-        ('ඦ', 'nj'),
+        ('ඦ', prenasal('j')),
         #
         ('ට', 'q'),
         ('ඨ', aspirate('q')),
         ('ඩ', 'z'),
         ('ඪ', aspirate('z')),
-        ('ණ', 'nh'),
-        ('ඬ', 'nz'),
+        ('ණ', nasal('h')),
+        ('ඬ', prenasal('z')),
         #
         ('ත', 't'),
         ('ථ', aspirate('t')),
         ('ද', 'd'),
         ('ධ', aspirate('d')),
-        ('න', 'n'),
-        ('ඳ', 'nd'),
+        ('න', nasal('')),
+        ('ඳ', prenasal('d')),
         #
         ('ප', 'p'),
         ('ඵ', aspirate('p')),
         ('බ', 'b'),
         ('භ', aspirate('b')),
-        ('ම', 'm'),
-        ('ඹ', 'mb'),
+        ('ම', 'm'),  # nasal
+        ('ඹ', 'm-b'),  # prenasal
         #
         ('ය', 'y'),
         ('ර', 'r'),
@@ -81,9 +94,8 @@ class PairsDataTyping:
         ('ෆ', 'f'),
         # conjunct/complex
         ('ක්‍ර', 'kr'),
-        ('ක්‍ව', 'kv'),
-        ('ක්‍ව', 'kw'),
-        ('ක්‍ෂ', 'kx'),
+        ('ක්‍ව', 'k-v'),
+        ('ක්‍ෂ', 'k-x'),
         ('ඛ්‍ය', 'khy'),
         ('ජ්‍ය', 'jy'),
         ('ත්‍ය', 'ty'),
@@ -99,7 +111,7 @@ class PairsDataTyping:
 
     DIACRITIC_PAIRS = [
         #
-        ('්', '-'),
+        ('්', ''),
         ('ා', 'aa'),
         ('ැ', 'ae'),
         ('ෑ', 'aae'),
