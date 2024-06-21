@@ -1,11 +1,18 @@
 import os
+
 from utils import File, Log
 
 log = Log('WikiBenchmark')
 
+
 class WikiBenchmark:
     DIR_WIKI_PAGES = os.path.join('data', 'wiki-pages')
-    def __init__(self, func_transliterate: callable, func_inverse_transliterate: callable):
+
+    def __init__(
+        self,
+        func_transliterate: callable,
+        func_inverse_transliterate: callable,
+    ):
         self.func_transliterate = func_transliterate
         self.func_inverse_transliterate
 
@@ -22,7 +29,6 @@ class WikiBenchmark:
 
             is_ascii = text_en == text_en_ascii
             is_unambiguous = text_si == text_si2
-
 
             info = dict(
                 file_name=file_name,
