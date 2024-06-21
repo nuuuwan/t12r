@@ -3,19 +3,19 @@ from functools import cache
 DASH_CHAR = ''
 NO_VOWEL_CHAR = ''
 ASPIRATE_CHAR = 'h'
-LONG_CHAR = '+'
-
-
-@cache
-def long(x: str) -> str:
-    assert x
-    return x + LONG_CHAR
+LONG_CHAR = '-'
 
 
 @cache
 def bracket(x):
     assert x
     return f'({x})'
+
+
+@cache
+def long(x: str) -> str:
+    assert x
+    return x + LONG_CHAR
 
 
 @cache
@@ -59,8 +59,8 @@ class PairsDataTyping:
         ('ඕ', long('o')),
         ('ඖ', 'au'),
         #
-        ('අං', '(an)'),
-        ('අඃ', '(ah)'),
+        ('අං', bracket('an')),
+        ('අඃ', bracket('ah')),
     ]
     CONSONANTS_PAIRS = [
         ('ක', 'k'),
@@ -82,7 +82,7 @@ class PairsDataTyping:
         ('ඨ', aspirate('q')),
         ('ඩ', 'z'),
         ('ඪ', aspirate('z')),
-        ('ණ', upper('n')),  # nasal
+        ('ණ', 'w'),  # nasal
         ('ඬ', prenasal('z')),
         #
         ('ත', 't'),
@@ -97,7 +97,7 @@ class PairsDataTyping:
         ('බ', 'b'),
         ('භ', aspirate('b')),
         ('ම', 'm'),  # nasal
-        ('ඹ', '(mb)'),  # prenasal
+        ('ඹ', bracket('mb')),  # prenasal
         #
         ('ය', 'y'),
         ('ර', 'r'),
@@ -110,8 +110,9 @@ class PairsDataTyping:
         ('ළ', upper('l')),
         ('ෆ', 'f'),
         # conjunct/complex
-        ('ක්‍ව', '(kv)'),
-        ('ක්‍ෂ', '(kx)'),
+        ('ක්‍ව', bracket('kv')),
+        ('ක්‍ෂ', bracket('kx')),
+        ('ශ්\u200dර', bracket('shr')),
     ]
 
     DIACRITIC_PAIRS = [
@@ -132,15 +133,10 @@ class PairsDataTyping:
         ('ෝ', long('o')),
         ('ෞ', 'au'),
         #
-        ('ෘ', '(ru)'),
+        ('ෘ', bracket('ru')),
         #
-        ('ං', '(an)'),
-        ('ඃ', '(ah)'),
+        ('ං', bracket('an')),
+        ('ඃ', bracket('ah')),
     ]
 
-    CONSONANTS_PLUS_DIACRITIC_PAIRS = [
-        ('කෘ', '(kru)'),
-        ('කෲ', '(kruu)'),
-        ('පෘ', '(pru)'),
-        ('බ්‍රි', '(bri)'),
-    ]
+    CONSONANTS_PLUS_DIACRITIC_PAIRS = []

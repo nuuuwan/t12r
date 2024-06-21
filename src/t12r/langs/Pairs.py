@@ -37,7 +37,11 @@ class Pairs(PairsDataTyping):
     @cache
     def build_pairs() -> list[tuple[str, str]]:
         pairs = []
-        pairs.extend([(pair[0], ' ' + pair[1]) for pair in Pairs.VOWEL_PAIRS])
+        pairs.extend([(pair[0], ':' + pair[1]) for pair in Pairs.VOWEL_PAIRS])
+        pairs.extend(
+            [(' ' + pair[0], ' ' + pair[1]) for pair in Pairs.VOWEL_PAIRS]
+        )
+
         pairs.extend(Pairs.CONSONANTS_PLUS_DIACRITIC_PAIRS)
         pairs.extend(Pairs.get_consonant_diacritic_pairs())
 
