@@ -42,7 +42,6 @@ class WikiBenchmark:
 
         is_unambiguous = text_si == text_si2
         if not is_unambiguous:
-
             raise Exception('Unambiguous transliteration failed')
 
         n_text_si = len(text_si)

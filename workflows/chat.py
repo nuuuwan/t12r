@@ -1,12 +1,13 @@
 import os
-from utils import Console, File
+
+from utils import File
 
 from t12r import Sinhala
 
 
 def main():
     s = Sinhala()
-    temp_path =  os.path.join(os.environ['DIR_DESKTOP'], 't12r.chat.txt')
+    temp_path = os.path.join(os.environ['DIR_DESKTOP'], 't12r.chat.txt')
     lines = []
     while True:
         print('> ', end='')
@@ -24,6 +25,7 @@ def main():
 
         File(temp_path).write_lines(lines)
     os.startfile(temp_path)
+
 
 if __name__ == "__main__":
     main()
