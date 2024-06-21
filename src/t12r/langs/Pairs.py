@@ -1,6 +1,6 @@
-def sorted_len(x_list):
-    return sorted(x_list, key=lambda x: (-len(x), x))
+from utils import Log
 
+log = Log('Pairs')
 
 # References
 # - https://en.wikipedia.org/wiki/Sinhala_script
@@ -9,7 +9,7 @@ def sorted_len(x_list):
 
 # Unused:
 # - w
-class SinhalaEnglishData:
+class Pairs:
     CONSONANTS_PAIRS = [
         ('ක', 'k'),
         ('ඛ', 'kh'),
@@ -58,9 +58,6 @@ class SinhalaEnglishData:
         ('ළ', 'lh'),
         ('ෆ', 'f'),
         # conjunct/complex
-        ('ඍ', 'sru'),
-        ('කෘ', 'kru'),
-        ('කෲ', 'kruu'),
         ('ක්‍ර', 'kr'),
         ('ක්‍ව', 'kv'),
         ('ක්‍ව', 'kw'),
@@ -69,21 +66,28 @@ class SinhalaEnglishData:
         ('ජ්‍ය', 'jy'),
         ('ත්‍ය', 'ty'),
         ('ත්‍ර', 'tr'),
-        ('දෟ', 'dru'),
         ('ද්‍ය', 'dy'),
-        ('ද්‍ර', 'dra'),
+        ('ද්‍ර', 'dr'),
         ('න්‍ය', 'ny'),
-        ('පෘ', 'pru'),
         ('ප්‍ර', 'pr'),
-        ('බ්‍රි', 'bri'),
         ('ම්‍ය', 'my'),
         ('ව්‍ය', 'vy'),
         ('ශ්‍ර', 'shr'),
     ]
+
+    CONSONANTS_PLUS_DIACRITIC_PAIRS = [
+        ('ඍ', 'sru'),
+        ('කෘ', 'kru'),
+        ('කෲ', 'kruu'),
+        ('දෟ', 'dru'),
+        ('පෘ', 'pru'),
+        ('බ්‍රි', 'bri'),
+    ]
+
     DIACRITIC_PAIRS = [
         #
-        ('්', ''),
-        (None, 'a'),
+        ('්', '-'),
+        # ('$', 'a'),
         ('ා', 'aa'),
         ('ැ', 'ae'),
         ('ෑ', 'aae'),
@@ -130,43 +134,28 @@ class SinhalaEnglishData:
         ('අඃ', 'ak'),
     ]
 
-    SINHALA_CONSONANTS = sorted_len([pair[0] for pair in CONSONANTS_PAIRS])
-    SINHALA_VOWELS = sorted_len([pair[0] for pair in VOWEL_PAIRS])
-    SINHALA_DIACRITICS = sorted_len(
-        [pair[0] for pair in DIACRITIC_PAIRS if pair[0]]
-    )
+    @staticmethod
+    def build_pairs():
+        pairs = []
+        pairs.extend(Pairs.VOWEL_PAIRS)
 
-    SINHALA_ALL_UNICODE = (
-        ''.join(
-            [
-                c
-                for c in SINHALA_CONSONANTS
-                + SINHALA_VOWELS
-                + SINHALA_DIACRITICS
-                if c
-            ]
-        )
-        + '\u200d'
-    )
+        for si_c, en_c in Pairs.CONSONANTS_PAIRS:
+            pairs.append((si_c, en_c + 'a'))
+            for si_d, en_d in Pairs.DIACRITIC_PAIRS:
+                pairs.append((si_c + si_d, en_c + en_d))
 
-    SINHALA_TO_ENGLISH_CONSONANT = dict(CONSONANTS_PAIRS)
-    SINHALA_TO_ENGLISH_VOWEL = dict(VOWEL_PAIRS)
-    SINHALA_TO_ENGLISH_DIACRITIC = dict(DIACRITIC_PAIRS)
+        n = len(pairs)
+        log.info(f'Generated {n} pairs.')
 
-    ENGLISH_CONSONANTS = sorted_len([pair[1] for pair in CONSONANTS_PAIRS])
-    ENGLISH_VOWELS = sorted_len([pair[1] for pair in VOWEL_PAIRS])
-    ENGLISH_DIACRITICS = sorted_len([pair[1] for pair in DIACRITIC_PAIRS])
+        pairs = sorted(pairs, key=lambda pair: (-len(pair[0]), pair[0]))
 
-    ENGLISH_TO_SINHALA_CONSONANT = {
-        v: k for k, v in SINHALA_TO_ENGLISH_CONSONANT.items()
-    }
-    ENGLISH_TO_SINHALA_VOWEL = {
-        v: k for k, v in SINHALA_TO_ENGLISH_VOWEL.items()
-    }
-    ENGLISH_TO_SINHALA_DIACRITIC = {
-        v: k for k, v in SINHALA_TO_ENGLISH_DIACRITIC.items()
-    }
+        return pairs
+    
+    
+Pairs.PAIRS = Pairs.build_pairs()
 
 
 if __name__ == "__main__":
-    print(SinhalaEnglishData.SINHALA_CONSONANTS)
+    pairs = Pairs.PAIRS
+    print(pairs[:10])
+    print(pairs[-10:])

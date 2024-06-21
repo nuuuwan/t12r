@@ -39,6 +39,7 @@ class TestData:
     WORD_LIST = read_data('si-word-list')
 
     SI_LINES_SOURCES = [
+        'short_examples',
         'national_anthem',
         'sri_lanka',
         'sri_lanka_history',

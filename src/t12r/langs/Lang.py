@@ -1,7 +1,5 @@
 from utils import Log
 
-from t12r.core import Token
-
 log = Log('Lang')
 
 
@@ -10,13 +8,18 @@ class Lang:
         self.iso_code = iso_code
         self.name = name
 
-    def to_tokens(self, text: str) -> list[Token]:
-        raise NotImplementedError
+    @staticmethod
+    def _generic_transliterate(
+        text: str, pairs: list[tuple[str, str]]
+    ) -> str:
+        if not text:
+            return ''
 
-    def transliterate(self, text: str) -> str:
-        token_list = self.to_tokens(text)
-        return Token.to_str(token_list)
+        for before, after in pairs:
+            if text.startswith(before):
+                return after + Lang._generic_transliterate(
+                    text[len(before):],
+                    pairs,
+                )
 
-    def inverse_transliterate(self, text: str) -> str:
-        token_list = Token.from_str(text)
-        return self.from_tokens(token_list)
+        return text[0] + Lang._generic_transliterate(text[1:], pairs)

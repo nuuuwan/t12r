@@ -1,5 +1,5 @@
 # t12r.langs (auto generate by build_inits.py)
 
 from t12r.langs.Lang import Lang
+from t12r.langs.Pairs import Pairs
 from t12r.langs.Sinhala import Sinhala
-from t12r.langs.SinhalaEnglishData import SinhalaEnglishData
