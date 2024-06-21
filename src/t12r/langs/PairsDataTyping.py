@@ -1,30 +1,44 @@
 from functools import cache
 
 DASH_CHAR = ''
-NO_VOWEL_CHAR = ':'
+NO_VOWEL_CHAR = ''
+ASPIRATE_CHAR = 'h'
+LONG_CHAR = '+'
 
 
 @cache
 def long(x: str) -> str:
-    return x * 2
+    assert x
+    return x + LONG_CHAR
+
+
+@cache
+def bracket(x):
+    assert x
+    return f'({x})'
 
 
 @cache
 def aspirate(x: str) -> str:
-    return x + 'h'
+    assert x
+    return bracket(x + ASPIRATE_CHAR)
+
+
+@cache
+def upper(x: str) -> str:
+    return aspirate(x)
 
 
 @cache
 def nasal(x: str) -> str:
-    if x == '':
-        return 'n'
-
-    return x + DASH_CHAR + 'n'
+    assert x
+    return bracket(x + 'n')
 
 
 @cache
 def prenasal(x: str) -> str:
-    return (x * 2) + DASH_CHAR + 'n'
+    assert x
+    return bracket('n' + x)
 
 
 class PairsDataTyping:
@@ -45,8 +59,8 @@ class PairsDataTyping:
         ('ඕ', long('o')),
         ('ඖ', 'au'),
         #
-        ('අං', 'ahn'),
-        ('අඃ', 'ahh'),
+        ('අං', '(an)'),
+        ('අඃ', '(ah)'),
     ]
     CONSONANTS_PAIRS = [
         ('ක', 'k'),
@@ -68,7 +82,7 @@ class PairsDataTyping:
         ('ඨ', aspirate('q')),
         ('ඩ', 'z'),
         ('ඪ', aspirate('z')),
-        ('ණ', 'w'),  # nasal
+        ('ණ', upper('n')),  # nasal
         ('ඬ', prenasal('z')),
         #
         ('ත', 't'),
@@ -83,21 +97,21 @@ class PairsDataTyping:
         ('බ', 'b'),
         ('භ', aspirate('b')),
         ('ම', 'm'),  # nasal
-        ('ඹ', f'm{DASH_CHAR}b'),  # prenasal
+        ('ඹ', '(mb)'),  # prenasal
         #
         ('ය', 'y'),
         ('ර', 'r'),
         ('ල', 'l'),
         ('ව', 'v'),
-        ('ශ', 'sh'),
+        ('ශ', upper('s')),
         ('ෂ', 'x'),
         ('ස', 's'),
         ('හ', 'h'),
-        ('ළ', 'lh'),
+        ('ළ', upper('l')),
         ('ෆ', 'f'),
         # conjunct/complex
-        ('ක්‍ව', f'k{DASH_CHAR}v'),
-        ('ක්‍ෂ', f'k{DASH_CHAR}x'),
+        ('ක්‍ව', '(kv)'),
+        ('ක්‍ෂ', '(kx)'),
     ]
 
     DIACRITIC_PAIRS = [
@@ -118,19 +132,15 @@ class PairsDataTyping:
         ('ෝ', long('o')),
         ('ෞ', 'au'),
         #
-        ('ෘ', 'ru'),
+        ('ෘ', '(ru)'),
         #
-        ('ං', 'ahn'),
-        ('ඃ', 'ahh'),
-        # HACK
-        ('ාං', 'aang'),
-        ('ිං', 'ing'),
-        ('ෙං', 'eng'),
+        ('ං', '(an)'),
+        ('ඃ', '(ah)'),
     ]
 
     CONSONANTS_PLUS_DIACRITIC_PAIRS = [
-        ('කෘ', 'kru'),
-        ('කෲ', 'kruu'),
-        ('පෘ', 'pru'),
-        ('බ්‍රි', 'bri'),
+        ('කෘ', '(kru)'),
+        ('කෲ', '(kruu)'),
+        ('පෘ', '(pru)'),
+        ('බ්‍රි', '(bri)'),
     ]

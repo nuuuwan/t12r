@@ -67,8 +67,8 @@ class PairsDataFormal:
         ('ළ', 'ḷ'),
         ('ෆ', 'f'),
         # conjunct/complex
-        ('ක්‍ව', f'kv'),
-        ('ක්‍ෂ', f'kx'),
+        ('ක්‍ව', 'kv'),
+        ('ක්‍ෂ', 'kx'),
     ]
 
     DIACRITIC_PAIRS = [
