@@ -12,34 +12,30 @@ class Lang:
 
     @staticmethod
     def _generic_transliterate(
-        text: str,
+        text_all: str,
         i_src: int,
         i_dst: int,
     ) -> str:
-        if len(text) == 0:
-            return ''
-
         pairs = Pairs.get_pairs(i_src, i_dst)
-        for pair in pairs:
-            text_src, text_dst = pair
-            if text.startswith(text_src):
-                return text_dst + Lang._generic_transliterate(
-                    text[len(text_src):],
-                    i_src,
-                    i_dst,
-                )
 
+        text_output = ''
+        n = len(text_all)
         i_offset = 0
-        unique_char_str = Pairs.get_unique_char_str(i_src)
-        while True:
-            if i_offset >= len(text):
-                return text
+        while i_offset <= n - 1:
+            text = text_all[i_offset:]
 
-            if text[i_offset] in unique_char_str:
-                return text[:i_offset] + Lang._generic_transliterate(
-                    text[i_offset:],
-                    i_src,
-                    i_dst,
-                )
+            found_match = False
+            for pair in pairs:
+                text_src, text_dst = pair
+                if text.startswith(text_src):
+                    text_output += text_dst
+                    i_offset += len(text_src)
+                    found_match = True
+                    break
+            if found_match:
+                continue
 
+            text_output += text[0]
             i_offset += 1
+
+        return text_output

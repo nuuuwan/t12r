@@ -1,6 +1,7 @@
 from functools import cache
 
 DASH_CHAR = '~'
+NO_VOWEL_CHAR = ''
 
 
 @cache
@@ -67,7 +68,7 @@ class PairsDataTyping:
         ('ඨ', aspirate('q')),
         ('ඩ', 'z'),
         ('ඪ', aspirate('z')),
-        ('ණ', nasal('h')),
+        ('ණ', nasal('z')),
         ('ඬ', prenasal('z')),
         #
         ('ත', 't'),
@@ -113,7 +114,7 @@ class PairsDataTyping:
 
     DIACRITIC_PAIRS = [
         #
-        ('්', ''),
+        ('්', NO_VOWEL_CHAR),
         ('ා', 'aa'),
         ('ැ', 'ae'),
         ('ෑ', 'aae'),
