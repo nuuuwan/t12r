@@ -1,7 +1,7 @@
 from functools import cache
 
 DASH_CHAR = ''
-NO_VOWEL_CHAR = 'w'
+NO_VOWEL_CHAR = ':'
 
 
 @cache
@@ -68,14 +68,14 @@ class PairsDataTyping:
         ('ඨ', aspirate('q')),
         ('ඩ', 'z'),
         ('ඪ', aspirate('z')),
-        ('ණ', nasal('z')),
+        ('ණ', 'w'),  # nasal
         ('ඬ', prenasal('z')),
         #
         ('ත', 't'),
         ('ථ', aspirate('t')),
         ('ද', 'd'),
         ('ධ', aspirate('d')),
-        ('න', nasal('')),
+        ('න', 'n'),  # nasal
         ('ඳ', prenasal('d')),
         #
         ('ප', 'p'),
@@ -103,25 +103,25 @@ class PairsDataTyping:
     DIACRITIC_PAIRS = [
         #
         ('්', NO_VOWEL_CHAR),
-        ('ා', 'aa'),
+        ('ා', long('a')),
         ('ැ', 'ae'),
-        ('ෑ', 'aae'),
+        ('ෑ', long('ae')),
         ('ි', 'i'),
-        ('ී', 'ii'),
+        ('ී', long('i')),
         ('ු', 'u'),
-        ('ූ', 'uu'),
+        ('ූ', long('u')),
         #
         ('ෙ', 'e'),
-        ('ේ', 'ee'),
+        ('ේ', long('e')),
         ('ෛ', 'ai'),
         ('ො', 'o'),
-        ('ෝ', 'oo'),
+        ('ෝ', long('o')),
         ('ෞ', 'au'),
         #
         ('ෘ', 'ru'),
         #
-        ('ං', 'angg'),
-        ('ඃ', 'akk'),
+        ('ං', 'ahn'),
+        ('ඃ', 'ahh'),
         # HACK
         ('ාං', 'aang'),
         ('ිං', 'ing'),

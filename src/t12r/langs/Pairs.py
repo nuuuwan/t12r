@@ -6,7 +6,7 @@ from utils import Log
 from t12r.langs.PairsDataTyping import PairsDataTyping
 
 log = Log('Pairs')
-VOWEL_CHAR = 'w'
+VOWEL_CHAR = ':'
 
 
 # class Pairs(PairsDataFormal):

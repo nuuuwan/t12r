@@ -26,9 +26,9 @@ class TestPairs(unittest.TestCase):
         unique_char_str_en = Pairs.get_unique_char_str(1)
         self.assertEqual(
             unique_char_str_en,
-            'abcdefghijklmnopqrstuvwxyz',
+            ':abcdefghijklmnopqrstuvwxyz',
         )
         self.assertEqual(
             len(unique_char_str_en),
-            26,
+            27,
         )
