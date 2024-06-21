@@ -1,3 +1,5 @@
+from functools import cache
+
 from utils import Log
 
 log = Log('Pairs')
@@ -10,6 +12,26 @@ log = Log('Pairs')
 # Unused:
 # - w
 class Pairs:
+    VOWEL_PAIRS = [
+        ('අ', 'a'),
+        ('ආ', 'aa'),
+        ('ඇ', 'ae'),
+        ('ඈ', 'aae'),
+        ('ඉ', 'i'),
+        ('ඊ', 'ii'),
+        ('උ', 'u'),
+        ('ඌ', 'uu'),
+        #
+        ('එ', 'e'),
+        ('ඒ', 'ee'),
+        ('ඓ', 'ai'),
+        ('ඔ', 'o'),
+        ('ඕ', 'oo'),
+        ('ඖ', 'au'),
+        #
+        ('අං', 'ang'),
+        ('අඃ', 'ak'),
+    ]
     CONSONANTS_PAIRS = [
         ('ක', 'k'),
         ('ඛ', 'kh'),
@@ -75,19 +97,9 @@ class Pairs:
         ('ශ්‍ර', 'shr'),
     ]
 
-    CONSONANTS_PLUS_DIACRITIC_PAIRS = [
-        ('ඍ', 'sru'),
-        ('කෘ', 'kru'),
-        ('කෲ', 'kruu'),
-        ('දෟ', 'dru'),
-        ('පෘ', 'pru'),
-        ('බ්‍රි', 'bri'),
-    ]
-
     DIACRITIC_PAIRS = [
         #
         ('්', '-'),
-        # ('$', 'a'),
         ('ා', 'aa'),
         ('ැ', 'ae'),
         ('ෑ', 'aae'),
@@ -105,57 +117,51 @@ class Pairs:
         #
         ('ෘ', 'ru'),
         #
-        ('ං', 'ang'),
-        ('ඃ', 'ak'),
+        ('ං', 'angg'),
+        ('ඃ', 'akk'),
         # HACK
         ('ාං', 'aang'),
         ('ිං', 'ing'),
         ('ෙං', 'eng'),
     ]
 
-    VOWEL_PAIRS = [
-        ('අ', 'a'),
-        ('ආ', 'aa'),
-        ('ඇ', 'ae'),
-        ('ඈ', 'aae'),
-        ('ඉ', 'i'),
-        ('ඊ', 'ii'),
-        ('උ', 'u'),
-        ('ඌ', 'uu'),
-        #
-        ('එ', 'e'),
-        ('ඒ', 'ee'),
-        ('ඓ', 'ai'),
-        ('ඔ', 'o'),
-        ('ඕ', 'oo'),
-        ('ඖ', 'au'),
-        #
-        ('අං', 'ang'),
-        ('අඃ', 'ak'),
+    CONSONANTS_PLUS_DIACRITIC_PAIRS = [
+        ('ඍ', 'sru'),
+        ('කෘ', 'kru'),
+        ('කෲ', 'kruu'),
+        ('දෟ', 'dru'),
+        ('පෘ', 'pru'),
+        ('බ්‍රි', 'bri'),
     ]
 
     @staticmethod
-    def build_pairs():
+    @cache
+    def get_consonant_diacritic_pairs():
         pairs = []
-        pairs.extend(Pairs.VOWEL_PAIRS)
-
         for si_c, en_c in Pairs.CONSONANTS_PAIRS:
             pairs.append((si_c, en_c + 'a'))
             for si_d, en_d in Pairs.DIACRITIC_PAIRS:
                 pairs.append((si_c + si_d, en_c + en_d))
-
-        n = len(pairs)
-        log.info(f'Generated {n} pairs.')
-
-        pairs = sorted(pairs, key=lambda pair: (-len(pair[0]), pair[0]))
-
         return pairs
-    
-    
-Pairs.PAIRS = Pairs.build_pairs()
 
+    @staticmethod
+    @cache
+    def build_pairs() -> list[tuple[str, str]]:
+        pairs = []
+        pairs.extend(Pairs.VOWEL_PAIRS)
+        pairs.extend(Pairs.CONSONANTS_PLUS_DIACRITIC_PAIRS)
+        pairs.extend(Pairs.get_consonant_diacritic_pairs())
 
-if __name__ == "__main__":
-    pairs = Pairs.PAIRS
-    print(pairs[:10])
-    print(pairs[-10:])
+        log.info(f'Generated {len(pairs)} pairs.')
+        return pairs
+
+    @staticmethod
+    @cache
+    def get_pairs(i_src: int, i_dst: int) -> list[tuple[str, str]]:
+        pairs = Pairs.build_pairs()
+        pairs = [(pair[i_src], pair[i_dst]) for pair in pairs]
+        pairs = sorted(
+            pairs,
+            key=lambda x: (-len(x[0]), x[0]),
+        )
+        return pairs

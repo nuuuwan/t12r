@@ -13,15 +13,11 @@ class TestSinhala(unittest.TestCase):
                 if not text_si:
                     continue
                 text_en = SI.transliterate(text_si)
-                print('-' * 32)
-                print(text_si)
-                print('')
-                print(text_en)
-
+                text_si2 = SI.inverse_transliterate(text_en)
                 text_en_ascii = text_en.encode("ascii", "ignore").decode()
+
+                # check if the transliteration is ASCII
                 self.assertEqual(text_en, text_en_ascii)
 
-                text_si2 = SI.inverse_transliterate(text_en)
-                print('')
-                print(text_si2)
+                # check if double-inverse-transliteration is original
                 self.assertEqual(text_si, text_si2)

@@ -1,5 +1,7 @@
 from utils import Log
 
+from t12r.langs.Pairs import Pairs
+
 log = Log('Lang')
 
 
@@ -10,16 +12,25 @@ class Lang:
 
     @staticmethod
     def _generic_transliterate(
-        text: str, pairs: list[tuple[str, str]]
+        text: str,
+        i_src: int,
+        i_dst: int,
     ) -> str:
-        if not text:
+        if len(text) == 0:
             return ''
 
-        for before, after in pairs:
-            if text.startswith(before):
-                return after + Lang._generic_transliterate(
-                    text[len(before):],
-                    pairs,
+        pairs = Pairs.get_pairs(i_src, i_dst)
+        for pair in pairs:
+            text_src, text_dst = pair
+            if text.startswith(text_src):
+                return text_dst + Lang._generic_transliterate(
+                    text[len(text_src):],
+                    i_src,
+                    i_dst,
                 )
 
-        return text[0] + Lang._generic_transliterate(text[1:], pairs)
+        return text[0] + Lang._generic_transliterate(
+            text[1:],
+            i_src,
+            i_dst,
+        )
