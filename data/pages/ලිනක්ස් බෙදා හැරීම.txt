@@ -1,0 +1,1 @@
+ලිනක්ස් බෙදා හැරීම is a member of the family of Unix-like operating systems built on top of the Linux kernel. Such distributions (often called distros for short) are Operating systems including a large collection of software applications such as word processors, spreadsheets, media players, and database applications.

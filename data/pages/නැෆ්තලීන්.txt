@@ -1,0 +1,51 @@
+නැප්තලීන් සුදු පැහැයෙන් යුත්, ස්ඵටිකරූපී, ඇරෝමැටික, ඝන හයිඩ්‍රොකාබනයකි. එය නප්තලයින්, නැප්තීන්, තාර කැම්පර්, සුදු තාර, ඇල්බෝකාබන් , ඇන්ටිමයිට් ආදී නම් වලින් හැඳින්වුවද නැප්තා සමඟ පටලවා නොගත යුතුය.  
+Naphthalene (not to be confused with naphtha), also known as naphthalin, naphthaline, napthene, tar camphor, white tar, albocarbon, or antimite is a crystalline, aromatic, white, solid hydrocarbon, best known as the traditional, primary ingredient of mothballs.  It is volatile, forming a flammable vapor, and readily sublimes at room temperature, producing a characteristic odor that is detectable at concentrations as low as 0.08 ppm by mass.
+
+
+== History ==
+In 1819–1820, at least two chemists reported a white solid with a pungent odor derived from the distillation of coal tar. In 1821, John Kidd described many of this substance's properties and the means of its production, and proposed the name naphthaline, as it had been derived from a kind of naphtha (a broad term encompassing any volatile, flammable liquid hydrocarbon mixture, including coal tar).  Naphthaline's chemical formula was determined by Michael Faraday in 1826. The structure of two fused benzene rings was proposed by Emil Erlenmeyer in 1866, and confirmed by Carl Graebe three years later.
+
+
+== Structure and reactivity ==
+A naphthalene molecule is composed of two fused benzene rings.  (In organic chemistry, rings are fused if they share two or more atoms.)  Accordingly, naphthalene is classified as a benzenoid polycyclic aromatic hydrocarbon (PAH).  There are two sets of equivalent hydrogens: the alpha positions are positions 1, 4, 5, and 8 on the drawing below, and the beta positions are positions 2, 3, 6, and 7.
+Unlike highly-symmetrical aromatics, such as benzene, the carbon-carbon bonds in naphthalene are not of the same length. The bonds C1–C2, C3–C4, C5–C6 and C7–C8 are about 1.36 Å (136 pm) in length, whereas the other carbon-carbon bonds are about 1.42 Å (142 pm) long. This has been verified by x-ray diffraction, and is consistent with the valence bond model of bonding in napthalene which involves three resonance structures (as shown below); while the bonds C1–C2, C3–C4, C5–C6 and C7–C8 are double in two of the three structures, the others are double in only one.
+
+Like benzene, naphthalene can undergo electrophilic aromatic substitution. For many electrophilic aromatic substitution reactions, naphthalene is more reactive than benzene, reacting under milder conditions than does benzene. For example, whereas both benzene and naphthalene react with chlorine in the presence of a ferric chloride or aluminium chloride catalyst, naphthalene and chlorine can react to form 1-chloronaphthalene even without a catalyst. Similarly, while both benzene and naphthalene can be alkylated using Friedel-Crafts reactions, naphthalene can also be alkylated by reaction with alkenes or alcohols, with sulfuric or phosphoric acid as the catalyst.
+Two isomers are possible for mono-substituted naphthalenes, corresponding to substitution at an alpha or beta position. Usually, electrophiles attack at the alpha position. The selectivity for alpha over beta substitution can be rationalized in terms of the resonance structures of the intermediate: for the alpha substitution intermediate, seven resonance structures can be drawn, of which four preserve an aromatic ring. For beta substitution, the intermediate has only six resonance structures, and only two of these are aromatic. Sulfonation, however, gives a mixture of the "alpha" product 1-naphthalenesulfonic acid and the "beta" product 2-naphthalenesulfonic acid, with the ratio dependent on reaction conditions. The 1-isomer forms predominantly at 25 °C, and the 2-isomer at 160 °C.
+Naphthalene can be hydrogenated under high pressure with metal catalysts to give 1,2,3,4-tetrahydronaphthalene or tetralin (C10H12). Further hydrogenation yields decahydronaphthalene or decalin (C10H18).  Oxidation with chromate or permanganate, or catalytic oxidation with O2 and a vanadium catalyst, gives phthalic acid.
+
+
+== Uses ==
+Naphthalene's most familiar use is as a household fumigant, such as in mothballs (although 1,4-dichlorobenzene (or p-dichlorobenzene) is now more widely used).  In a sealed container containing naphthalene pellets, naphthalene vapors build up to levels toxic to both the adult and larval forms of many moths that attack textiles. Other fumigant uses of naphthalene include use in soil as a fumigant pesticide, in attic spaces to repel animals and insects, and in museum storage-drawers and cupboards to protect the contents from attack by insect pests.
+It is used in pyrotechnic special effects such as the generation of black smoke and simulated explosions.
+It is used to create artificial pores in the manufacture of high-porosity grinding wheels.
+In the past, naphthalene was administered orally to kill parasitic worms in livestock.
+Naphthalene vapour can also slow the onset of rust, such as the use of moth balls in a tool box.
+Naphthalene and its alkyl homologs are the major constituents of creosote.
+
+
+=== Use as a chemical intermediate ===
+Larger volumes of naphthalene are used as a chemical intermediate to produce other chemicals. The single largest use of naphthalene is the industrial production of phthalic anhydride (although more phthalic anhydride is made from o-xylene than from naphthalene). Other naphthalene-derived chemicals include alkyl naphthalene sulfonate surfactants, and the insecticide 1-naphthyl-N-methylcarbamate (carbaryl). Naphthalenes substituted with combinations of strongly electron-donating functional groups, such as alcohols and amines, and strongly electron-withdrawing groups, especially sulfonic acids, are intermediates in the preparation of many synthetic dyes. The hydrogenated naphthalenes tetrahydronaphthalene (tetralin) and decahydronaphthalene (decalin) are used as low-volatility solvents.
+Naphthalene sulfonic acids are used in the manufacture of naphthalene sulfonate polymer plasticizers which are used to produce concrete and plasterboard (wallboard or drywall). They are also used as dispersants in synthetic and natural rubbers, and as tanning agents in leather industries. Naphthalene sulfonate polymers are produced by reacting naphthalene with sulfuric acid and polymerizing this with formaldehyde, followed by neutralization with sodium hydroxide.
+Naphthalene is also used in the synthesis of 2-naphthol, and of miscellaneous chemicals and pharmaceuticals.
+
+
+== See also ==
+Decahydronaphthalene (the fully saturated analog of naphthalene)
+Naphthol
+Classic naphthalene synthesis: the Wagner-Jauregg reaction
+
+
+== References ==
+
+CRC Handbook of Chemistry and Physics 87th edition
+
+
+== External links ==
+National Pesticide Information Center - Mothballs Case Profile සංරක්ෂණය කළ පිටපත 2010-06-22 at the Wayback Machine
+Naphthalene - EPA Air Toxics Web Site
+Naphthalene (PIM 363) - mostly on toxicity of naphthalene
+Koppers Inc.[1]
+Recochem Inc.[2]
+Advanced Aromatics, L.P.[3] සංරක්ෂණය කළ පිටපත 2008-12-10 at the Wayback Machine
+සැකිල්ල:PAHs

@@ -1,0 +1,103 @@
+right
+Creative Commons licenses are several copyright licenses that allow the distribution of copyrighted works. The licenses differ by several combinations that condition the terms of distribution. They were initially released on December 16, 2002 by Creative Commons, a U.S. non-profit corporation founded in 2001.
+As of September, 2010, Creative Commons licenses have been "ported" to 53 different jurisdictions worldwide, with 8 others under development.
+
+
+== Original licenses ==
+The original set of licenses all grant the "baseline rights", such as the right to distribute the copyrighted work worldwide, without changes, at no charge. The details of each of these licenses depends on the version, and comprises a selection of four conditions:
+
+
+=== Combinations ===
+Mixing and matching these conditions produces sixteen possible combinations, of which eleven are valid Creative Commons licenses and five are not. Of the five invalid combinations, four include both the "nd" and "sa" clauses, which are mutually exclusive; and one includes none of the clauses. Of the eleven valid combinations, the five that lack the "by" clause have been retired because 98% of licensors requested Attribution, though they do remain available for reference on the website. This leaves six regularly used licenses:
+
+Attribution alone (by)
+Attribution + Noncommercial (by-nc)
+Attribution + NoDerivatives (by-nd)
+Attribution + ShareAlike (by-sa)
+Attribution + Noncommercial + NoDerivatives (by-nc-nd)
+Attribution + Noncommercial + ShareAlike (by-nc-sa)
+For example, the Creative Commons Attribution (BY) license allows one to share and remix (create derivative works), even for commercial use, so long as attribution is given.
+
+
+== Attribution ==
+Since 2004, all current licenses require attribution of the original author. The attribution must be given to "the best of [one's] ability using the information available". Generally this implies the following:
+
+Include any copyright notices (if applicable). If the work itself contains any copyright notices placed there by the copyright holder, those notices must be left intact, or reproduced in a way that is reasonable to the medium in which the work is being re-published.
+Cite the author's name, screen name, or user ID, etc. If the work is being published on the Internet, it is nice to link that name to the person's profile page, if such a page exists.
+Cite the work's title or name (if applicable), if such a thing exists. If the work is being published on the Internet, it is nice to link the name or title directly to the original work.
+Cite the specific CC license the work is under. If the work is being published on the Internet, it is nice if the license citation links to the license on the CC website.
+Mention if the work is a derivative work or adaptation, in addition to the above, one needs to identify that their work is a derivative work i.e., “This is a Finnish translation of [original work] by [author].” or “Screenplay based on [original work] by [author].”
+
+
+== Applicable works ==
+Work licensed under a Creative Commons License is governed by applicable copyright law. This allows Creative Commons licenses to be applied to all work falling under copyright, including: books, plays, movies, music, articles, photographs, blogs, and websites. Creative Commons does not recommend the use of Creative Commons licenses for software.
+However, application of a Creative Commons license may not modify the rights allowed by fair use or fair dealing or exert restrictions which violate copyright exceptions. Furthermore, Creative Commons Licenses are non-exclusive and non-revocable. Any work or copies of the work obtained under a Creative Commons license may continue to be used under that license.
+In the case of works protected by multiple Creative Common Licenses, the user may choose either.
+
+
+== Other licenses ==
+A number of additional licenses have been introduced, which are more specialized:
+
+Sampling licenses, with two options:
+Sampling Plus: parts of the work can be copied and modified for any purpose other than advertising, and the entire work can be copied for noncommercial purposes
+Noncommercial Sampling Plus: the whole work or parts of the work can be copied and modified for noncommercial purposes
+
+
+== Retired licenses ==
+Due to either disuse or criticism, a number of previously offered Creative Commons licenses have since been retired, and are no longer recommended for new works. The retired licenses include all licenses lacking the Attribution element other than CC0, as well as two licenses not allowing at least non-commercial verbatim distribution worldwide:
+
+Sampling: parts of the work can be used for any purpose other than advertising, but the whole work cannot be copied or modified
+DevNations: a Developing Nations license, which only applies to countries deemed by the World Bank as a "non-high-income economy". Full copyright restrictions apply to people in other countries.
+
+
+== Public domain tools ==
+Besides licenses, Creative Commons also offers a way to release material into the public domain through CC0, a legal tool for waiving as many rights as legally possible, worldwide. Development of CC0 began in 2007 and the tool was released in 2009.
+In 2010, Creative Commons announced its Public Domain Mark, a tool for labeling works already in the public domain. Together, CC0 and the Public Domain Mark replace the Public Domain Dedication and Certification,
+ which took a U.S.-centric approach and co-mingled distinct operations.
+In 2011, Free Software Foundation added CC0 to its free software licenses, making CC0 a recommended way of dedicating software to the public domain.
+
+
+== Partial list of projects that release contents under Creative Commons licenses ==
+Association for Progressive Communications (cc-by-sa)
+ccMixter (mostly cc-by-nc)
+Citizendium (cc-by-sa)
+The Freesound Project (Sampling Plus)
+Identi.ca (cc-by)
+knol (mostly, cc-by-sa or cc-by-nc-sa)
+Mushroom Observer (cc-by-sa or cc-by-nc-sa)
+Open Game Art (CC-By and -SA 3.0 without NC, CC0)
+Wikia (cc-by-sa, since June 2009)
+Wikinews (cc-by)
+Wikipedia (cc-by-sa, since June 2009)
+Wikitravel (cc-by-sa)
+
+
+== See also ==
+
+BSD license
+Copyleft
+Copyright
+Creative Commons
+Creative Commons jurisdiction ports
+Free content
+Free software license
+GNU General Public License
+Model release. Images of individuals used for advertising, and sometimes other commercial uses, may need those individuals' consent.
+Non-commercial educational
+Open content
+Software licensing
+Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License
+
+
+== References ==
+
+
+== External links ==
+
+Official site
+Full selection of licenses සංරක්ෂණය කළ පිටපත 2011-01-06 at the Wayback Machine
+Creative Commons Licenses Compatibility Wizard සංරක්ෂණය කළ පිටපත 2011-05-27 at the Wayback Machine
+Doctoral dissertations published under Creative Commons license සංරක්ෂණය කළ පිටපත 2009-01-16 at the Wayback Machine
+Citizen's guide to using Creative Commons licenses
+A human readable summary of version 2.5 of the Creative Commons CC-BY-SA license. (Retrieved 2010-04-10).
+Legal code of the CC-BY-SA 3.0 License.

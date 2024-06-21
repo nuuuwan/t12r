@@ -1,0 +1,117 @@
+දෙමළ අක්ෂර මාලාව (தமிழ் அரிச்சுவடி; Tamiḻ ariccuvaṭi; [t̪ɐmɨɻ ˈɐɾit͡ɕːuʋəɽi]; ) යනුවෙන් හැඳින්වෙන්නේ  an abugida script that is used by Tamils and Tamil speakers in India, Sri Lanka, Malaysia, Singapore and elsewhere to write the Tamil language, as well as to write the liturgical language Sanskrit, using consonants and diacritics not represented in the Tamil alphabet. Certain minority languages such as Saurashtra, Badaga, Irula, and Paniya are also written in the Tamil script.
+
+
+== Characteristics ==
+
+The Tamil script has 12 vowels (உயிரெழுத்து; uyireḻuttu;  "soul-letters"), 18 consonants (மெய்யெழுத்து; meyyeḻuttu;  "body-letters") and one special character, the ஃ (ஆயுத எழுத்து; āyutha eḻuttu; Tamil version of Visarga). ஃ is pronounced as "akku" or "அக்கு" and is classified in Tamil grammar as being neither a consonant nor a vowel. However, it is listed at the end of the vowel set. The script is syllabic, not alphabetic. The complete script, therefore, consists of the 31 letters in their independent form and an additional 216 combinant letters, for a total of 247 combinations (உயிர்மெய்யெழுத்து; uyirmeyyeḻuttu; "soul-body-letters") of a consonant and a vowel, a mute consonant, or a vowel alone. The combinant letters are formed by adding a vowel marker to the consonant. Some vowels require the basic shape of the consonant to be altered in a way that is specific to that vowel. Others are written by adding a vowel-specific suffix to the consonant, yet others a prefix, and still other vowels require adding both a prefix and a suffix to the consonant. In every case, the vowel marker is different from the standalone character for the vowel.
+The Tamil script is written from left to right.
+
+
+== History ==
+
+The Tamil script, like the other Brahmic scripts, is thought to have evolved from the original Brahmi script. The earliest inscriptions which are accepted examples of Tamil writing date to a time just after the Ashokan period. The script used by such inscriptions is commonly known as the Tamil-Brahmi, or "Tamili script", and differs in many ways from standard Ashokan Brahmi. For example, early Tamil-Brahmi, unlike Ashokan Brahmi, had a system to distinguish between pure consonants (m, in this example) and consonants with an inherent vowel (ma, in this example). In addition, according to Iravatham Mahadevan, early Tamil Brahmi used slightly different vowel markers, had extra characters to represent letters not found in தானாக  Sanskrit, and omitted letters for sounds not present in Tamil such as voiced consonants and aspirates. Inscriptions from the 2nd century use a later form of Tamil-Brahmi, which is substantially similar to the writing system described in the Tolkāppiyam, an ancient Tamil grammar. Most notably, they used the puḷḷi to suppress the inherent vowel. The Tamil letters thereafter evolved towards a more rounded form, and by the 5th or 6th century, they had reached a form called the early vaṭṭeḻuttu.
+The modern Tamil script does not, however, descend from that script. In the 6th century, the Pallava dynasty created a new script for Tamil, and the Grantha alphabet evolved from it, adding the Vaṭṭeḻuttu alphabet for sounds not found to write Sanskrit. Parallel to Pallava script a new script (Chola-Pallava script, which evolved to modern Tamil script) again emerged in Chola territory resembling the same glyph development like Pallava script, but it did not evolve from that. By the 8th century, the new scripts supplanted Vaṭṭeḻuttu in the Chola resp. Pallava kingdoms which lay in the north portion of the Tamil-speaking region. However, the Vaṭṭeḻuttu was still continued to be used in the southern portion of the Tamil-speaking region, in the Chera and Pandyan kingdoms until the 11th century, when the Pandyan kingdom was conquered by the Cholas.
+With the fall of Pallava kingdom, the Chola dynasty pushed the Chola-Pallava script as the de facto script. Over the next few centuries, the Chola-Pallava script evolved into the modern Tamil script. The Grantha and its parent script influenced the Tamil script notably. The use of palm leaves as the primary medium for writing led to changes in the script. The scribe had to be careful not to pierce the leaves with the stylus while writing because a leaf with a hole was more likely to tear and decay faster. As a result, the use of the puḷḷi to distinguish pure consonants became rare, with pure consonants usually being written as if the inherent vowel were present. Similarly, the vowel marker for the kuṟṟiyal ukaram, a half-rounded u which occurs at the end of some words and in the medial position in certain compound words, also fell out of use and was replaced by the marker for the simple u. The puḷḷi did not fully reappear until the introduction of printing, but the marker kuṟṟiyal ukaram never came back into use although the sound itself still exists and plays an important role in Tamil prosody.
+The forms of some of the letters were simplified in the 19th century to make the script easier to typeset. In the 20th century, the script was simplified even further in a series of reforms, which regularised the vowel markers used with consonants by eliminating special markers and most irregular forms.
+
+
+== Relationship with other Indic scripts ==
+The Tamil script differs from other Brahmi-derived scripts in a number of ways. Unlike every other Bramic script, it does not regularly represent voiced or aspirated stop consonants as these are not phonemes of the Tamil language even though voiced and fricative allophones of stops do appear in spoken Tamil. Thus the character க் k, for example, represents /[[|k]]/ but can also be pronounced /[[|ɡ]]/ or /[[|x]]/ based on the rules of Tamil grammar. A separate set of characters appears for these sounds when the Tamil script is used to write Sanskrit or other languages.
+Also unlike other Brahmi scripts, the Tamil script rarely uses typographic ligatures to represent conjunct consonants, which are far less frequent in Tamil than in other Indian languages. Where they occur, conjunct consonants are written by writing the character for the first consonant, adding the puḷḷi to suppress its inherent vowel, and then writing the character for the second consonant. There are a few exceptions, namely க்ஷ kṣa and ஸ்ரீ śrī.
+ISO 15919 is an international standard for the transliteration of Tamil and other Indic scripts into Latin characters. It uses diacritics to map the much larger set of Brahmic consonants and vowels to the Latin script. Tamil can be transliterated into English by using ISO 15919, since English uses the Latin script for writing.
+
+
+== Letters ==
+
+
+=== Basic consonants ===
+Consonants are called the "body" (mei) letters. The consonants are classified into three categories: vallinam (hard consonants), mellinam (soft consonants, including all nasals), and itayinam (medium consonants).
+There are some lexical rules for formation of words. The Tolkāppiyam describes such rules. Some examples: a word cannot end in certain consonants, and cannot begin with some consonants including r-, l- and ḻ-; there are two consonants for the dental n - which one should be used depends on whether the n occurs at the start of the word and on the letters around it. (Historically, one n was pronounced as an alveolar consonant, as is still true in Malayalam.)
+The order of the alphabet (strictly abugida) in Tamil closely matches that of the nearby languages both in location and linguistics, reflecting the common origin of their scripts from Brahmi.
+Table: Tamil consonants.
+
+
+=== Grantha consonants used in Tamil ===
+The Tamil speech has incorporated many phonemes which were not part of the Tolkāppiyam classification. The letters used to write these sounds, known as "grantha", are used as part of Tamil. These are taught from elementary school and incorporated in the Tamil Nadu Government encoding called Tamil All Character Encoding (TACE16).
+Table: Grantha consonants in Tamil.
+
+There is also the compound ஸ்ரீ (śrī), equivalent to श्री in Devanagari.
+In recent times four combinations of Tamil basic letters are generally used to depict sounds of English letters 'f', 'z', and 'x' and the 'kh' sound in Arabic/Persian. This is helpful for writing English and Arabic names and words in Tamil. The combinations are ஃப for f, ஃஜ for z, ஃஸ் for x, and ஃக் for kh. For example: asif = அசிஃப், aZaarudheen = அஃஜாருதீன், rex = ரெஃஸ், Genghis Khan = செங்கிஸ் ஃகான்.
+There has also been effort to differentiate voice and unvoiced consonants through superscripted and subscripted integers - one, two, three and four standing for the unvoiced, unvoiced aspirated, voiced, voiced aspirated, respectively - this was used to transcribe Sanskrit words in Tamil, in Sanskrit-Tamil books. For example:
+க₁ - Ka
+க₂ - Kha
+க₃ - Ga
+க₄ - Gha
+This extension of Tamil script is not yet recognized by Unicode. The place where the numbers should be placed is immediately neighbouring the root consonant character; Unicode currently renders those as கௌ₂ or க₂ௌ on possible permutations.
+
+
+=== Vowels ===
+Vowels are also called the 'life' (uyir) or 'soul' letters. Together with the consonants (mei, which are called 'body' letters), they form compound, syllabic (abugida) letters that are called 'living' letters (uyir mei, i.e. letters that have both 'body' and 'soul').
+Tamil vowels are divided into short and long (five of each type) and two diphthongs.
+
+
+==== Isolated form ====
+Table: Tamil vowels (Isolated form).
+
+
+==== Compound form ====
+Using the consonant 'k' as an example:
+
+The special letter ஃ (called akh) is the visarga. It traditionally served a purely grammatical function, but in modern times it has come to be used as a diacritic to represent foreign sounds. For example, ஃப is used for the English sound f, not found in Tamil.
+The long (nedil) vowels are about twice as long as the short (kuṟil) vowels. The diphthongs are usually pronounced about one and a half times as long as the short vowels, though some grammatical texts place them with the long (nedil) vowels.
+As can be seen in the compound form, the vowel sign can be added to the right, left or both sides of the consonants. It can also form a ligature. These rules are evolving and older use has more ligatures than modern use. What you actually see on this page depends on your font selection; for example, Code2000 will show more ligatures than Latha.
+There are proponents of script reform who want to eliminate all ligatures and let all vowel signs appear on the right side.
+Unicode encodes the character in logical order (always the consonant first), whereas legacy 8-bit encodings (such as TSCII) prefer the written order. This makes it necessary to reorder when converting from one encoding to another; it is not sufficient simply to map one set of codepoints to the other.
+
+
+==== Compound table of Tamil letters ====
+
+The following table lists vowel (uyir or life) letters across the top and consonant (mei or body) letters along the side, the combination of which gives all Tamil compound (uyirmei) letters.
+
+
+== Numerals and symbols ==
+
+Apart from the numerals (0-9), Tamil also has numerals for 10, 100 and 1000. Symbols for day, month, year, debit, credit, as above, rupee, numeral are present as well.
+
+
+== In Unicode ==
+
+The Unicode range for Tamil is U+0B80–U+0BFF. Grey areas indicate non-assigned code points. Most of the non-assigned codepoints are designated reserved because they are in the same relative position as characters assigned in other South Asian script blocks that correspond to phonemes that don't exist in the Tamil script.
+Like other South Asian scripts in Unicode, the Tamil encoding was originally derived from the ISCII standard.  Both ISCII and Unicode encode Tamil as an abugida. In an abugida, each basic character represents a consonant and default vowel.  Consonants with a different vowel or bare consonants are represented by adding a modifier character to a base character.   Each codepoint representing a similar phoneme is encoded in the same relative position in each South Asian script block in Unicode, including Tamil. Although Unicode represents Tamil as an abugida all the pure consonants (consonants with no associated vowel) and syllables in Tamil can be represented by combining multiple Unicode codepoints, as can be seen in the Unicode Tamil Syllabary below.
+In Unicode 5.1, named sequences were added for all Tamil pure consonants and syllables.  Unicode 5.1 also has a named sequence for the Tamil ligature SRI (śrī), ஶ்ரீ . The name of this sequence is TAMIL SYLLABLE SHRII, and is composed of the Unicode sequence U+0BB6 U+0BCD U+0BB0 U+0BC0.
+
+
+=== Programmatic access ===
+Tamil script can be manipulated using the Python library called open-Tamil.
+
+
+== See also ==
+Simplified Tamil script
+Tamil phonology
+Tamil Keyboard
+Tamil Braille
+Tamil letters (on Tamil Wikibooks)
+Tamil numerals
+Tamil units of measurement
+Grantha script
+Tamil bell
+
+
+== Notes ==
+
+
+== References ==
+Mahadevan, Iravatham (2003), Early Tamil Epigraphy from the Earliest Times to the Sixth Century A.D., Harvard Oriental Series, Volume 62, Cambridge: Harvard University Press,  
+Steever, Sanford B. (1996), "Tamil Writing", in Bright, William R.; Daniels, Peter B., The World's Writing Systems, New York: Oxford University Press, pp. 426–430,  
+
+
+== External links ==
+ Tamil script හා සබැඳි මාධ්‍ය විකිමාධ්‍ය කොමන්ස් හි ඇත
+
+Tamil Alphabet & Basics (PDF)
+Phonetics of spoken Tamil
+Unicode Chart - For Tamil (PDF)
+TACE 16 (PDF)
+Tamil Letters
+
+සැකිල්ල:Tamil language

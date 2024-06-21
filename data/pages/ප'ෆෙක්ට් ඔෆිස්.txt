@@ -1,0 +1,2 @@
+Perfect Office (පර්ෆෙක්ට් ඔෆිස්)  යනු Corel/Novel ආයතනය සතු මෘදුකාංග කට්ටලයකි.OpenOffice.org, MicroSoft ආයතනය සතු MicroSoft Office .IBM  ආයතනය සතු Lotus Smartsuite යන මෘදුකාංග කට්ටල මෙන්ම  මෘදුකාංග ගණනාවක් ඇති මෘදුකාංග කට්ටලයකි.  
+මෙම Perfect Office මෘදුකාංග  කට්ටලයේ ප්‍රධාන වශයෙන් ලිපි  ලේඛන සැකසීම සඳහා වන Word Processing සඳහා Word Perfect යන මෘදුකාංගය ද, පැතුරුම්පත් සඳහා Quattro Pro යන මෘදුකාංගය ද, Presentation සඳහා Presentations යන මෘදුකාංගය  ද දත්ත ගොනු සඳහා Paradoxs යන මෘදුකාංගය ද ඇත.

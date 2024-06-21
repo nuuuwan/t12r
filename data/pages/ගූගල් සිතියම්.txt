@@ -1,0 +1,1 @@
+ගූගල් සිතියම් යනු ගූගල් විසින් නිර්මාණය කරන ලද වෙබ් සිතියම්කරණ සේවාවකි. It offers satellite imagery, street maps, 360° panoramic views of streets (Street View), real-time traffic conditions (Google Traffic), and route planning for traveling by foot, car, bicycle (in beta), or public transportation.

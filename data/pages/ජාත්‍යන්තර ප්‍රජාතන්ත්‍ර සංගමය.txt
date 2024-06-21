@@ -1,0 +1,7 @@
+{{Infobox film
+| name           = එක්සත් ජාතික නිදහස් පෙරමුණ
+| image          = 
+| alt            = 
+| caption        = 
+| country        = ශ්‍රී ලංකා
+| language       = [[සිංහල]

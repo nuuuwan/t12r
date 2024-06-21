@@ -1,0 +1,27 @@
+ගොනු හුවමාරුව යනු පරිගණක ජාලයක් හෝ අන්තර්ජාලය හරහා ගොනු සම්ප්‍රේෂණය කිරීම සඳහා වූ ප්‍රජාතීය පදයකි. ජාලයක් හරහා ගොනු හුවමාරු කිරීමට බොහෝ ක්‍රම සහ ප්‍රොටෝකෝලයන් තිබේ. ගොනු හුවමාරු කිරීමේ සේවා ලබාදෙන පරිගණකයන් ගොනු සර්වරයන් ලෙස බොහෝ විට හදුන්වනු ලබයි. සේවාදායකයන්ගේ දෘෂ්ටිකෝණය අනුව උඩුගත කෙරුම හෝ බාගත කෙරුම ලෙස දත්ත හුවමාරුව හැදින්වේ.
+ගොනු හුවමාරු වර්ග 2 කි:
+
+Pull-based file transfers where the receiver initiates a file transmission request
+Push-based file transfers where the sender initiates a file transmission request.
+File transfer can take place over a variety of levels:
+
+Transparent file transfers over network file systems
+Explicit file transfers from dedicated file transfer services like FTP or HTTP
+Distributed file transfers over peer-to-peer networks like Bittorent or Gnutella
+In IBM Systems Network Architecture, LU 6.2 peer-to-peer file transfer programs such as CA, Inc.'s XCOM Data Transport
+File transfers over instant messaging or LAN messenger
+File transfers between computers and peripheral devices
+File transfers over direct modem or serial (null modem) links, such as XMODEM, YMODEM and ZMODEM.
+
+
+== ප්‍රොටොකෝල ==
+A file transfer protocol is a convention that describes how to transfer files between two computing endpoints. They are meant solely to send the stream of bits stored as a s
+ingle unit in a යරඩඑහටබ system, plus any relevant metadata such as the filename, file size and timestamp. File transfer protocols usually operate on top of a lower-level protocol in a protocol stack.  For example, the HTTP protocol operates at the topmost application layer of the TCP/IP stack, whereas XMODEM, YMODEM, and ZMODEM typically operate across RS-232 serial connections.
+
+
+== See also ==
+List of file transfer protocols
+File sharing
+USB flash drive - Security threats
+
+සැකිල්ල:Compu-network-stub

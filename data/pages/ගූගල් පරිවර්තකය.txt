@@ -1,0 +1,118 @@
+ගූගල් පරිවර්තකය යනු ගූගල් සමාගම විසින් ලියන ලද පෙළක් එක් භාෂාවකින් තවත් භාෂාවකට පරිවර්තනය කිරීම සඳහා සපයන බහුභාෂාමය සේවයකි. එය භාෂා 90 කට අනුග්‍රහය ලබාදෙයි.
+2007 වසරට පෙර අරාබි, චීන හා රුසියානු වැනි වෙනත් භාෂා පරිවර්තනයට ගූගල් පරිවර්තකය ක්‍රියාත්මක වූයේ සිස්ට්‍රන් නැමැති යාහූ! බාබෙල් ෆිෂ්, ඒඕඑල් හා යාහූ වැනි මාර්ගගත පරිවර්තන සේවා කිහිපයක්ම මගින් තවමත් භාවිතා කරන මෘදුකාංග යන්ත්‍රයක් මත ය. ඒ වෙනුවට 2007 ඔක්තෝබර් සිට, ගූගල් පරිවර්තකය සංඛ්‍යාන යාන්ත්‍රික පරිවර්තනය මූලික ගෘහස්ථ තාක්ෂණයක් භාවිත කර තිබේ.
+
+
+== සහාය දක්වන භාෂා සිංහල ==
+1 වන අදියර
+
+2 වන අදියර
+
+3 වන අදියර
+
+4 වන අදියර
+
+5 වන අදියර (2006 අප්‍රියෙල්  දියත් කරන ලදී)
+
+6 වන අදියර (2006 දෙසැම්බර්  දියත් කරන ලදී)
+
+7 වන අදියර (2007 පෙබරවාරි  දියත් කරන ලදී)
+
+8 වන අදියර (2007 ඔක්තෝබර්  දියත් කරන ලදී)
+all 25 language pairs use Google's machine translation system
+9 වන අදියර
+
+10 වන අදියර (as of this stage, translation can be done between any two languages, using English as an intermediate step, if needed) (2008 මැයි  දියත් කරන ලදී)
+
+11 වන අදියර (launched September 25, 2008)
+
+12 වන අදියර (launched January 30, 2009)
+
+13 වන අදියර (launched June 19, 2009)
+
+14 වන අදියර (launched August 24, 2009)
+
+15 වන අදියර (launched November 19, 2009)
+The Beta stage is finished. Users can now choose to have the romanization written for Chinese, Japanese, Korean, Russian, Ukrainian, Belarusian, Bulgarian, Greek, Hindi and Thai. For translations from Arabic, Persian and Hindi, the user can enter a Latin transliteration of the text and the text will be transliterated to the native script for these languages as the user is typing. The text can now be read by a text-to-speech program in English, Italian, French and German
+16 වන අදියර (launched January 30, 2010)
+Haitian Creole
+17 වන අදියර (launched April 2010)
+Speech program launched in Hindi and Spanish
+18 වන අදියර (launched May 5, 2010)
+Speech program launched in Afrikaans, Albanian, Catalan, Chinese (Mandarin), Croatian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Icelandic, Indonesian, Latvian, Macedonian, Norwegian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Swahili, Swedish, Turkish, Vietnamese and Welsh (based in eSpeak).
+19 වන අදියර (launched May 13, 2010)
+
+20 වන අදියර (launched June 2010)
+
+21 වන අදියර (launched September 2010)
+
+22 වන අදියර (launched December 2010)
+Romanization of Arabic removed.
+Spell check added.
+For some languages, Google replaced text-to-speech synthesizers from eSpeak's robot voice to native speaker's nature voice technologies made by SVOX (Chinese, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Norwegian, Polish, Portuguese, Russian, Swedish, Turkish). Also the old versions of French, German, Italian and Spanish. Latin uses the same synthesizer as Italian.
+Speech program launched in Arabic, Japanese, and Korean.
+23 වන අදියර (launched January 2011)
+Choice of different translations for a word.
+24 වන අදියර (Launched June 2011)
+5 new Indic languages (in alpha) and a transliterated input method:
+Bengali
+Gujarati
+Kannada
+Tamil
+Telugu
+25 වන අදියර (launched July 2011)
+Translation rating introduced.
+26 වන අදියර (launched January 2012)
+Dutch male voice synthesizer replaced with female.
+Elena by SVOX replaced the Slovak eSpeak voice.
+Transliteration of Yiddish added.
+27 වන අදියර (launched February 2012)
+Speech program launched in Thai.
+Esperanto added.
+28 වන අදියර (launched September 2012)
+Lao added.
+29 වන අදියර (launched October 2012)
+Transliteration of Lao added.
+(Alpha status.)
+
+30 වන අදියර (launched October 2012)
+New speech program launched in English
+31 වන අදියර (launched November 2012)
+New speech program in French, Spanish, Italian, and German
+32 වන අදියර (launched March 2013)
+Phrasebook added.
+33 වන අදියර (launched April 2013)
+Khmer added.
+34 වන අදියර (launched May 2013)
+Bosnian
+Cebuano
+Hmong
+Javanese
+Marathi
+35 වන අදියර (launched May 2013)
+16 additional languages can be used with camera-input: Bulgarian, Catalan, Danish, Estonian, Finnish, Croatian, Hungarian, Indonesian, Icelandic, Lithuanian, Latvian, Norwegian, Romanian, Slovak, Slovenian, and Swedish.
+36 වන අදියර (launched December 2013)
+Hausa
+Igbo
+Maori
+Mongolian
+Nepali
+Punjabi
+Somali
+Yoruba
+Zulu
+37 වන අදියර (launched June 2014)
+Definition of words added.
+38 වන අදියර (launched December 2014)
+Chichewa
+Kazakh
+Malagasy
+Malayalam
+Myanmar (Burmese)
+Sesotho
+සිංහල
+Sundanese
+Tajik
+Uzbek
+
+
+== මූලාශ්‍ර ==

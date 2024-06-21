@@ -1,0 +1,12 @@
+දේ මනුවෙහි හෙවත් ජ්‍යාමිතියෙහි, දෙකොනැලියක් හෙවත් විකර්ණයක් යනු නනැසියකැ (බහුඅස්‍රයකැ) හෝ polyhedronයකැ හෝ එකම දාරයේ නොවන මුදුන් දෙකක් ආඳන ඉරි කඩකි. අවිධිමත් ලෙස, ඕනෑම ඇල ඉරක් දෙකොනැලිය ලෙස හැඳින්වේ. ඉංගිරිසි diagonal යන වදන ව්‍යුත්පන්න වැ ඇත්තේ පැරැණි ගරසි διαγώνιος diagonios,  "කොනුවෙන් කොනුවට" යන්නෙනි. ස්ට්‍රාබොන් හා යුක්ලීඩ් හා විසින් රොම්බස හෝ cuboid හෝ වලැ සිරස් දෙකක් අවුණන ඉරක් හඟවනුව යෙදුණු එය පසු වැ ලතිනයට diagonus ("ඇල ඉර") ලෙස වැදැගැනිණ.
+සංගම් පාපන්දු ක්‍රීඩාවේදී දෙකොනැලි පලු සැටිය යනු පිටියේ හතරෙන් එක් කඩකැ (one of the four quadrants) ස්ථානගත වීමට විනිසුරුවන් හා සහයු විනිසුරුවන් හා භාවිතා කරන ක්‍රමයයි.
+
+
+== සටහන් ==
+
+
+== යොමු ==
+Bronson, Richard (1970), Matrix Methods: An Introduction, New York: Academic Press 
+Cullen, Charles G. (1966), Matrices and Linear Transformations, Reading: Addison-Wesley 
+Herstein, I. N. (1964), Topics In Algebra, Waltham: Blaisdell Publishing Company,  
+Nering, Evar D. (1970), Linear Algebra and Matrix Theory (2nd ed.), New York: Wiley

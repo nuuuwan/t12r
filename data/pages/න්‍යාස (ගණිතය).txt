@@ -1,0 +1,1905 @@
+ගණිතයෙහි න්‍යාසයක් යනු සංඛ්‍යා සමූහයක, සංකේතයන්හි හෝ ප්‍රකාශනයන්හි ඍජුකෝනාස්‍රාකාරව පිළියෙළකරන ලද වගුවකි. න්‍යාසයක අඩංගු තනි තනි අයිතම එහි මූලාවයව ලෙස හෝ ඇතුලත් කිරීම් ලෙස හඳුන්වනු ලබයි. මූලාවයව හයකින් සමන්විත න්‍යාසයක් සඳහා නිදසුනක් පහත දක්වා ඇත.
+
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  1
+                
+                
+                  9
+                
+                
+                  −
+                  13
+                
+              
+              
+                
+                  20
+                
+                
+                  55
+                
+                
+                  −
+                  6
+                
+              
+            
+            ]
+          
+        
+        .
+      
+    
+    {\displaystyle {\begin{bmatrix}1&9&-13\\20&55&-6\end{bmatrix}}.}
+  
+
+සමාන ප්‍රමාණයෙන් යුතු න්‍යාසයන්හි අවයව වෙන් වෙන්ව එකතු කිරීමට හෝ අඩු කිරිමට හැකියාව ඇත. න්‍යාස ගුණකිරීමේ නීතිය වඩාත් සංකීර්ණ වේ. පළමු න්‍යාසයෙහි සිරස් තීරු ගණනට දෙවෙනි න්‍යාසයෙහි තිරස් තීරු ගණන සමානම් පමණක් එම න්‍යාස දෙක ගුණ කිරීමට හැකියව ඇත. රේඛීය පරිණාමණ නිරූපනය කිරීම න්‍යාසයන්හි ප්‍රධාන භාවිතය වන අතර, f(x) = 4x ආදී රේඛීය ශ්‍රිත සාධාරණීකරණය කිරීමටද යොදාගනියි. නිදසුනක් ලෙස, ත්‍රිමාන අවකාශය තුළ දෛශික පරිවර්තනය රේඛීය පරිණාමණය වේ. R යනු පරිවර්තන න්‍යාසයක්ද v යනු අවකාශයේ ලක්ෂ්‍යයක් විස්තර කරන සිරස් තීරු දෛශිකයක්ද (එක් සිරස් තීරුවක් පමණක් ඇති න්‍යාසයක්) නම්, Rv ගුණිතය යනු එම ලක්ෂ්‍යය පරිවර්තනයෙන් පසු පිහිටීම විස්තර කරන තීරු දෛශිකයයි. න්‍යාස දෙකක ගුණිතය රේඛීය පරිණාමණ දෙකක සංයෝජනයක් නිරූපනයකරනු ලබයි. රේඛීය සමීකරණ පද්ධතියක විසඳුම් ලබා ගැනීම න්‍යාසයන්හි වෙනත් භාවිතයකි. න්‍යාසය සමචතුරස්‍රාකාර නම් එහි නිර්ණායකය ගණනය කිරීම මඟින් එහි සමහර ගුණ අපෝහනය කිරීමට හැකියාව ඇත. නිදසුනක් ලෙස, සමචතුරස්‍රාකාර න්‍යාසයක නිර්ණායකය ශූන්‍ය නොවන්නේ නම් පමණක් එයට ප්‍රතිලෝමයක් ඇත. අයිගන් අගය සහ අයිගන් දෛශිකය රේඛීය පරිණාමණයෙහි ජ්‍යාමිතියට අන්තර් දෘශ්ටිය සලසනු ලබයි.
+න්‍යාස බොහෝ විද්‍යාත්මක ක්ෂේත්‍රයන්හි භාවිත සොයාගනු ලබයි. භෞතික විද්‍යාවෙහි, විද්‍යුත් පරිපථ, දෘශ්ටි විද්‍යාව සහ ක්වොන්ටම් යන්ත්‍ර  විද්‍යාව අධ්‍යයනය සඳහා න්‍යාස භාවිතාකරයි. පරිගණක ප්‍රස්තාරික ක්‍රමයෙහි, ද්විමාන තලයෙහි ත්‍රිමාන ප්‍රතිබිම්බ ප්‍රක්ෂේපනය කිරීමට සහ තාත්වික චලිතය පෙනෙන අයුරු නිර්මාණය කිරීමට න්‍යාස භාවිතාකරයි. බහු මාන සඳහා ව්‍යුත්පන්න සහ දර්ශක ඝාතීය යොදාගන්නවාසේම පෞරාණික විශ්ලේෂණාත්මක මත පිළිබඳ අවබෝධයක් ලබාගැනීමට න්‍යාස කලනය යොදාගනියි.
+අවුරුදු සිය ගණනක් තිස්සේ වස්තු විෂය වෙමින් වර්තමානය වන විට පර්යේෂණ මට්ටම දක්වාම විහිදී ගිය න්‍යාස ගණනය සඳහා කාර්යක්ෂම ඇල්ගොරිතම සංවර්ධනය කිරීම සංඛ්‍යාත්මක විශ්ලේෂණයේද ප්‍රධාන කොටසක් වී පවතී. සෛද්ධාන්තිකවත් ප්‍රායෝගිකවත්, න්‍යාස වියෝජන ක්‍රමය න්‍යාස ගණනය සරල කර දෙයි. එක් එක් න්‍යාස ආකෘති උදා:- විරල න්‍යාස, කර්ණය ආසන්න න්‍යාස, සඳහා ඈඳන ලද ඇල්ගොරිතම පරිමිත මුලාවයව ක්‍රමයේ හා වෙනත් න්‍යාස ගණනයන් ඉක්මන් කරවයි. ග්‍රහ තාරකා සිද්ධාන්ත වලදී සහ පරමාණුක සිද්ධාන්ත වලදී අපරිමිත න්‍යාස භාවිතා වෙයි. ශ්‍රිතයක ටේලර් ශ්‍රේණිය මත බලපාන ව්‍යුත්පන්න කාරකය නිරූපණය කරන න්‍යාසය ඒ සඳහා ඇති හොඳම නිදසුනයි.
+
+
+== අර්ථදැක්වීම ==
+න්‍යාස යනු ගණිතමය ප්‍රකාශනයන්හි සෘජුකෝණාස්‍රාකාර පිළියෙළ කිරීමක් වන අතර එමඟින් සංඛ්‍යාවල සරල බව ඇතිකරවිය හැකිය. නිදසුනක් ලෙස,
+
+  
+    
+      
+        
+          A
+        
+        =
+        
+          
+            [
+            
+              
+                
+                  9
+                
+                
+                  13
+                
+                
+                  6
+                
+              
+              
+                
+                  1
+                
+                
+                  11
+                
+                
+                  7
+                
+              
+              
+                
+                  3
+                
+                
+                  9
+                
+                
+                  2
+                
+              
+              
+                
+                  6
+                
+                
+                  0
+                
+                
+                  7
+                
+              
+            
+            ]
+          
+        
+        .
+      
+    
+    {\displaystyle \mathbf {A} ={\begin{bmatrix}9&13&6\\1&11&7\\3&9&2\\6&0&7\end{bmatrix}}.}
+  
+
+විකල්ප අංකනයක් ලෙස කොටු වරහන් වෙනුවට විශාල සුළු වරහන් යොදාගත හැක :
+
+  
+    
+      
+        
+          A
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  9
+                
+                
+                  13
+                
+                
+                  6
+                
+              
+              
+                
+                  1
+                
+                
+                  11
+                
+                
+                  7
+                
+              
+              
+                
+                  3
+                
+                
+                  9
+                
+                
+                  2
+                
+              
+              
+                
+                  6
+                
+                
+                  0
+                
+                
+                  7
+                
+              
+            
+            )
+          
+        
+        .
+      
+    
+    {\displaystyle \mathbf {A} ={\begin{pmatrix}9&13&6\\1&11&7\\3&9&2\\6&0&7\end{pmatrix}}.}
+  
+
+න්‍යාසයක තිරස් පේළි සහ සිරස් තීරු අඩංගුවේ. න්‍යාසයක අඩංගු සංඛ්‍යා එහි මූලාවයව ලෙස හෝ ඇතුලත් කිරීම් ලෙස හඳුන්වනු ලබයි. තිරස් පේළි m ගණනකින් හා සිරස් තීරු n ගණනකින් යුතු න්‍යාසයක් m-by-n න්‍යාසයක් ලෙස හෝ m × n න්‍යාසයක් ලෙස එහි ප්‍රමාණය විශේෂයෙන් සඳහන් කරන අතර, m සහ n එහි මානවේ. ඉහත සඳහන් කර ඇත්තේ 4-by-3 න්‍යාසයකි.
+තිරස් පේළි එකක් (1 × n) පමණක් ඇති න්‍යාස තිරස් පේළි දෛශික ලෙසද සිරස් තීරු එකක් (m × 1) පමණක් ඇති න්‍යාස සිරස් පේළි දෛශික ලෙසද හඳුන්වනු ලබයි. න්‍යාසයක ඕනෑම තිරස් පේළියක් හෝ සිරස් තීරුවක් තිරස් පේළි දෛශිකය හෝ සිරස් තීරු දෛශිකය නිර්ණය කරන අතර, න්‍යාසයෙහි වෙනත් තිරස් පේළි හෝ සිරස් තීරු අනුපිළිවෙළින් ඉවත්කිරීම මඟින් ලබාගත හැකියි. නිසදසුනක් ලෙස, ඉහත A න්‍යාසයෙහි තුන්වන තිරස් පේළියේ තිරස් පේළි දෛශිකය
+
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  3
+                
+                
+                  9
+                
+                
+                  2
+                
+              
+            
+            ]
+          
+        
+        .
+      
+    
+    {\displaystyle {\begin{bmatrix}3&9&2\\\end{bmatrix}}.}
+  
+
+න්‍යාසයක තිරස් පේළිය හෝ සිරස් තීරුව අගයකට අර්ථපහදා දෙන විට, එය අනුරූප තිරස් පේළි දෛශිකයට හෝ සිරස් තීරු දෛශිකයට යොමුකරනු ලැබේ. උදාහරණයක් ලෙස න්‍යාසයක වෙනස් තිරස් පේළි දෙකක් සමාන බව කිව හැකියි, එහි අර්ථය ඒවායෙහි තිරස් පේළි දෛශිකය සමාන බවයි. සමහර අවස්ථාවලදී තිරස් පේළියක හෝ සිරස් තීරුවක අගය හරියටම අගයන් අනුපිළිවෙළින් (Rn හි මූලාවයවයකඇතුලත් කිරීම් තත්වික සංඛ්‍යා නම්) න්‍යාසයට වඩා වැඩියෙන් අර්ථපහදා දිය යුතුයි, උදාරණයක් ලෙස න්‍යාසයක තිරස් පේළි අනුරූප සිරස් තීරු වලට සමාන වන විට එය එහි තැන් පෙරළුම් න්‍යාසයවෙයි.
+බොහෝ සෙයින් මෙම ලිපිය තාත්වික සහ සංකීර්ණ න්‍යාස කේන්ද්‍ර කරගෙන ඇත, තව දුරටත් න්‍යාසයක මූලාවයව කෙසේදයත් අනුපිළිවෙළින් තාත්වික හෝ සංකීර්ණ විය හැකියි. බොහෝ සාමාන්‍ය ආකාරයේ ඇතුලත් කිරීම් පහත සාකච්ඡා කරනු ලබයි.
+
+
+=== අංකනය ===
+යම් දෙසකට පැතිර පවත්නා බොහෝ පුළුල් වූ න්‍යාස විශේෂීකරණ අංකනයක් ඇත. සාමාන්‍යයෙන් ඉංග්‍රීසි ලොකු අකුරු භාවිතයෙන් න්‍යාසයක් දක්වනු ලබන අතර අනුරූප ඉංග්‍රීසි කුඩා අකුරු සමඟ යටිකුරු දර්ශක දෙකක් යෙදීමෙන් ඇතුලත් කිරීමක් ඉදිරිපත් කරනු ලබයි. ඊට අමතරව ඉංග්‍රීසි ලොකු අකුරු භාවිතයෙන් න්‍යාසයක් සංකේතවත් කරනු ලබයි, බොහෝ ලේඛකයන් විශේෂ මුද්‍රණ ශිල්පීය විලාසිතාභාවිතා කරයි, වෙනත් ගණිතමය දේවල් මඟින් න්‍යාස වල ඇති වෙනස හඳුනා ගැනීමට සුලබව සෘජු තද අකුරු (ඇල නැති) ආධාරකරනු ලබයි.  විකල්ප අංකනයක් ලෙස සෘජු අකුරු සහිතව හෝ රහිතව විචල්‍ය නාමයට යටින් ඉරි දෙකක් ගැසීම සිදුකරනු ලබයි, (e.g., 
+  
+    
+      
+        
+          
+            
+              A
+              _
+            
+            _
+          
+        
+      
+    
+    {\displaystyle {\underline {\underline {A}}}}
+  
+).
+න්‍යාසයක i වෙනි තිරස් පේළියේ සහ j වෙනි සිරස් තීරුවේ ඇතුලත් කිරීම i,j වන ඇතුළත් කිරීම ලෙස සලකයි. නිදසුනක් ලෙස, ඉහත A න්‍යාසයේ (2,3) ඇතුළත් කිරිම 7 වේ. A නම් න්‍යාසයක (i, j) ඇතුළත් කිරීම බහුල වශයෙන් භාවිත කරනුයේ ai,j ලෙසිනි. A[i,j] හෝ Ai,j යනු මේ සඳහා භාවිතා කරනු ලබන වෙනත් සංකේත වේ.
+Sometimes a matrix is referred to by giving a formula for its (i,j)th entry, often with double parenthesis around the formula for the entry, for example, if the (i,j)th entry of A were given by aij, A would be denoted ((aij)).
+An asterisk is commonly used to refer to whole rows or columns in a matrix. For example, ai,∗ refers to the ith row of A, and a∗,j refers to the jth column of A. The set of all m-by-n matrices is denoted 
+  
+    
+      
+        
+          M
+        
+      
+    
+    {\displaystyle \mathbb {M} }
+  
+(m, n).
+A common shorthand is
+
+A = [ai,j]i = 1,...,m; j = 1,...,n or more briefly A = [ai,j]m×n
+to define an m × n matrix A. Usually the entries ai,j are defined separately for all integers 1 ≤ i ≤ m and 1 ≤ j ≤ n. They can however sometimes be given by one formula; for example the 3-by-4 matrix
+
+  
+    
+      
+        
+          A
+        
+        =
+        
+          
+            [
+            
+              
+                
+                  0
+                
+                
+                  −
+                  1
+                
+                
+                  −
+                  2
+                
+                
+                  −
+                  3
+                
+              
+              
+                
+                  1
+                
+                
+                  0
+                
+                
+                  −
+                  1
+                
+                
+                  −
+                  2
+                
+              
+              
+                
+                  2
+                
+                
+                  1
+                
+                
+                  0
+                
+                
+                  −
+                  1
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle \mathbf {A} ={\begin{bmatrix}0&-1&-2&-3\\1&0&-1&-2\\2&1&0&-1\end{bmatrix}}}
+  
+
+can alternatively be specified by A = [i − j]i = 1,2,3; j = 1,...,4, or simply A = ((i-j)), where the size of the matrix is understood.
+Some programming languages start the numbering of rows and columns at zero, in which case the entries of an m-by-n matrix are indexed by 0 ≤ i ≤ m − 1 and 0 ≤ j ≤ n − 1. This article follows the more common convention in mathematical writing where enumeration starts from 1.
+
+
+== මූලික ක්‍රියාකාරකම් ==
+
+There are a number of operations that can be applied to modify matrices called matrix addition, scalar multiplication and transposition. These form the basic techniques to deal with matrices.
+
+Familiar properties of numbers extend to these operations of matrices: for example, addition is commutative, i.e., the matrix sum does not depend on the order of the summands: A + B = B + A.
+The transpose is compatible with addition and scalar multiplication, as expressed by (cA)T = c(AT) and (A + B)T = AT + BT. Finally, (AT)T = A.
+Row operations are ways to change matrices. There are three types of row operations: row switching, that is interchanging two rows of a matrix; row multiplication, multiplying all entries of a row by a non-zero constant; and finally row addition, which means adding a multiple of a row to another row. These row operations are used in a number of ways including solving linear equations and finding inverses.
+
+
+== න්‍යාස ගුණකිරීම,රේඛීය සමීකරණ සහ රේඛීය පරිණාමණ ==
+
+Multiplication of two matrices is defined only if the number of columns of the left matrix is the same as the number of rows of the right matrix. If A is an m-by-n matrix and B is an n-by-p matrix, then their matrix product AB is the m-by-p matrix whose entries are given by dot product of the corresponding row of A and the corresponding column of B:
+
+  
+    
+      
+        [
+        
+          A
+          B
+        
+        
+          ]
+          
+            i
+            ,
+            j
+          
+        
+        =
+        
+          A
+          
+            i
+            ,
+            1
+          
+        
+        
+          B
+          
+            1
+            ,
+            j
+          
+        
+        +
+        
+          A
+          
+            i
+            ,
+            2
+          
+        
+        
+          B
+          
+            2
+            ,
+            j
+          
+        
+        +
+        ⋯
+        +
+        
+          A
+          
+            i
+            ,
+            n
+          
+        
+        
+          B
+          
+            n
+            ,
+            j
+          
+        
+        =
+        
+          ∑
+          
+            r
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          A
+          
+            i
+            ,
+            r
+          
+        
+        
+          B
+          
+            r
+            ,
+            j
+          
+        
+        ,
+      
+    
+    {\displaystyle [\mathbf {AB} ]_{i,j}=A_{i,1}B_{1,j}+A_{i,2}B_{2,j}+\cdots +A_{i,n}B_{n,j}=\sum _{r=1}^{n}A_{i,r}B_{r,j},}
+  
+
+where 1 ≤ i ≤ m and 1 ≤ j ≤ p. For example, the underlined entry 1 in the product is calculated as (1 × 1) + (0 × 1) + (2 × 0) = 1:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    [
+                    
+                      
+                        
+                          
+                            
+                              1
+                              _
+                            
+                          
+                        
+                        
+                          
+                            
+                              0
+                              _
+                            
+                          
+                        
+                        
+                          
+                            
+                              2
+                              _
+                            
+                          
+                        
+                      
+                      
+                        
+                          −
+                          1
+                        
+                        
+                          3
+                        
+                        
+                          1
+                        
+                      
+                    
+                    ]
+                  
+                
+                
+                  
+                    [
+                    
+                      
+                        
+                          3
+                        
+                        
+                          
+                            
+                              1
+                              _
+                            
+                          
+                        
+                      
+                      
+                        
+                          2
+                        
+                        
+                          
+                            
+                              1
+                              _
+                            
+                          
+                        
+                      
+                      
+                        
+                          1
+                        
+                        
+                          
+                            
+                              0
+                              _
+                            
+                          
+                        
+                      
+                    
+                    ]
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    [
+                    
+                      
+                        
+                          5
+                        
+                        
+                          
+                            
+                              1
+                              _
+                            
+                          
+                        
+                      
+                      
+                        
+                          4
+                        
+                        
+                          2
+                        
+                      
+                    
+                    ]
+                  
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}{\begin{bmatrix}{\underline {1}}&{\underline {0}}&{\underline {2}}\\-1&3&1\\\end{bmatrix}}{\begin{bmatrix}3&{\underline {1}}\\2&{\underline {1}}\\1&{\underline {0}}\\\end{bmatrix}}&={\begin{bmatrix}5&{\underline {1}}\\4&2\\\end{bmatrix}}.\end{aligned}}}
+  
+
+Matrix multiplication satisfies the rules (AB)C = A(BC) (associativity), and (A+B)C = AC+BC as well as C(A+B) = CA+CB (left and right distributivity), whenever the size of the matrices is such that the various products are defined. The product AB may be defined without BA being defined, namely if A and B are m-by-n and n-by-k matrices, respectively, and m ≠ k. Even if both products are defined, they need not be equal, i.e., generally one has
+
+AB ≠ BA,
+i.e., matrix multiplication is not commutative, in marked contrast to (rational, real, or complex) numbers whose product is independent of the order of the factors. An example of two matrices not commuting with each other is:
+
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  1
+                
+                
+                  2
+                
+              
+              
+                
+                  3
+                
+                
+                  4
+                
+              
+            
+            ]
+          
+        
+        
+          
+            [
+            
+              
+                
+                  0
+                
+                
+                  1
+                
+              
+              
+                
+                  0
+                
+                
+                  0
+                
+              
+            
+            ]
+          
+        
+        =
+        
+          
+            [
+            
+              
+                
+                  0
+                
+                
+                  1
+                
+              
+              
+                
+                  0
+                
+                
+                  3
+                
+              
+            
+            ]
+          
+        
+        ,
+      
+    
+    {\displaystyle {\begin{bmatrix}1&2\\3&4\\\end{bmatrix}}{\begin{bmatrix}0&1\\0&0\\\end{bmatrix}}={\begin{bmatrix}0&1\\0&3\\\end{bmatrix}},}
+  
+
+whereas
+
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  0
+                
+                
+                  1
+                
+              
+              
+                
+                  0
+                
+                
+                  0
+                
+              
+            
+            ]
+          
+        
+        
+          
+            [
+            
+              
+                
+                  1
+                
+                
+                  2
+                
+              
+              
+                
+                  3
+                
+                
+                  4
+                
+              
+            
+            ]
+          
+        
+        =
+        
+          
+            [
+            
+              
+                
+                  3
+                
+                
+                  4
+                
+              
+              
+                
+                  0
+                
+                
+                  0
+                
+              
+            
+            ]
+          
+        
+        .
+      
+    
+    {\displaystyle {\begin{bmatrix}0&1\\0&0\\\end{bmatrix}}{\begin{bmatrix}1&2\\3&4\\\end{bmatrix}}={\begin{bmatrix}3&4\\0&0\\\end{bmatrix}}.}
+  
+
+The identity matrix In of size n is the n-by-n matrix in which all the elements on the main diagonal are equal to 1 and all other elements are equal to 0, e.g.
+
+  
+    
+      
+        
+          
+            I
+          
+          
+            3
+          
+        
+        =
+        
+          
+            [
+            
+              
+                
+                  1
+                
+                
+                  0
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  1
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  0
+                
+                
+                  1
+                
+              
+            
+            ]
+          
+        
+        .
+      
+    
+    {\displaystyle \mathbf {I} _{3}={\begin{bmatrix}1&0&0\\0&1&0\\0&0&1\end{bmatrix}}.}
+  
+
+It is called identity matrix because multiplication with it leaves a matrix unchanged: 
+MIn = ImM = M for any m-by-n matrix M.
+Besides the ordinary matrix multiplication just described, there exist other less frequently used operations on matrices that can be considered forms of multiplication, such as the Hadamard product and the Kronecker product. They arise in solving matrix equations such as the Sylvester equation.
+
+
+=== රේඛීය සමීකරණ ===
+
+A particular case of matrix multiplication is tightly linked to linear equations: if x designates a column vector (i.e., n×1-matrix) of n variables x1, x2, ..., xn, and A is an m-by-n matrix, then the matrix equation
+
+Ax = b,
+where b is some m×1-column vector, is equivalent to the system of linear equations
+
+A1,1x1 + A1,2x2 + ... + A1,nxn = b1
+...
+Am,1x1 + Am,2x2 + ... + Am,nxn = bm .
+This way, matrices can be used to compactly write and deal with multiple linear equations, i.e., systems of linear equations.
+
+
+=== රේඛීය පරිණාමණ ===
+
+Matrices and matrix multiplication reveal their essential features when related to linear transformations, also known as linear maps. A real m-by-n matrix A gives rise to a linear transformation Rn → Rm mapping each vector x in Rn to the (matrix) product Ax, which is a vector in Rm. Conversely, each linear transformation f: Rn → Rm arises from a unique m-by-n matrix A: explicitly, the (i, j)-entry of A is the ith coordinate of f(ej), where 
+ej = (0,...,0,1,0,...,0) is the unit vector with 1 in the jth position and 0 elsewhere. The matrix A is said to represent the linear map f, and A is called the transformation matrix of f.
+For example, the 2×2 matrix
+
+  
+    
+      
+        
+          A
+        
+        =
+        
+          
+            [
+            
+              
+                
+                  a
+                
+                
+                  c
+                
+              
+              
+                
+                  b
+                
+                
+                  d
+                
+              
+            
+            ]
+          
+        
+        
+      
+    
+    {\displaystyle \mathbf {A} ={\begin{bmatrix}a&c\\b&d\end{bmatrix}}\,}
+  
+
+can be viewed as the transform of the unit square into a parallelogram with vertices at (0, 0), (a, b), (a + c, b + d), and (c, d). The parallelogram pictured at the right is obtained by multiplying A with each of the column vectors 
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+              
+            
+            ]
+          
+        
+        ,
+        
+          
+            [
+            
+              
+                
+                  1
+                
+              
+              
+                
+                  0
+                
+              
+            
+            ]
+          
+        
+        ,
+        
+          
+            [
+            
+              
+                
+                  1
+                
+              
+              
+                
+                  1
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}0\\0\end{bmatrix}},{\begin{bmatrix}1\\0\end{bmatrix}},{\begin{bmatrix}1\\1\end{bmatrix}}}
+  
+ and 
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  0
+                
+              
+              
+                
+                  1
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}0\\1\end{bmatrix}}}
+  
+ in turn. These vectors define the vertices of the unit square. 
+The following table shows a number of 2-by-2 matrices with the associated linear maps of R2. The blue original is mapped to the green grid and shapes, the origin (0,0) is marked with a black point.
+
+Under the 1-to-1 correspondence between matrices and linear maps, matrix multiplication corresponds to composition of maps: if a k-by-m matrix B represents another linear map g : Rm → Rk, then the composition g ∘ f is represented by BA since
+
+(g ∘ f)(x) = g(f(x)) = g(Ax) = B(Ax) = (BA)x.
+The last equality follows from the above-mentioned associativity of matrix multiplication.
+The rank of a matrix A is the maximum number of linearly independent row vectors of the matrix, which is the same as the maximum number of linearly independent column vectors. Equivalently it is the dimension of the image of the linear map represented by A. The rank-nullity theorem states that the dimension of the kernel of a matrix plus the rank equals the number of columns of the matrix.
+
+
+== සමචතුරස්‍රාකාර න්‍යාස ==
+A square matrix is a matrix with the same number of rows and columns. An n-by-n matrix is known as a square matrix of order n. Any two square matrices of the same order can be added and multiplied. A square matrix A is called invertible or non-singular if there exists a matrix B such that
+
+AB = In.
+This is equivalent to BA = In. Moreover, if B exists, it is unique and is called the inverse matrix of A, denoted A−1.
+The entries Ai,i form the main diagonal of a matrix. The trace, tr(A) of a square matrix A is the sum of its diagonal entries. While, as mentioned above, matrix multiplication is not commutative, the trace of the product of two matrices is independent of the order of the factors: tr(AB) = tr(BA).
+Also, the trace of a matrix is equal to that of its transpose, i.e., 
+tr(A) = tr(AT).
+If all entries outside the main diagonal are zero, A is called a diagonal matrix. If only all entries above (below) the main diagonal are zero, A is called a lower triangular matrix (upper triangular matrix, respectively). For example, if n = 3, they look like
+
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  
+                    d
+                    
+                      11
+                    
+                  
+                
+                
+                  0
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  
+                    d
+                    
+                      22
+                    
+                  
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  0
+                
+                
+                  
+                    d
+                    
+                      33
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}d_{11}&0&0\\0&d_{22}&0\\0&0&d_{33}\\\end{bmatrix}}}
+  
+ (diagonal), 
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  
+                    l
+                    
+                      11
+                    
+                  
+                
+                
+                  0
+                
+                
+                  0
+                
+              
+              
+                
+                  
+                    l
+                    
+                      21
+                    
+                  
+                
+                
+                  
+                    l
+                    
+                      22
+                    
+                  
+                
+                
+                  0
+                
+              
+              
+                
+                  
+                    l
+                    
+                      31
+                    
+                  
+                
+                
+                  
+                    l
+                    
+                      32
+                    
+                  
+                
+                
+                  
+                    l
+                    
+                      33
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}l_{11}&0&0\\l_{21}&l_{22}&0\\l_{31}&l_{32}&l_{33}\\\end{bmatrix}}}
+  
+ (lower) and 
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  
+                    u
+                    
+                      11
+                    
+                  
+                
+                
+                  
+                    u
+                    
+                      12
+                    
+                  
+                
+                
+                  
+                    u
+                    
+                      13
+                    
+                  
+                
+              
+              
+                
+                  0
+                
+                
+                  
+                    u
+                    
+                      22
+                    
+                  
+                
+                
+                  
+                    u
+                    
+                      23
+                    
+                  
+                
+              
+              
+                
+                  0
+                
+                
+                  0
+                
+                
+                  
+                    u
+                    
+                      33
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}u_{11}&u_{12}&u_{13}\\0&u_{22}&u_{23}\\0&0&u_{33}\\\end{bmatrix}}}
+  
+  (upper triangular matrix).
+
+
+=== නිර්ණායකය ===
+
+The determinant det(A) or |A| of a square matrix A is a number encoding certain properties of the matrix. A matrix is invertible if and only if its determinant is nonzero. Its absolute value equals the area (in R2) or volume (in R3) of the image of the unit square (or cube), while its sign corresponds to the orientation of the corresponding linear map: the determinant is positive if and only if the orientation is preserved. 
+The determinant of 2-by-2 matrices is given by
+
+  
+    
+      
+        det
+        
+          
+            (
+            
+              
+                
+                  a
+                
+                
+                  b
+                
+              
+              
+                
+                  c
+                
+                
+                  d
+                
+              
+            
+            )
+          
+        
+        =
+        a
+        d
+        −
+        b
+        c
+        .
+      
+    
+    {\displaystyle \det {\begin{pmatrix}a&b\\c&d\end{pmatrix}}=ad-bc.}
+  
+
+When the determinant is equal to one, then the matrix represents an equi-areal mapping. The determinant of 3-by-3 matrices involves 6 terms (rule of Sarrus). The more lengthy Leibniz formula generalises these two formulae to all dimensions.
+The determinant of a product of square matrices equals the product of their determinants: 
+det(AB) = det(A) · det(B). Adding a multiple of any row to another row, or a multiple of any column to another column, does not change the determinant. Interchanging two rows or two columns affects the determinant by multiplying it by −1. Using these operations, any matrix can be transformed to a lower (or upper) triangular matrix, and for such matrices the determinant equals the product of the entries on the main diagonal; this provides a method to calculate the determinant of any matrix. Finally, the Laplace expansion expresses the determinant in terms of minors, i.e., determinants of smaller matrices. This expansion can be used for a recursive definition of determinants (taking as starting case the determinant of a 1-by-1 matrix, which is its unique entry, or even the determinant of a 0-by-0 matrix, which is 1), that can be seen to be equivalent to the Leibniz formula. Determinants can be used to solve linear systems using Cramer's rule, where the division of the determinants of two related square matrices equates to the value of each of the system's variables.
+
+
+=== අයිගන් අගයන් සහ අයිගන් දෛශික ===
+
+A number λ and a non-zero vector v satisfying
+
+Av = λv
+are called an eigenvalue and an eigenvector of A, respectively. The number λ is an eigenvalue of an n×n-matrix A if and only if A−λIn is not invertible, which is equivalent to
+
+  
+    
+      
+        det
+        (
+        
+          
+            A
+          
+        
+        −
+        λ
+        
+          
+            I
+          
+        
+        )
+        =
+        0.
+         
+      
+    
+    {\displaystyle \det({\mathsf {A}}-\lambda {\mathsf {I}})=0.\ }
+  
+
+The function pA(t) = det(A−tI) is called the characteristic polynomial of A, its degree is n. Therefore pA(t) has at most n different roots, i.e., eigenvalues of the matrix. They may be complex even if the entries of A are real. According to the Cayley–Hamilton theorem, 
+pA(A) = 0, that is to say, the characteristic polynomial applied to the matrix itself yields the zero matrix.
+
+
+=== සමමිතිය ===
+A square matrix A that is equal to its transpose, i.e., 
+A = AT, is a symmetric matrix.  If instead, A was equal to the negative of its transpose, i.e., 
+A = −AT, then A is a skew-symmetric matrix. In complex matrices, symmetry is often replaced by the concept of Hermitian matrices, which satisfy A∗ = A, where the star or asterisk denotes the conjugate transpose of the matrix, i.e., the transpose of the complex conjugate of A.
+By the spectral theorem, real symmetric matrices and complex Hermitian matrices have an eigenbasis; i.e., every vector is expressible as a linear combination of eigenvectors. In both cases, all eigenvalues are real. This theorem can be generalized to infinite-dimensional situations related to matrices with infinitely many rows and columns, see below.
+
+
+=== නිශ්චිත භාවය ===
+
+A symmetric n×n-matrix is called positive-definite (respectively negative-definite; indefinite), if for all nonzero vectors x ∈ Rn the associated quadratic form given by
+
+Q(x) = xTAx
+takes only positive values (respectively only negative values; both some negative and some positive values). If the quadratic form takes only non-negative (respectively only non-positive) values, the symmetric matrix is called positive-semidefinite (respectively negative-semidefinite); hence the matrix is indefinite precisely when it is neither positive-semidefinite nor negative-semidefinite.
+A symmetric matrix is positive-definite if and only if all its eigenvalues are positive. The table at the right shows two possibilities for 2-by-2 matrices.
+Allowing as input two different vectors instead yields the bilinear form associated to A:
+
+BA (x, y) = xTAy.
+
+
+== සංඛ්‍යාත්මක ආකාර ==
+In addition to theoretical knowledge of properties of matrices and their relation to other fields, it is important for practical purposes to perform matrix calculations effectively and precisely. The domain studying these matters is called numerical linear algebra. As with other numerical situations, two main aspects are the complexity of algorithms and their numerical stability. Many problems can be solved by both direct algorithms or iterative approaches. For example, finding eigenvectors can be done by finding a sequence of vectors xn converging to an eigenvector when n tends to infinity.
+Determining the complexity of an algorithm means finding upper bounds or estimates of how many elementary operations such as additions and multiplications of scalars are necessary to perform some algorithm, e.g., multiplication of matrices. For example, calculating the matrix product of two n-by-n matrix using the definition given above needs n3 multiplications, since for any of the n2 entries of the product, n multiplications are necessary. The Strassen algorithm outperforms this "naive" algorithm; it needs only n2.807 multiplications. A refined approach also incorporates specific features of the computing devices.
+In many practical situations additional information about the matrices involved is known. An important case are sparse matrices, i.e., matrices most of whose entries are zero. There are specifically adapted algorithms for, say, solving linear systems Ax = b for sparse matrices A, such as the conjugate gradient method.
+An algorithm is, roughly speaking, numerically stable, if little deviations (such as rounding errors) do not lead to big deviations in the result. For example, calculating the inverse of a matrix via Laplace's formula (Adj (A) denotes the adjugate matrix of A)
+
+A−1 = Adj(A) / det(A)
+may lead to significant rounding errors if the determinant of the matrix is very small. The norm of a matrix can be used to capture the conditioning of linear algebraic problems, such as computing a matrix' inverse.
+Although most computer languages are not designed with commands or libraries for matrices, as early as the 1970s, some engineering desktop computers such as the HP 9830 had ROM cartridges to add BASIC commands for matrices. Some computer languages such as APL were designed to manipulate matrices, and various mathematical programs can be used to aid computing with matrices.
+
+
+=== න්‍යාස වියෝජන ක්‍රම ===
+
+There are several methods to render matrices into a more easily accessible form. They are generally referred to as matrix transformation or matrix decomposition techniques. The interest of all these decomposition techniques is that they preserve certain properties of the matrices in question, such as determinant, rank or inverse, so that these quantities can be calculated after applying the transformation, or that certain matrix operations are algorithmically easier to carry out for some types of matrices.
+The LU decomposition factors matrices as a product of lower (L) and an upper triangular matrices (U). Once this decomposition is calculated, linear systems can be solved more efficiently, by a simple technique called forward and back substitution. Likewise, inverses of triangular matrices are algorithmically easier to calculate. The Gaussian elimination is a similar algorithm; it transforms any matrix to row echelon form. Both methods proceed by multiplying the matrix by suitable elementary matrices, which correspond to permuting rows or columns and adding multiples of one row to another row. Singular value decomposition expresses any matrix A as a product UDV∗, where U and V are unitary matrices and D is a diagonal matrix.
+
+The eigendecomposition or diagonalization expresses A as a product VDV−1, where D is a diagonal matrix and V is a suitable invertible matrix.  If A can be written in this form, it is called diagonalizable. More generally, and applicable to all matrices, the Jordan decomposition transforms a matrix into Jordan normal form, that is to say matrices whose only nonzero entries are the eigenvalues λ1 to λn of A, placed on the main diagonal and possibly entries equal to one directly above the main diagonal, as shown at the right.  Given the eigendecomposition, the nth power of A (i.e., n-fold iterated matrix multiplication) can be calculated via
+
+An = (VDV−1)n = VDV−1VDV−1...VDV−1 = VDnV−1
+and the power of a diagonal matrix can be calculated by taking the corresponding powers of the diagonal entries, which is much easier than doing the exponentiation for A instead. This can be used to compute the matrix exponential eA, a need frequently arising in solving linear differential equations, matrix logarithms and square roots of matrices. To avoid numerically ill-conditioned situations, further algorithms such as the Schur decomposition can be employed.
+
+
+== වීජීය සංක්ෂේපන ආකාරය සහ සාධාරණීකරණය ==
+Matrices can be generalized in different ways. Abstract algebra uses matrices with entries in more general fields or even rings, while linear algebra codifies properties of matrices in the notion of linear maps. It is possible to consider matrices with infinitely many columns and rows. Another extension are tensors, which can be seen as higher-dimensional arrays of numbers, as opposed to vectors, which can often be realised as sequences of numbers, while matrices are rectangular or two-dimensional array of numbers. Matrices, subject to certain requirements tend to form groups known as matrix groups.
+
+
+=== න්‍යාස සමඟ බොහෝ සාමාන්‍ය ඇතුලත් කිරීම් ===
+This article focuses on matrices whose entries are real or complex numbers. However, matrices can be considered with much more general types of entries than real or complex numbers. As a first step of generalization, any field, i.e., a set where addition, subtraction, multiplication and division operations are defined and well-behaved, may be used instead of R or C, for example rational numbers or finite fields. For example, coding theory makes use of matrices over finite fields. Wherever eigenvalues are considered, as these are roots of a polynomial they may exist only in a larger field than that of the coefficients of the matrix; for instance they may be complex in case of a matrix with real entries. The possibility to reinterpret the entries of a matrix as elements of a larger field (e.g., to view a real matrix as a complex matrix whose entries happen to be all real) then allows considering each square matrix to possess a full set of eigenvalues. Alternatively one can consider only matrices with entries in an algebraically closed field, such as C, from the outset.
+More generally, abstract algebra makes great use of matrices with entries in a ring R. Rings are a more general notion than fields in that no division operation exists. The very same addition and multiplication operations of matrices extend to this setting, too. The set M(n, R) of all square n-by-n matrices over R is a ring called matrix ring, isomorphic to the endomorphism ring of the left R-module Rn. If the ring R is commutative, i.e., its multiplication is commutative, then M(n, R) is a unitary noncommutative (unless n = 1) associative algebra over R. The determinant of square matrices over a commutative ring R can still be defined using the Leibniz formula; such a matrix is invertible if and only if its determinant is invertible in R, generalising the situation over a field F, where every nonzero element is invertible. Matrices over superrings are called supermatrices.
+Matrices do not always have all their entries in the same ring – or even in any ring at all. One special but common case is block matrices, which may be considered as matrices whose entries themselves are matrices. The entries need not be quadratic matrices, and thus need not be members of any ordinary ring; but their sizes must fulfil certain compatibility conditions.
+
+
+=== රේඛීය සිතියම් වලට ඇති සබැඳියාව ===
+Linear maps Rn → Rm are equivalent to m-by-n matrices, as described above. More generally, any linear map f: V → W between finite-dimensional vector spaces can be described by a matrix A = (aij), after choosing bases v1, ..., vn of V, and w1, ..., wm of W (so n is the dimension of V and m is the dimension of W), which is such that
+
+  
+    
+      
+        f
+        (
+        
+          
+            v
+          
+          
+            j
+          
+        
+        )
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            m
+          
+        
+        
+          a
+          
+            i
+            ,
+            j
+          
+        
+        
+          
+            w
+          
+          
+            i
+          
+        
+        
+        
+          
+            for 
+          
+        
+        j
+        =
+        1
+        ,
+        …
+        ,
+        n
+        .
+      
+    
+    {\displaystyle f(\mathbf {v} _{j})=\sum _{i=1}^{m}a_{i,j}\mathbf {w} _{i}\qquad {\mbox{for }}j=1,\ldots ,n.}
+  
+
+In other words, column j of A expresses the image of vj in terms of the basis vectors wi of W; thus this relation uniquely determines the entries of the matrix A. Note that the matrix depends on the choice of the bases: different choices of bases give rise to different, but equivalent matrices. Many of the above concrete notions can be reinterpreted in this light, for example, the transpose matrix AT describes the transpose of the linear map given by A, with respect to the dual bases.
+More generally, the set of m×n matrices can be used to represent the R-linear maps between the free modules Rm and Rn for an arbitrary ring R with unity.  When n = m composition of these maps is possible, and this gives rise to the matrix ring of n×n matrices representing the endomorphism ring of Rn.
+
+
+=== න්‍යාස කාණ්ඩ ===
+
+A group is a mathematical structure consisting of a set of objects together with a binary operation, i.e., an operation combining any two objects to a third, subject to certain requirements. A group in which the objects are matrices and the group operation is matrix multiplication is called a matrix group. Since in a group every element has to be invertible, the most general matrix groups are the groups of all invertible matrices of a given size, called the general linear groups.
+Any property of matrices that is preserved under matrix products and inverses can be used to define further matrix groups. For example, matrices with a given size and with a determinant of 1 form a subgroup of (i.e., a smaller group contained in) their general linear group, called a special linear group. Orthogonal matrices, determined by the condition
+
+MTM = I,
+form the orthogonal group.  They are called orthogonal since the associated linear transformations of Rn preserve angles in the sense that the scalar product of two vectors is unchanged after applying M to them:
+
+(Mv) · (Mw) = v · w.
+Every finite group is isomorphic to a matrix group, as one can see by considering the regular representation of the symmetric group. General groups can be studied using matrix groups, which are comparatively well-understood, by means of representation theory.
+
+
+=== අපරිමිත න්‍යාස ===
+It is also possible to consider matrices with infinitely many rows and/or columns even if, being infinite objects, one cannot write down such matrices explicitly. All that matters is that for every element in the set indexing rows, and every element in the set indexing columns, there is a well-defined entry (these index sets need not even be subsets of the natural numbers). The basic operations of addition, subtraction, scalar multiplication and transposition can still be defined without problem; however matrix multiplication may involve infinite summations to define the resulting entries, and these are not defined in general.
+If R is any ring with unity, then the ring of endomorphisms of 
+  
+    
+      
+        M
+        =
+        
+          ⨁
+          
+            i
+            ∈
+            I
+          
+        
+        R
+      
+    
+    {\displaystyle M=\bigoplus _{i\in I}R}
+  
+ as a right R module is isomorphic to the ring of column finite matrices 
+  
+    
+      
+        
+          
+            C
+            F
+            M
+          
+          
+            I
+          
+        
+        (
+        R
+        )
+      
+    
+    {\displaystyle \mathbb {CFM} _{I}(R)}
+  
+ whose entries are indexed by 
+  
+    
+      
+        I
+        ×
+        I
+      
+    
+    {\displaystyle I\times I}
+  
+, and whose columns each contain only finitely many nonzero entries.  The endomorphisms of M considered as a left R module result in an analogous object, the row finite matrices 
+  
+    
+      
+        
+          
+            R
+            F
+            M
+          
+          
+            I
+          
+        
+        (
+        R
+        )
+      
+    
+    {\displaystyle \mathbb {RFM} _{I}(R)}
+  
+ whose rows each only have finitely many nonzero entries.
+If infinite matrices are used to describe linear maps, then only those matrices can be used all of whose columns have but a finite number of nonzero entries, for the following reason. For a matrix A to describe a linear map f: V→W, bases for both spaces must have been chosen; recall that by definition this means that every vector in the space can be written uniquely as a (finite) linear combination of basis vectors, so that written as a (column) vector v of coefficients, only finitely many entries vi are nonzero. Now the columns of A describe the images by f of individual basis vectors of V in the basis of W, which is only meaningful if these columns have only finitely many nonzero entries. There is no restriction on the rows of A however: in the product A·v there are only finitely many nonzero coefficients of v involved, so every one of its entries, even if it is given as an infinite sum of products, involves only finitely many nonzero terms and is therefore well defined. Moreover this amounts to forming a linear combination of the columns of A that effectively involves only finitely many of them, whence the result has only finitely many nonzero entries, because each of those columns do. One also sees that products of two matrices of the given type is well defined (provided as usual that the column-index and row-index sets match), is again of the same type, and corresponds to the composition of linear maps.
+If R is a normed ring, then the condition of row or column finiteness can be relaxed.  With the norm in place, absolutely convergent series can be used instead of finite sums.  For example, the matrices whose column sums are absolutely convergent sequences form a ring.  Analogously of course, the matrices whose row sums are absolutely convergent series also form a ring.  
+In that vein, infinite matrices can also be used to describe operators on Hilbert spaces, where convergence and continuity questions arise, which again results in certain constraints that have to be imposed. However, the explicit point of view of matrices tends to obfuscate the matter, and the abstract and more powerful tools of functional analysis can be used instead.
+
+
+=== ශූන්‍ය න්‍යාස ===
+An empty matrix is a matrix in which the number of rows or columns (or both) is zero. Empty matrices help dealing with maps involving the zero vector space. For example, if A is a 3-by-0 matrix A and B is a 0-by-3 matrix, then AB is the 3-by-3 zero matrix corresponding to the null map from a 3-dimensional space V to itself, while BA is a 0-by-0 matrix. There is no common notation for empty matrices, but most computer algebra systems allow creating and computing with them. The determinant of the 0-by-0 matrix is 1 as follows from regarding the empty product occurring in the Leibniz formula for the determinant as 1. This value is also consistent with the fact that the identity map from any finite dimensional space to itself has determinant 1, a fact that is often used as a part of the characterization of determinants.
+
+
+== භාවිතය ==
+There are numerous applications of matrices, both in mathematics and other sciences. Some of them merely take advantage of the compact representation of a set of numbers in a matrix. For example, in game theory and economics, the payoff matrix encodes the payoff for two players, depending on which out of a given (finite) set of alternatives the players choose. Text mining and automated thesaurus compilation makes use of document-term matrices such as tf-idf to track frequencies of certain words in several documents.
+Complex numbers can be represented by particular real 2-by-2 matrices via
+
+  
+    
+      
+        a
+        +
+        i
+        b
+        ↔
+        
+          
+            [
+            
+              
+                
+                  a
+                
+                
+                  −
+                  b
+                
+              
+              
+                
+                  b
+                
+                
+                  a
+                
+              
+            
+            ]
+          
+        
+        ,
+      
+    
+    {\displaystyle a+ib\leftrightarrow {\begin{bmatrix}a&-b\\b&a\end{bmatrix}},}
+  
+
+under which addition and multiplication of complex numbers and matrices correspond to each other. For example, 2-by-2 rotation matrices represent the multiplication with some complex number of absolute value 1, as above. A similar interpretation is possible for quaternions.
+Early encryption techniques such as the Hill cipher also used matrices. However, due to the linear nature of matrices, these codes are comparatively easy to break. Computer graphics uses matrices both to represent objects and to calculate transformations of objects using affine rotation matrices to accomplish tasks such as projecting a three-dimensional object onto a two-dimensional screen, corresponding to a theoretical camera observation. Matrices over a polynomial ring are important in the study of control theory.
+Chemistry makes use of matrices in various ways, particularly since the use of quantum theory to discuss molecular bonding and spectroscopy. Examples are the overlap matrix and the Fock matrix used in solving the Roothaan equations to obtain the molecular orbitals of the Hartree–Fock method.
+
+
+=== ප්‍රස්තාරික සිද්ධාන්තය ===
+
+The adjacency matrix of a finite graph is a basic notion of graph theory. It saves which vertices of the graph are connected by an edge. Matrices containing just two different values (0 and 1 meaning for example "yes" and "no") are called logical matrices. The distance (or cost) matrix contains information about distances of the edges. These concepts can be applied to websites connected hyperlinks or cities connected by roads etc., in which case (unless the road network is extremely dense) the matrices tend to be sparse, i.e., contain few nonzero entries. Therefore, specifically tailored matrix algorithms can be used in network theory.
+
+
+=== විශ්ලේෂණය සහ ජ්‍යාමිතිය ===
+The Hessian matrix of a differentiable function ƒ: Rn → R consists of the second derivatives of ƒ with respect to the several coordinate directions, i.e.
+
+  
+    
+      
+        H
+        (
+        f
+        )
+        =
+        
+          [
+          
+            
+              
+                
+                  ∂
+                  
+                    2
+                  
+                
+                f
+              
+              
+                ∂
+                
+                  x
+                  
+                    i
+                  
+                
+                
+                ∂
+                
+                  x
+                  
+                    j
+                  
+                
+              
+            
+          
+          ]
+        
+        .
+      
+    
+    {\displaystyle H(f)=\left[{\frac {\partial ^{2}f}{\partial x_{i}\,\partial x_{j}}}\right].}
+  
+
+It encodes information about the local growth behaviour of the function: given a critical point x = (x1, ..., xn), i.e., a point where the first partial derivatives 
+  
+    
+      
+        ∂
+        f
+        
+          /
+        
+        ∂
+        
+          x
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \partial f/\partial x_{i}}
+  
+ of ƒ vanish, the function has a local minimum if the Hessian matrix is positive definite. Quadratic programming can be used to find global minima or maxima of quadratic functions closely related to the ones attached to matrices (see above).
+Another matrix frequently used in geometrical situations is the Jacobi matrix of a differentiable map f: Rn → Rm. If f1, ..., fm denote the components of f, then the Jacobi matrix is defined as 
+
+  
+    
+      
+        J
+        (
+        f
+        )
+        =
+        
+          
+            [
+            
+              
+                
+                  ∂
+                  
+                    f
+                    
+                      i
+                    
+                  
+                
+                
+                  ∂
+                  
+                    x
+                    
+                      j
+                    
+                  
+                
+              
+            
+            ]
+          
+          
+            1
+            ≤
+            i
+            ≤
+            m
+            ,
+            1
+            ≤
+            j
+            ≤
+            n
+          
+        
+        .
+      
+    
+    {\displaystyle J(f)=\left[{\frac {\partial f_{i}}{\partial x_{j}}}\right]_{1\leq i\leq m,1\leq j\leq n}.}
+  
+
+If n > m, and if the rank of the Jacobi matrix attains its maximal value m, f is locally invertible at that point, by the implicit function theorem.
+Partial differential equations can be classified by considering the matrix of coefficients of the highest-order differential operators of the equation. For elliptic partial differential equations this matrix is positive definite, which has decisive influence on the set of possible solutions of the equation in question.
+The finite element method is an important numerical method to solve partial differential equations, widely applied in simulating complex physical systems. It attempts to approximate the solution to some equation by piecewise linear functions, where the pieces are chosen with respect to a sufficiently fine grid, which in turn can be recast as a matrix equation.
+
+
+=== සම්භාවිතා සිද්ධාන්ත සහ සංඛ්‍යානය ===
+
+Stochastic matrices are square matrices whose rows are probability vectors, i.e., whose entries sum up to one. Stochastic matrices are used to define Markov chains with finitely many states. A row of the stochastic matrix gives the probability distribution for the next position of some particle currently in the state that corresponds to the row. Properties of the Markov chain like absorbing states, i.e., states that any particle attains eventually, can be read off the eigenvectors of the transition matrices.
+Statistics also makes use of matrices in many different forms. Descriptive statistics is concerned with describing data sets, which can often be represented in matrix form, by reducing the amount of data. The covariance matrix encodes the mutual variance of several random variables. Another technique using matrices are linear least squares, a method that approximates a finite set of pairs (x1, y1), (x2, y2), ..., (xN, yN), by a linear function
+
+yi ≈ axi + b, i = 1, ..., N
+which can be formulated in terms of matrices, related to the singular value decomposition of matrices.
+Random matrices are matrices whose entries are random numbers, subject to suitable probability distributions, such as matrix normal distribution. Beyond probability theory, they are applied in domains ranging from number theory to physics.
+
+
+=== සමමිති සහ භෞතික විද්‍යාව තුළ පරිණාමණ ===
+
+Linear transformations and the associated symmetries play a key role in modern physics. For example, elementary particles in quantum field theory are classified as representations of the Lorentz group of special relativity and, more specifically, by their behavior under the spin group.  Concrete representations involving the Pauli matrices and more general gamma matrices are an integral part of the physical description of fermions, which behave as spinors. For the three lightest quarks, there is a group-theoretical representation involving the special unitary group SU(3); for their calculations, physicists use a convenient matrix representation known as the Gell-Mann matrices, which are also used for the SU(3) gauge group that forms the basis of the modern description of strong nuclear interactions, quantum chromodynamics. The Cabibbo–Kobayashi–Maskawa matrix, in turn, expresses the fact that the basic quark states that are important for weak interactions are not the same as, but linearly related to the basic quark states that define particles with specific and distinct masses.
+
+
+=== ක්වොන්ටම් ගති ස්වභාවයේ රේඛීය සංයෝජන ===
+The first model of quantum mechanics (Heisenberg, 1925) represented the theory's operators by infinite-dimensional matrices acting on quantum states. This is also referred to as matrix mechanics. One particular example is the density matrix that characterizes the "mixed" state of a quantum system as a linear combination of elementary, "pure" eigenstates.
+Another matrix serves as a key tool for describing the scattering experiments that form the cornerstone of experimental particle physics: Collision reactions such as occur in particle accelerators, where non-interacting particles head towards each other and collide in a small interaction zone, with a new set of non-interacting particles as the result, can be described as the scalar product of outgoing particle states and a linear combination of ingoing particle states.  The linear combination is given by a matrix known as the S-matrix, which encodes all information about the possible interactions between particles.
+
+
+=== සාමාන්‍ය ක්‍රම ===
+A general application of matrices in physics is to the description of linearly coupled harmonic systems. The equations of motion of such systems can be described in matrix form, with a mass matrix multiplying a generalized velocity to give the kinetic term, and a force matrix multiplying a displacement vector to characterize the interactions. The best way to obtain solutions is to determine the system's eigenvectors, its normal modes, by diagonalizing the matrix equation. Techniques like this are crucial when it comes to the internal dynamics of molecules: the internal vibrations of systems consisting of mutually bound component atoms. They are also needed for describing mechanical vibrations, and oscillations in electrical circuits.
+
+
+=== ජ්‍යාමිතික දෘශ්ටි විද්‍යාව ===
+Geometrical optics provides further matrix applications. In this approximative theory, the wave nature of light is neglected. The result is a model in which light rays are indeed geometrical rays. If the deflection of light rays by optical elements is small, the action of a lens or reflective element on a given light ray can be expressed as multiplication of a two-component vector with a two-by-two matrix called ray transfer matrix: the vector's components are the light ray's slope and its distance from the optical axis, while the matrix encodes the properties of the optical element. Actually, there are two kinds of matrices, viz. a refraction matrix describing the refraction at a lens surface, and a translation matrix, describing the translation of the plane of reference to the next refracting surface, where another refraction matrix applies.
+The optical system, consisting of a combination of lenses and/or reflective elements, is simply described by the matrix resulting from the product of the components' matrices.
+
+
+=== ඉලෙක්ට්‍රෝනික විද්‍යාව ===
+Traditional mesh analysis in electronics leads to a system of linear equations that can be described with a matrix.
+The behaviour of many electronic components can be described using matrices. Let A be a 2-dimensional vector with the component's input voltage v1 and input current i1 as its elements, and let B be a 2-dimensional vector with the component's output voltage v2 and output current i2 as its elements. Then the behaviour of the electronic component can be described by  B = H · A, where H is a 2 x 2 matrix containing one impedance element (h12), one admittance element (h21) and two dimensionless elements (h11 and h22). Calculating a circuit now reduces to multiplying matrices.
+
+
+== ඉතිහාසය ==
+Matrices have a long history of application in solving linear equations. The Chinese text The Nine Chapters on the Mathematical Art (Jiu Zhang Suan Shu), from between 300 BC and AD 200, is the first example of the use of matrix methods to solve simultaneous equations, including the concept of determinants, over 1000 years before its publication by the Japanese mathematician Seki in 1683 and the German mathematician Leibniz in 1693. Cramer presented his rule in 1750.
+Early matrix theory emphasized determinants more strongly than matrices and an independent matrix concept akin to the modern notion emerged only in 1858, with Cayley's Memoir on the theory of matrices. The term "matrix" (Latin for "womb", derived from mater—mother) was coined by Sylvester, who understood a matrix as an object giving rise to a number of determinants today called minors, that is to say, determinants of smaller matrices that derive from the original one by removing columns and rows. In a 1851 paper, Sylvester explains:  
+
+I have in previous papers defined a "Matrix" as a rectangular array of terms, out of which different systems of determinants may be engendered as from the womb of a common parent.
+The study of determinants sprang from several sources. Number-theoretical problems led Gauss to relate coefficients of quadratic forms, i.e., expressions such as x2 + xy − 2y2, and linear maps in three dimensions to matrices. Eisenstein further developed these notions, including the remark that, in modern parlance, matrix products are non-commutative. Cauchy was the first to prove general statements about determinants, using as definition of the determinant of a matrix A = [ai,j] the following: replace the powers ajk by ajk in the polynomial
+
+  
+    
+      
+        
+          a
+          
+            1
+          
+        
+        
+          a
+          
+            2
+          
+        
+        ⋯
+        
+          a
+          
+            n
+          
+        
+        
+          ∏
+          
+            i
+            <
+            j
+          
+        
+        (
+        
+          a
+          
+            j
+          
+        
+        −
+        
+          a
+          
+            i
+          
+        
+        )
+        
+        ,
+      
+    
+    {\displaystyle a_{1}a_{2}\cdots a_{n}\prod _{i<j}(a_{j}-a_{i})\;,}
+  
+
+where Π denotes the product of the indicated terms. He also showed, in 1829, that the eigenvalues of symmetric matrices are real. Jacobi studied "functional determinants"—later called Jacobi determinants by Sylvester—which can be used to describe geometric transformations at a local (or infinitesimal) level, see above; Kronecker's Vorlesungen über die Theorie der Determinanten and Weierstrass' Zur Determinantentheorie, both published in 1903, first treated determinants axiomatically, as opposed to previous more concrete approaches such as the mentioned formula of Cauchy. At that point, determinants were firmly established.
+Many theorems were first established for small matrices only, for example the Cayley–Hamilton theorem was proved for 2×2 matrices by Cayley in the aforementioned memoir, and by Hamilton for 4×4 matrices. Frobenius, working on bilinear forms, generalized the theorem to all dimensions (1898). Also at the end of the 19th century the Gauss–Jordan elimination (generalizing a special case now known as Gauss elimination) was established by Jordan. In the early 20th century, matrices attained a central role in linear algebra. partially due to their use in classification of the hypercomplex number systems of the previous century.
+The inception of matrix mechanics by Heisenberg, Born and Jordan led to studying matrices with infinitely many rows and columns. Later, von Neumann carried out the mathematical formulation of quantum mechanics, by further developing functional analytic notions such as linear operators on Hilbert spaces, which, very roughly speaking, correspond to Euclidean space, but with an infinity of independent directions.
+
+
+=== ලෝක ඉතිහාසයේ ගණිතය තුළ න්‍යසයන්හි වෙනත් භාවිත ===
+The word has been used in unusual ways by at least two authors of historical importance.
+Bertrand Russell and Alfred North Whitehead in their Principia Mathematica (1910–1913) use the word matrix in the context of their Axiom of reducibility. They proposed this axiom as a means to reduce any function to one of lower type, successively, so that at the “bottom” (0 order) the function is identical to its extension:
+
+“Let us give the name of matrix to any function, of however many variables, which does not involve any apparent variables. Then any possible function other than a matrix is derived from a matrix by means of generalization, i.e., by considering the proposition which asserts that the function in question is true with all possible values or with some value of one of the arguments, the other argument or arguments remaining undetermined”.
+For example a function Φ(x, y) of two variables x and y can be reduced to a collection of functions of a single variable, e.g., y, by “considering” the function for all possible values of “individuals” ai substituted in place of variable x. And then the resulting collection of functions of the single variable y, i.e., ∀ai: Φ(ai, y), can be reduced to a “matrix” of values by “considering” the function for all possible values of “individuals” bi substituted in place of variable y:
+
+∀bj∀ai: Φ(ai, bj).
+Alfred Tarski in his 1946 Introduction to Logic used the word “matrix” synonymously with the notion of truth table as used in mathematical logic.
+
+
+== See also ==
+
+
+== සටහන් ==
+
+
+== නිර්දේශ ==
+Arnold, V. I.; Cooke, Roger (1992), Ordinary differential equations, Berlin, New York: Springer-Verlag,  
+Artin, Michael (1991), Algebra, Prentice Hall,  
+Association for Computing Machinery (1979), Computer Graphics, Tata McGraw–Hill,  
+Baker, Andrew J. (2003), Matrix Groups: An Introduction to Lie Group Theory, Berlin, New York: Springer-Verlag,  
+Bau III, David; Trefethen, Lloyd N. (1997), Numerical linear algebra, Philadelphia: Society for Industrial and Applied Mathematics,  
+Bretscher, Otto (2005), Linear Algebra with Applications (3rd ed.), Prentice Hall 
+Bronson, Richard (1989), Schaum's outline of theory and problems of matrix operations, New York: McGraw–Hill,  
+Brown, William A. (1991), Matrices and vector spaces, New York: M. Dekker,  
+Coburn, Nathaniel (1955), Vector and tensor analysis, New York: Macmillan,  
+Conrey, J. B. (2007), Ranks of elliptic curves and random matrix theory, Cambridge University Press,  
+Fudenberg, D.; Tirole, Jean (1983), Game Theory, MIT Press 
+Gilbarg, David; Trudinger, Neil S. (2001), Elliptic partial differential equations of second order (2nd ed.), Berlin, New York: Springer-Verlag,  
+Godsil, Chris; Royle, Gordon (2004), Algebraic Graph Theory, Graduate Texts in Mathematics, 207, Berlin, New York: Springer-Verlag,  
+Golub, Gene H.; Van Loan, Charles F. (1996), Matrix Computations (3rd ed.), Johns Hopkins,  
+Greub, Werner Hildbert (1975), Linear algebra, Graduate Texts in Mathematics, Berlin, New York: Springer-Verlag,  
+Halmos, Paul Richard (1982), A Hilbert space problem book, Graduate Texts in Mathematics, 19 (2nd ed.), Berlin, New York: Springer-Verlag,  
+Horn, Roger A.; Johnson, Charles R. (1985), Matrix Analysis, Cambridge University Press,  
+Householder, Alston S. (1975), The theory of matrices in numerical analysis, New York: Dover Publications 
+Krzanowski, W. J. (1988), Principles of multivariate analysis, Oxford Statistical Science Series, 3, The Clarendon Press Oxford University Press,  
+Itõ, Kiyosi, ed. (1987), Encyclopedic dictionary of mathematics. Vol. I--IV (2nd ed.), MIT Press,  
+Lang, Serge (1969), Analysis II, Addison-Wesley 
+Lang, Serge (1987a), Calculus of several variables (3rd ed.), Berlin, New York: Springer-Verlag,  
+Lang, Serge (1987b), Linear algebra, Berlin, New York: Springer-Verlag,  
+සැකිල්ල:Lang Algebra
+Latouche, G.; Ramaswami, V. (1999), Introduction to matrix analytic methods in stochastic modeling (1st ed.), Philadelphia: Society for Industrial and Applied Mathematics,  
+Manning, Christopher D.; Schütze, Hinrich (1999), Foundations of statistical natural language processing, MIT Press,  
+Mehata, K. M.; Srinivasan, S. K. (1978), Stochastic processes, New York: McGraw–Hill,  
+Mirsky, Leonid (1990), An Introduction to Linear Algebra, Courier Dover Publications, , http://books.google.com/?id=ULMmheb26ZcC&pg=PA1&dq=linear+algebra+determinant 
+Nocedal, Jorge; Wright, Stephen J. (2006), Numerical Optimization (2nd ed.), Berlin, New York: Springer-Verlag, p. 449,  
+Oualline, Steve (2003), Practical C++ programming, O'Reilly,  
+Press, William H.; Flannery, Brian P.; Teukolsky, Saul A.; Vetterling, William T. (1992), "LU Decomposition and Its Applications", Numerical Recipes in FORTRAN: The Art of Scientific Computing (2nd ed.), Cambridge University Press, pp. 34–42, http://www.mpi-hd.mpg.de/astrophysik/HEA/internal/Numerical_Recipes/f2-3.pdf 
+Punnen, Abraham P.; Gutin, Gregory (2002), The traveling salesman problem and its variations, Boston: Kluwer Academic Publishers,  
+Reichl, Linda E. (2004), The transition to chaos: conservative classical systems and quantum manifestations, Berlin, New York: Springer-Verlag,  
+Rowen, Louis Halle (2008), Graduate Algebra: noncommutative view, Providence, R.I.: American Mathematical Society,  
+Šolin, Pavel (2005), Partial Differential Equations and the Finite Element Method, Wiley-Interscience,  
+Stinson, Douglas R. (2005), Cryptography, Discrete Mathematics and Its Applications, Chapman & Hall/CRC,  
+Stoer, Josef; Bulirsch, Roland (2002), Introduction to Numerical Analysis (3rd ed.), Berlin, New York: Springer-Verlag,  
+Ward, J. P. (1997), Quaternions and Cayley numbers, Mathematics and its Applications, 403, Dordrecht: Kluwer Academic Publishers Group,  
+Wolfram, Stephen (2003), The Mathematica Book (5th ed.), Champaign, Ill: Wolfram Media,  
+
+
+=== භෞතික විද්‍යා නිර්දේශ ===
+Bohm, Arno (2001), Quantum Mechanics: Foundations and Applications, Springer,  
+Burgess, Cliff; Moore, Guy (2007), The Standard Model. A Primer, Cambridge University Press,  
+Guenther, Robert D. (1990), Modern Optics, John Wiley,  
+Itzykson, Claude; Zuber, Jean-Bernard (1980), Quantum Field Theory, McGraw–Hill,  
+Riley, K. F.; Hobson, M. P.; Bence, S. J. (1997), Mathematical methods for physics and engineering, Cambridge University Press,  
+Schiff, Leonard I. (1968), Quantum Mechanics (3rd ed.), McGraw–Hill 
+Weinberg, Steven (1995), The Quantum Theory of Fields. Volume I: Foundations, Cambridge University Press,  
+Wherrett, Brian S. (1987), Group Theory for Atoms, Molecules and Solids, Prentice–Hall International,  
+Zabrodin, Anton; Brezin, Édouard; Kazakov, Vladimir; Serban, Didina; Wiegmann, Paul (2006), Applications of Random Matrices in Physics (NATO Science Series II: Mathematics, Physics and Chemistry), Berlin, New York: Springer-Verlag,  
+
+
+=== පෞරාණික නිර්දේශ ===
+Bôcher, Maxime (2004), Introduction to higher algebra, New York: Dover Publications,  , reprint of the 1907 original edition
+Cayley, Arthur (1889), The collected mathematical papers of Arthur Cayley, I (1841–1853), Cambridge University Press, pp. 123–126, http://www.hti.umich.edu/cgi/t/text/pageviewer-idx?c=umhistmath;cc=umhistmath;rgn=full%20text;idno=ABS3153.0001.001;didno=ABS3153.0001.001;view=image;seq=00000140 
+Dieudonné, Jean, ed. (1978), Abrégé d'histoire des mathématiques 1700-1900, Paris: Hermann 
+Hawkins, Thomas (1975), "Cauchy and the spectral theory of matrices", Historia Mathematica 2:  1–29, ,  
+Knobloch, Eberhard (1994), "From Gauss to Weierstrass: determinant theory and its historical evaluations", The intersection of history and mathematics, Sci. Networks Hist. Stud., 15, Basel, Boston, Berlin: Birkhäuser, pp. 51–66 
+Kronecker, Leopold (1897), Hensel, Kurt, ed., Leopold Kronecker's Werke, Teubner, http://name.umdl.umich.edu/AAS8260.0002.001 
+Mehra, J.; Rechenberg, Helmut (1987), The Historical Development of Quantum Theory (1st ed.), Berlin, New York: Springer-Verlag,  
+Shen, Kangshen; Crossley, John N.; Lun, Anthony Wah-Cheung (1999), Nine Chapters of the Mathematical Art, Companion and Commentary (2nd ed.), Oxford University Press,  
+Weierstrass, Karl (1915), Collected works, 3, http://name.umdl.umich.edu/AAN8481.0003.001 
+
+
+== භාහිර ඈඳුම් ==
+
+History
+MacTutor: Matrices and determinants
+Matrices and Linear Algebra on the Earliest Uses Pages
+Earliest Uses of Symbols for Matrices and Vectors
+Online books
+Kaw, Autar K., Introduction to Matrix Algebra, , http://autarkaw.com/books/matrixalgebra/index.html 
+ The Matrix Cookbook, http://matrixcookbook.com, ප්‍රතිෂ්ඨාපනය 12/10/2008 
+Brookes, M. (2005), The Matrix Reference Manual, London: Imperial College, http://www.ee.ic.ac.uk/hp/staff/dmb/matrix/intro.html, ප්‍රතිෂ්ඨාපනය 12/10/2008 
+Online matrix calculators
+ SuperiorMath (Matrix Calculator), http://www.webalice.it/simoalessia/SuperiorMath/matrix.html, ප්‍රතිෂ්ඨාපනය 2011-11-29 
+ Matrix Calculator (DotNumerics ), http://www.dotnumerics.com/MatrixCalculator/ 
+Xiao, Gang, Matrix calculator, http://wims.unice.fr/wims/wims.cgi?module=tool/linear/matrix.en, ප්‍රතිෂ්ඨාපනය 12/10/2008 
+ Online matrix calculator, http://www.bluebit.gr/matrix-calculator/, ප්‍රතිෂ්ඨාපනය 2011-11-29 
+ Online matrix calculator(ZK framework), http://matrixcalc.info/MatrixZK/, ප්‍රතිෂ්ඨාපනය 2011-11-29 
+Oehlert, Gary W.; Bingham, Christopher, MacAnova, University of Minnesota, School of Statistics, http://www.stat.umn.edu/macanova/macanova.home.html, ප්‍රතිෂ්ඨාපනය 12/10/2008 , a freeware package for matrix algebra and statistics
+ Online matrix calculator, http://www.idomaths.com/matrix.php, ප්‍රතිෂ්ඨාපනය 12/14/2009 
+Operation with matrices in R (determinant, track, inverse, adjoint, transpose) සංරක්ෂණය කළ පිටපත 2011-07-18 at the Wayback Machine

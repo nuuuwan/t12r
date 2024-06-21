@@ -1,0 +1,43 @@
+Contactless payment පද්ධති යනු radio-frequency identification (RFID) හෝ near field communication (NFC, උදා. Samsung Pay, Apple Pay, Google Pay, Fitbit Pay, හෝ contactless සඳහා සහය දක්වන ඕනෑම bank mobile application එකක්) හරහා credit card, debit card, key fob, smart card හෝ smartphone සහ වෙනත් mobile device ඇතුළු වෙනත් උපාංග භාවිතා කරමින් ආරක්ෂිත ගෙවීම් සිදු කරන ක්‍රමවේදයක් වේ.
+
+
+== ඉතිහාසය ==
+
+
+== ආරක්ෂාව ==
+2006 දී ආරක්ෂක පර්යේෂකයන් විසින් කාඩ්පත් හිමියාගේ නම, ක්‍රෙඩිට් කාඩ් අංකය සහ කල් ඉකුත්වන දිනය, සංකේතනයකින් (encryption) තොරව contactless ගෙවීම් කාඩ්පත් මගින් සම්ප්‍රේෂණය විය හැකි බව සොයා ගන්නා ලදී. කාඩ්පත යවන ලද ලියුම් කවරය විවෘත නොකර අන්තර්ජාලය හරහා මිලදී ගැනීමක් කිරීමට සම්බන්ධතා රහිත ක්‍රෙඩිට් කාඩ්පතකින් 
+අනවශ්‍ය ලෙස සම්ප්‍රේෂණය වූ තොරතුරු භාවිතා කිරීමට ඔවුන්ට හැකි විය.
+සමහර අවස්ථාවලදී PIN ඇතුළත් කිරීමේ අවශ්‍යතාවයකින් තොරව තනි ගනුදෙනු සඳහා ගෙවීම් සීමාවක් තිබිය හැකි අතර, සමහර contactless කාඩ්පත් පාරිභෝගිකයින්ට ඔවුන්ගේ PIN අංකය ඉල්ලා සිටීමට පෙර නිශ්චිත වාර ගණනක් පමණක් භාවිත කළ හැක. contactless හර සහ ණය ගනුදෙනු පැරණි කාඩ්පත් මෙන් එකම චිප් සහ PIN ජාලය භාවිතා කරන අතර එම fraud guarantees ඒවාටද වලංගු වේ යැයි සැලකේ. කාඩ් පත භාවිතය PIN සඳහා සහය දක්වන විට, සම්මත chip සහ PIN ගනුදෙනුවක් ක්‍රියාත්මක වන තෙක් කාඩ්පතේ contactless කොටස ක්‍රියාකාරී නොවී පැවතිය හැක. This provides some verification that the card was delivered to the actual cardholder.
+වංචා සහතික කිරීමේ ප්‍රමිතීන් (fraud guarantee standards) යටතේ, contactless කාඩ්පත් වෙත අය කරන ඕනෑම වංචනික ගනුදෙනු සඳහා ඇමෙරිකාවේ බැංකු වගකිව යුතුය. 
+
+
+== ආශ්‍රිත ==
+Apple Pay
+Digital currency
+Contactless smart card
+Cashless society and reducing disease transmittal
+Dashtop mobile
+Google Pay
+Microsoft Pay
+Mobile payment
+Near field communication
+Proximity card
+Octopus card
+OPUS card
+Oyster card
+Presto card
+Opal card
+Ventra
+Samsung Pay
+Softcard (formerly Isis mobile wallet)
+Vicinity cards
+
+
+== මූලාශ්‍ර ==
+
+
+== භාහිර සබැඳි ==
+A Comprehensive Technical Overview of Contactless
+ Contactless.info, http://www.contactless.info/  is designed to provide information for UK retailers that have an interest in Contactless card acceptance]
+New credit cards pose security problem, CBC News
+Chase's "blink" uses RFID

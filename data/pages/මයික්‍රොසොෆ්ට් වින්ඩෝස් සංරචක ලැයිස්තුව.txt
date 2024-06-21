@@ -1,0 +1,101 @@
+පහත දැක්වෙනුයේ මයික්‍රොසොෆ්ට් වින්ඩෝස් සංරචක ලැයිස්තුවකි.
+
+
+== වින්‍යාසය සහ නඩත්තු ==
+
+
+== User interface ==
+
+
+== Applications and utilities ==
+
+
+== Windows Server components ==
+
+
+== File systems ==
+
+
+== Core components ==
+
+
+== Services ==
+This list is not all-inclusive (see also: Windows Services).
+
+
+== Games ==
+
+
+== DirectX ==
+Direct3D
+DirectDraw
+DirectInput
+DirectMusic
+DirectPlay
+DirectShow
+DirectSound
+DirectX Media Objects
+DirectX plugin
+DirectX Video Acceleration
+
+
+== Networking ==
+Administrative share
+Distributed File System
+My Network Places (formerly Network Neighborhood)
+Network Access Protection
+Remote Installation Services
+Server Message Block
+Windows Rights Management Services
+
+
+== Scripting and command-line ==
+Batch file
+CHKDSK
+Cmd.exe
+ComSpec
+Ipconfig
+Net
+Net Send
+Netdom.exe: Windows Domain Manager
+Netsh
+Netstat
+QBasic
+Regsvr32
+Robocopy
+Win32 console
+Windows Script Host
+Windows PowerShell
+XCOPY
+
+
+== Kernel ==
+Commit charge
+Kernel Transaction Manager
+Win32 Thread Information Block
+
+
+== .NET Framework ==
+.NET assembly
+.NET Languages
+.NET metadata
+.NET Remoting
+ADO.NET
+ASP.NET
+Base Class Library
+Common Intermediate Language
+Common Language Infrastructure
+Common Language Runtime
+Common Type System
+Virtual Execution System
+Windows CardSpace
+Windows Communication Foundation
+Windows Forms
+Windows Presentation Foundation
+Windows Workflow Foundation
+
+
+== Security ==
+
+
+== Deprecated components and programs ==

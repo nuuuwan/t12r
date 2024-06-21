@@ -1,0 +1,24 @@
+අන්තර්ජාල ආරක්‍ෂාව පරිගණක ආරක්ෂාවේ කොටසක් ලෙසද  විශේෂයෙන්ම අන්තර්ජාලයේ කොටසක් ලෙසද දක්විය හැකිය. එහි අරමුණ වන්නේ අන්තර්ජාල හැරහා සිදුවන ආක්‍රමණ වලට විරුද්දව අවශ්‍ය නීති රීති හා ක්‍රියාමාර්ග පිහිටුවීමයි.  අන්තර්ජාලය බලාත් ප්‍රවේශය,තතුබෑම වැනි වංචා නිසා තොරතුරු හුවමාරු කරගැනීමේ අවිශ්වාස දායක මාධ්‍යක් වී ඇත. මෙනිසා ගුප්ත ඛේතනය යොදාගනිමින් දත්ත හුවමාරු කරගැනීම සඳහා විවිධ විධික්‍රම යොදාගෙන ඇත.
+
+
+== ආරක්‍ෂණ මාදිලි ==
+
+
+=== ජාලක ස්ථරයේ (Network layer) ආරක්‍ෂාව ===
+සම්ප්රේෂණ පාලන ප්‍රොටෝකෝලය (TCP) සහ අන්තර්ජාල ප්‍රොටෝකෝලය ගුප්ත ඛේතන ක්‍රම මගින් හා ප්‍රොටෝකෝලන් මගින් ආරක්‍ෂා කළ හැකිය. මෙම ප්‍රොටෝකෝල අතර ආරක්‍ෂිත කෙවෙනි ස්තරය ( SSL) (SSL), ජාල ගමනාගමනය සඳහා Transport Layer Security (TLS), විද්‍යුත් තැපෑල සඳහා  Pretty Good Privacy (PGP) දැක්විය හැකිය.
+
+
+== මූලාශ්‍ර ==
+
+
+== බාහිර සබැදි ==
+National Institute of Standards and Technology (NIST.gov) - Information Technology portal with links to computer- and cyber security
+National Institute of Standards and Technology (NIST.gov) -Computer Security Resource Center -Guidelines on Electronic Mail Security, version 2
+The Internet Engineering Task Force.org - UK organization -IP Authentication Header 1998
+The Internet Engineering Task Force.org - UK organization -Encapsulating Security Payload
+Wireless Safety.org - Up to date info on security threats, news stories, and step by step tutorials
+PwdHash Stanford University - Firefox & IE browser extensions that transparently convert a user's password into a domain-specific password.
+Internet security.net සංරක්ෂණය කළ පිටපත 2018-11-20 at the Wayback Machine - by JC Montejo & Goio Miranda (free security programs), est 2007.
+Internet and Data Security Guide සංරක්ෂණය කළ පිටපත 2014-02-22 at the Wayback Machine UK anonymous membership site
+Cybertelecom.org Security - surveying federal Internet security work
+DSL Reports.com- Broadband Reports, FAQs and forums on Internet security, est 1999

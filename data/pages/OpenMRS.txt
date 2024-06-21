@@ -1,0 +1,43 @@
+OpenMRS is a collaborative open source project to develop excellent software to support the delivery of health care in developing countries. It grew out of the critical need to scale up the treatment of HIV in Africa but from the start was conceived as a general purpose electronic medical record system that could support the full range of medical treatments. The first ideas and prototype of OpenMRS were conceived by Paul Biondich and Burke Mamlin from the Regenstrief Institute, Indiana on a visit to the AMPATH project in Eldoret, Kenya in February 2004. Around the same time the EMR team at Partners In Health led by Hamish Fraser and Darius Jazayeri were looking at ways to scale up the PIH-EMR සංරක්ෂණය කළ පිටපත 2009-10-11 at the Wayback Machine web-based medical record system developed to manage drug resistant tuberculosis in Peru, and HIV in rural Haiti. Paul, Burke and Hamish met in September 2004 at the Medinfo conference in San Francisco, and recognized they had a common approach to medical information systems and a similar philosophy for healthcare and development and OpenMRS was born. Later, Chris Seebregts of the South African Medical Research Council (MRC) became the fourth founding member. 
+OpenMRS is founded on the principles of openness and sharing of ideas, software and strategies for deployment and use. The system is designed to be usable in very resource poor environments and can be modified with the addition of new data items, forms and reports without programming. It is intended as a platform that many organizations can adopt and modify avoiding the need to develop a system from scratch. 
+
+
+== Design ==
+OpenMRS is based on a "concept dictionary" that describes all the data items that can be stored in the system such as clinical findings, laboratory test results or socio-economic data. This approach avoids the need to modify the database structure to add new diseases for example, and facilitates sharing of data dictionaries between projects and sites. An important features of OpenMRS is its modular construction which allows the programming of new functions without modifying the core code. OpenMRS is web based but can be deployed on a single laptop or on a large server and runs on Linux, Windows or Mac OS X.
+Other key features of OpenMRS:
+
+Built on the MySQL database (but uses Hibernate allowing it to be ported to other databases)
+programmed in Java
+Includes tools for data export and reporting
+Versions currently exist for HIV/AIDS, Drug resistant TB, primary care and oncology
+Supports open standards for medical data exchange including HL7, LOINC and IXF
+Currently being tested:
+
+Tools for data synchronization between systems connected by slow or unreliable internet
+A "logic service" that allows clinical alerts and reminders to be created in a medical standard Arden syntax
+User interface improvements
+Tools to link to hand held devices and cell phones (JavaROSA සංරක්ෂණය කළ පිටපත 2010-03-25 at the Wayback Machine project)
+Research data collection tools for clinical trials and community data collection projects
+
+
+== Deployments ==
+The first deployment was in Eldoret, Kenya in February 2006 followed by the PIH hospital in Rwinkwavu සංරක්ෂණය කළ පිටපත 2010-04-23 at the Wayback Machine, Rwanda in August 2006 and Richmond hospital, South Africa later that year. OpenMRS is in use in at least 14 countries mostly in Africa, and there are over 1 Million patient records in all the systems. Most deployments are run by separate groups who carry out the work on the ground with technical support and training from the core OpenMRS team. There have been three OpenMRS annual meetings all in South Africa, organized by Chris Seebregts who also leads the OpenMRS implementers group. There are three known deployments supporting clinical care in the US, in Indianapolis, Los Angeles and in Maryland.
+
+
+== Support ==
+OpenMRS is supported by the core teams from Partners In Health, The Regenstrief Institute and the South African MRC. Other organizations that collaborate on OpenMRS are the Millenium Villages Project, based at Columbia University and Baobab Health Systems සංරක්ෂණය කළ පිටපත 2010-03-29 at the Wayback Machine, Malawi.
+
+
+== Community ==
+The OpenMRS community includes developers, implementers, and users from multiple countries who collaborate through mailing lists, IRC, and annual conferences.  OpenMRS participated in Google Summer of Code in 2007 and 2008.
+
+
+== බාහිර සබැඳි ==
+OpenMRS
+Regenstrief Institute
+Partners In Health
+Podcast/MP3 of an episode of the BBC radioprogramme Digital Planet.  Described OpenMRS on 2008-06-23; 07m 02s - 14 m 23s.
+OpenMRS presentation for Google Tech Talks. August 23, 2007 සංරක්ෂණය කළ පිටපත ජූනි 4, 2011 at the Wayback Machine
+
+
+== References ==

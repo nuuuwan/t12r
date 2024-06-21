@@ -1,0 +1,22 @@
+In Unicode, a block is defined as one contiguous range of code points. Blocks are named uniquely and have no overlap. They have a starting code point of the form hhh0 and an ending code point of the form hhhF. A block explicitly can include code points that are unassigned and non-characters. Code points not belonging to any of the named blocks, e.g. in the unassigned planes 3–13, have the value block="No_block". 
+Conversely, every assigned code point has a property "Block name", which names in which block the character is. This is determined by the code point only, although a block name will have a descriptive nature: "Tibetan" or "Supplemental Arrows-A". All assigned code points have a single block name. 
+Subdivisions, such as "Chess symbols" in the block Miscellaneous symbols, are not a "block". The subgroup name is an informative editorial addition only.
+The number of code points in a Unicode block is a multiple of 16. Unicode blocks range in size from the minimum of 16 to a maximum of 65,536 code points.
+Unicode 10.0 defines 280 blocks:
+
+162 in plane 0, the Basic Multilingual Plane (BMP)
+108 in plane 1, the Supplementary Multilingual Plane (SMP)
+6 in plane 2, the Supplementary Ideographic Plane (SIP)
+2 in plane 14 (E in hexadecimal), the Supplementary Special-purpose Plane (SSP)
+One each in planes 15 (Fhex) and 16 (10hex), called Supplementary Private Use Area-A and -B
+
+
+== See also ==
+Scripts in Unicode
+
+
+== References ==
+
+
+== External links ==
+Official web site of the Unicode Consortium (English)

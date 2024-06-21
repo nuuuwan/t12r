@@ -1,0 +1,18 @@
+වේසොප්‍රෙසින්, හෙවත් ප්‍රතිමෞත්‍රල්‍ය හෝර්මෝනය (ADH),   ආර්ජිනීන් වේසොප්‍රෙසින් (AVP) හෝ ආර්ජිප්‍රෙසින්, යනුවෙන් හැඳින්වෙන්නේ හෝර්මෝන synthesized as a peptide prohormone in neurons in the hypothalamus, and is converted to AVP. It then travels down the axon of that cell, which terminates in the posterior pituitary, and is released from vesicles into the circulation in response to extracellular fluid hypertonicity (hyperosmolality). AVP has two primary functions. First, it increases the amount of solute-free water reabsorbed back into the circulation from the filtrate in the kidney tubules of the nephrons. Second, AVP constricts arterioles, which increases peripheral vascular resistance and raises arterial blood pressure.
+A third function is possible. Some AVP may be released directly into the brain from the hypothalamus, and may play an important role in social behavior, sexual motivation and pair bonding, and maternal responses to stress.
+Vasopressin induces differentiation of stem cells into cardiomyocytes and promotes heart muscle homeostasis.
+It has a very short half-life, between 16–24 minutes.
+
+
+== ආශ්‍රේයයන් ==
+
+
+== වැඩිදුර කියවීමට ==
+Rector, Floyd C.; Brenner, Barry M. (2004). Brenner & Rector's the kidney (7th ed.). Philadelphia: Saunders. ISBN 978-0-7216-0164-9. 2016-03-03 දින මුල් පිටපත වෙතින් සංරක්ෂණය කරන ලදී. සම්ප්‍රවේශය 2020-09-07. {{cite book}}: Unknown parameter |name-list-format= ignored (help)
+
+සැකිල්ල:PDB Gallery
+සැකිල්ල:Hormones
+
+සැකිල්ල:Neuropeptides
+සැකිල්ල:Neurotransmitters
+සැකිල්ල:Oxytocin and vasopressin receptor modulators

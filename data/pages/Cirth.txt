@@ -1,0 +1,20 @@
+
+== Usage ==
+This template returns a Wikipedia article name for an alpha-4 script code:
+
+{{ISO 15924/wp-name|Cirt}} → Cirth so the link is: Cirth
+Note: when resolving red links or wrong links, please edit this {{ISO 15924/wp-name}} or {{ISO 15924/wp-category}}. This is where the connection between ISO code and a Wikipedia article is made. You might also consider using a redirect. (We cannot change ISO 15924 itself.)
+
+
+== See also ==
+{{ISO 15924/wp-name/label}} to add a label in a wikilink:
+[[Fraktur (script)|Fraktur]]
+
+
+== Test ==
+Special input
+සැකිල්ල:ISO 15924/wp-name/testline
+සැකිල්ල:ISO 15924/wp-name/testline (no input)
+සැකිල්ල:ISO 15924/wp-name/testline
+
+සැකිල්ල:ISO 15924 templates/doc

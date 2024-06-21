@@ -1,0 +1,23 @@
+
+== යෝජිත සිංහල අක්‍ෂර මාලාව ==
+යෝජිත සිංහල අක්‍ෂර මාලාව(75) 
+ස්වර (21)
+
+අ(a)  ආ(aa)  ඉ(i)  ඊ(ii)  උ(u)  ඌ(uu)  ඍ(rui)  ඎ(ruui)  ඏ(lui)  ඐ(luui) 
+ඇ(ae)  ඈ(aeh)  එ(e)  ඒ(ee)  ඔ(o)  ඕ(oo)  ඓ(ai)  ඖ(au)  අං(ang)  අඃ(aħ)  අ'(ə)
+
+ව්‍යංජනාක්‍ෂර (41)
+
+ක(ka)  ඛ(kha)  ග(ga)  ඝ(gha)  ඞ(ňa)  ඟ(ğga)
+ච(ca)  ඡ(cha)  ජ(j)   ඣ(jha)  ඤ(ña)  ඥ(jña)
+ට(ța)  ඨ(țha)  ඩ(đa)  ඪ(đha)  ණ(ńa)  ඬ(ğđa)
+ත(ta)  ථ(tha)  ද(da)  ධ(dha)  න(na)  ඳ(ğda)
+ප(pa)  ඵ(pha)  බ(ba)  භ(bha)  ම(ma)  ඹ(ğba)
+ය(ya)  ර(ra)  ල(la)  ව(va)  ළ(ļa)
+ශ(şa)  ෂ(sha)  ඦ(za)  ස(sa)  හ(ha)  ෆ(fa)
+
+ආවශ්‍යක සංයුක්තාක්‍ෂර(13)
+
+ක්‍ව(kwa) ක්‍ෂ(ksha) ග්‍ධ(gdha) ට්‍ඨ(țțha) ත්‍ව(twa) ත්‍ථ(ttha) ද්‍ධ්(ddha)  න්‍ථ(ntha) න්‍ද(nda) න්‍ධ(ndha)     ර්‍ (r) ්‍ර (r) ්‍ය(y) 
+
+ක(ka) කා(kaa) කි(ki) කී(kii) කු(ku) කූ(kuu) කෘ(krui) කෘෘ(kruui) කෟ(klui) කෳ(kluui) කැ(kae) කෑ(kaeh) කෙ(ke) කේ(kee) කො(ko) කෝ(koo) කෙෙ(kai) කෞ(kau) කං(kang) කඃ(kaħ) ක'(kə) ක්‍ර(kra) ර්‍ක(rka) ක්‍ය(kya)

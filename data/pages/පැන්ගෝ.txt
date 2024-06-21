@@ -1,0 +1,15 @@
+In computing, පැන්ගෝ හෙවත් පැංගෝ (Pango) is an විවෘත මූලාශ්‍ර library for rendering internationalized texts integrated into GTK+ 2. The name pango is from (ග්‍රීක බසින්්්  "පැන්/Pan" (Παν; lit. all) + ජපන් බසින්්්   "ගෝ/Go" (語; lit. භාෂාව).
+
+
+== තවද බලන්න ==
+
+යුනිස්ක්‍රයිබ් (Windows multilingual text rendering engine)
+WorldScript (Old Macintosh multilingual text rendering engine)
+Apple Type Services for Unicode Imaging (New Macintosh multilingual text rendering engine)
+Graphite (multiplatform open source renderer from SIL)
+
+
+== අඩවියෙන් බැහැර පිටු ==
+http://www.pango.org/ - පැන්ගෝ/පැංගෝ වෙබ් අඩවිය
+http://www-128.ibm.com/developerworks/linux/library/l-u-pango1/ Pango introduction
+සැකිල්ල:GNOME-stub
