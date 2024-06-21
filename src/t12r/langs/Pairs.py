@@ -47,5 +47,4 @@ class Pairs(PairsDataTyping):
         pairs = Pairs.build_pairs()
         char_str = ''.join([pair[i_src] for pair in pairs])
         unique_char_str = ''.join(sorted(list(set(char_str))))
-        print(unique_char_str)
         return unique_char_str
