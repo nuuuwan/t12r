@@ -1,6 +1,6 @@
 import os
 
-from utils import File, Console
+from utils import Console, File
 
 from t12r import Sinhala
 
