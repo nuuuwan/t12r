@@ -136,7 +136,7 @@
 
 ලක්දිවෙන් හමු වී ඇති පැරණිතම මානව අවශේෂ වසර 125,000 ක් තරම් ඈත අතීතයකට දිව යයි (බලංගොඩ මානවයා). යාල ජාතික වනෝද්‍යානයේ බ්ලොක් 2 කොටසෙහි තවත් ටික දුරකට වන්නට ගොඩ බසින ලද අප්‍රිකානු චිම්පන්සියන්ගෙන් පරිනාමය වු හෝමෝසේපියන් වරුන්ගේ සාක්ෂිය.
 
-> lak-diven- hamu vii aeti paeranhitama maanava avasheexa vasara 125,000 k- taram- aaeta atiitayakaqa diva yayi (balangggoza maanavayaa). yaala jaatika vanoodyaanayee b-lok- 2 koqasehi tavat- qika durakaqa van-naqa goza basina lada aprikaanu cim-pan-siyan-gen- parinaamaya vu hoomooseepiyan- varun-gee saak-xiya.
+> lak-diven- hamu vii aeti paeranhitama maanava avasheexa vasara 125,000 k- taram- aeaeta atiitayakaqa diva yayi (balangggoza maanavayaa). yaala jaatika vanoodyaanayee b-lok- 2 koqasehi tavat- qika durakaqa van-naqa goza basina lada aprikaanu cim-pan-siyan-gen- parinaamaya vu hoomooseepiyan- varun-gee saak-xiya.
 
 ශ්‍රී ලංකාව ජනාවාස වීම සම්බන්ධ තොරතුරු ඇතුළත් පැරණිතම ලියකියවිලි ලෙස මහාවංශය, දීපවංශය සහ චූලවංශය වැනි පාලි වංශකතා දැක්විය හැකිය. උතුරු ඉන්දියාවේ සිට සිංහල ජනතාවගේ පැමිණීමේ පටන් ඉතිහාසය එම වංශකතා මඟින් විස්තර කෙරේ.[1][2][3][4] ක්‍රි.පූ. 6 වන සියවසේ දී තම්බපණ්ණි රාජධානිය පිහිටුවීම සිංහල රාජාවලියේ ආරම්භය යි. ක්‍රි. පූ. 4 වන සියවසේ දී රජකම් කළ පණ්ඩුකාභය රජු අනුරාධපුර රාජධානියේ පළමු ශ්‍රී ලාංකීය පාලකයා ලෙස සැලකේ. මහින්දාගමනය මඟින් බුදු දහම රටට හඳුන්වා දීම සිදු වී ඇත්තේ ක්‍රි. පූ. 3 වන සියවසේ දී ය.
 
@@ -184,7 +184,7 @@
 
 අංක
 
-> angka
+> ahnka
 
 ආගත
 
@@ -196,7 +196,7 @@
 
 ඈඳන
 
-> aaendana
+> aeaendana
 
 ඉටි
 

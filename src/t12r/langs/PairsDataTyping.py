@@ -1,58 +1,71 @@
+from functools import cache
+
+
+@cache
+def long(x: str) -> str:
+    return x * 2
+
+
+@cache
+def aspirate(x: str) -> str:
+    return x + 'h'
+
+
 class PairsDataTyping:
     VOWEL_PAIRS = [
         ('අ', 'a'),
-        ('ආ', 'aa'),
+        ('ආ', long('a')),
         ('ඇ', 'ae'),
-        ('ඈ', 'aae'),
+        ('ඈ', long('ae')),
         ('ඉ', 'i'),
-        ('ඊ', 'ii'),
+        ('ඊ', long('i')),
         ('උ', 'u'),
-        ('ඌ', 'uu'),
+        ('ඌ', long('u')),
         #
         ('එ', 'e'),
-        ('ඒ', 'ee'),
+        ('ඒ', long('e')),
         ('ඓ', 'ai'),
         ('ඔ', 'o'),
-        ('ඕ', 'oo'),
+        ('ඕ', long('o')),
         ('ඖ', 'au'),
         #
-        ('අං', 'ang'),
-        ('අඃ', 'ak'),
+        ('අං', 'ahn'),
+        ('අඃ', 'ahh'),
     ]
     CONSONANTS_PAIRS = [
         ('ක', 'k'),
-        ('ඛ', 'kh'),
+        ('ඛ', aspirate('k')),
         ('ග', 'g'),
-        ('ඝ', 'gh'),
+        ('ඝ', aspirate('g')),
         ('ඞ', 'gn'),
         ('ඟ', 'ng'),
         #
         ('ච', 'c'),
-        ('ඡ', 'ch'),
+        ('ඡ', aspirate('c')),
         ('ජ', 'j'),
-        ('ඣ', 'jh'),
+        ('ඣ', aspirate('j')),
         ('ඤ', 'jn'),
         ('ඥ', 'jhn'),
         ('ඦ', 'nj'),
         #
         ('ට', 'q'),
-        ('ඨ', 'qh'),
+        ('ඨ', aspirate('q')),
         ('ඩ', 'z'),
-        ('ඪ', 'zh'),
+        ('ඪ', aspirate('z')),
         ('ණ', 'nh'),
         ('ඬ', 'nz'),
         #
         ('ත', 't'),
-        ('ථ', 'th'),
+        ('ථ', aspirate('t')),
         ('ද', 'd'),
-        ('ධ', 'dh'),
+        ('ධ', aspirate('d')),
         ('න', 'n'),
         ('ඳ', 'nd'),
         #
         ('ප', 'p'),
-        ('ඵ', 'ph'),
+        ('ඵ', aspirate('p')),
         ('බ', 'b'),
-        ('භ', 'bh'),
+        ('භ', aspirate('b')),
         ('ම', 'm'),
         ('ඹ', 'mb'),
         #
