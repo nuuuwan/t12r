@@ -8,6 +8,7 @@ from t12r.langs.PairsDataTyping import PairsDataTyping
 log = Log('Pairs')
 
 
+# class Pairs(PairsDataFormal):
 class Pairs(PairsDataTyping):
     @staticmethod
     @cache
