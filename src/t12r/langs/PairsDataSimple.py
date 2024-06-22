@@ -22,7 +22,7 @@ def long(x: str) -> str:
 @cache
 def aspirate(x: str) -> str:
     assert x
-    return (x + CHAR_ASPIRATE)
+    return x + CHAR_ASPIRATE
 
 
 @cache

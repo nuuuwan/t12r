@@ -6,6 +6,7 @@ ASPIRATE_CHAR = 'h'
 LONG_CHAR = '-'
 CHAR_NASAL = 'n'
 
+
 @cache
 def bracket(x):
     assert x
