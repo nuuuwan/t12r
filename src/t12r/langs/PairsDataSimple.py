@@ -2,9 +2,10 @@ from functools import cache
 
 DASH_CHAR = ''
 NO_VOWEL_CHAR = ''
-ASPIRATE_CHAR = 'h'
-LONG_CHAR = '-'
-CHAR_NASAL = 'n'
+CHAR_ASPIRATE = 'ʰ'
+LONG_CHAR = '◌̅'
+CHAR_NASAL = 'ⁿ'
+
 
 @cache
 def bracket(x):
@@ -15,13 +16,13 @@ def bracket(x):
 @cache
 def long(x: str) -> str:
     assert x
-    return x + LONG_CHAR
+    return LONG_CHAR + x
 
 
 @cache
 def aspirate(x: str) -> str:
     assert x
-    return bracket(x + ASPIRATE_CHAR)
+    return (x + CHAR_ASPIRATE)
 
 
 @cache
@@ -32,16 +33,16 @@ def upper(x: str) -> str:
 @cache
 def nasal(x: str) -> str:
     assert x
-    return bracket(x + CHAR_NASAL)
+    return x + CHAR_NASAL
 
 
 @cache
 def prenasal(x: str) -> str:
     assert x
-    return bracket(CHAR_NASAL + x)
+    return CHAR_NASAL + x
 
 
-class PairsDataTyping:
+class PairsDataSimple:
     VOWEL_PAIRS = [
         ('අ', 'a'),
         ('ආ', long('a')),

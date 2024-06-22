@@ -3,13 +3,15 @@ from functools import cache
 from utils import Log
 
 # from t12r.langs.PairsDataFormal import PairsDataFormal
-from t12r.langs.PairsDataTyping import PairsDataTyping
+# from t12r.langs.PairsDataTyping import PairsDataTyping
+from t12r.langs.PairsDataSimple import PairsDataSimple
 
 log = Log('Pairs')
 
 
 # class Pairs(PairsDataFormal):
-class Pairs(PairsDataTyping):
+# class Pairs(PairsDataTyping):
+class Pairs(PairsDataSimple):
     @staticmethod
     @cache
     def get_expanded_consonant_pairs():
@@ -17,8 +19,8 @@ class Pairs(PairsDataTyping):
         for si_c, en_c in Pairs.CONSONANTS_PAIRS:
             pairs.append((si_c, en_c))
             for si_v, en_v in [
-                ('\u200dය', '(y)'),
-                ('්\u200dර', '(r)'),
+                ('\u200dය', 'ʸ'),
+                ('්\u200dර', 'ʳ'),
             ]:
                 pairs.append((si_c + si_v, en_c + en_v))
         return pairs
