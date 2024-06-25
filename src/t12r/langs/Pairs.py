@@ -3,6 +3,7 @@ from functools import cache
 from utils import Log
 
 from t12r.langs.PairsDataFormal import PairsDataFormal
+
 # from t12r.langs.PairsDataTyping import PairsDataTyping
 # from t12r.langs.PairsDataSimple import PairsDataSimple
 
@@ -10,8 +11,8 @@ log = Log('Pairs')
 
 
 class Pairs(PairsDataFormal):
-# class Pairs(PairsDataTyping):
-# class Pairs(PairsDataSimple):
+    # class Pairs(PairsDataTyping):
+    # class Pairs(PairsDataSimple):
     @staticmethod
     @cache
     def get_expanded_consonant_pairs():
