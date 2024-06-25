@@ -6,213 +6,213 @@
 
 කොග්ගල වූ කලි
 
-> koggala v◌̅u kali
+> kog-gala vū kali
 
 ### National Anthem
 
 ශ්‍රී ලංකා මාතා අප ශ්‍රී ලංකා
 
-> sʰʳ◌̅i l(an)k◌̅a m◌̅at◌̅a apa sʰʳ◌̅i l(an)k◌̅a
+> ◌́sʳī langgkā mātā apa ◌́sʳī langgkā
 
 නමෝ නමෝ නමෝ නමෝ මාතා
 
-> nam◌̅o nam◌̅o nam◌̅o nam◌̅o m◌̅at◌̅a
+> namō namō namō namō mātā
 
 සුන්දර සිරිබරිනී
 
-> sundara siribarin◌̅i
+> sun-dara siribarinī
 
 සුරැඳි අති ශෝභමාන ලංකා
 
-> suraeⁿdi ati sʰ◌̅obʰam◌̅ana l(an)k◌̅a
+> suræňdi ati ◌́sōbhamāna langgkā
 
 ධාන්‍ය ධනය නෙක
 
-> dʰ◌̅an‍ya dʰanaya neka
+> dhān-‍ya dhanaya neka
 
 මල් පලතුරු පිරි ජය භුමිය රම්‍යා
 
-> mal palaturu piri jaya bʰumiya ram‍y◌̅a
+> mal- palaturu piri jaya bhumiya ram-‍yā
 
 අප හට සැප සිරි සෙත සදනා
 
-> :apa haqa saepa siri seta sadan◌̅a
+> :apa haṭa sæpa siri seta sadanā
 
 ජීවනයේ මාතා
 
-> j◌̅ivanay◌̅e m◌̅at◌̅a
+> jīvanayē mātā
 
 පිළිගනු මැන අප භක්තී පූජා
 
-> pilʰiganu maena apa bʰakt◌̅i p◌̅uj◌̅a
+> piḷiganu mæna apa bhak-tī pūjā
 
 නමෝ නමෝ මාතා අප ශ්‍රී ලංකා
 
-> nam◌̅o nam◌̅o m◌̅at◌̅a apa sʰʳ◌̅i l(an)k◌̅a
+> namō namō mātā apa ◌́sʳī langgkā
 
 නමෝ නමෝ නමෝ නමෝ මාතා
 
-> nam◌̅o nam◌̅o nam◌̅o nam◌̅o m◌̅at◌̅a
+> namō namō namō namō mātā
 
 ඔබ වේ අප විද්‍යා
 
-> :oba v◌̅e apa vid‍y◌̅a
+> :oba vē apa vid-‍yā
 
 ඔබ මය අප සත්‍යා
 
-> :oba maya apa sat‍y◌̅a
+> :oba maya apa sat-‍yā
 
 ඔබ වේ අප ශක්ති
 
-> :oba v◌̅e apa sʰakti
+> :oba vē apa ◌́sak-ti
 
 අප හද තුළ භක්තී
 
-> :apa hada tulʰa bʰakt◌̅i
+> :apa hada tuḷa bhak-tī
 
 ඔබ අප ආලෝකේ
 
-> :oba apa ◌̅al◌̅ok◌̅e
+> :oba apa ālōkē
 
 අපගේ අනුප්‍රාණේ
 
-> :apag◌̅e anupʳ◌̅aw◌̅e
+> :apagē anupʳāṇē
 
 ඔබ අප ජීවන වේ
 
-> :oba apa j◌̅ivana v◌̅e
+> :oba apa jīvana vē
 
 අප මුක්තිය ඔබ වේ
 
-> :apa muktiya oba v◌̅e
+> :apa muk-tiya oba vē
 
 නව ජීවන දෙමිනේ
 
-> nava j◌̅ivana demin◌̅e
+> nava jīvana deminē
 
 නිතින අප පුබුදු කරන් මාතා
 
-> nitina apa pubudu karan m◌̅at◌̅a
+> nitina apa pubudu karan- mātā
 
 ඥාන වීර්ය වඩවමින රැගෙන
 
-> jhn◌̅ana v◌̅irya vazavamina raegena
+> jhnāna vīr-ya vaḍavamina rægena
 
 යනු මැන ජය භූමී කරා
 
-> yanu maena jaya bʰ◌̅um◌̅i kar◌̅a
+> yanu mæna jaya bhūmī karā
 
 එක මවකගෙ දරු කැල බැවිනා
 
-> :eka mavakage daru kaela baevin◌̅a
+> :eka mavakage daru kæla bævinā
 
 යමු යමු වී නොපමා
 
-> yamu yamu v◌̅i nopam◌̅a
+> yamu yamu vī nopamā
 
 ප්‍රේම වඩා සැම භේද දුරැර දා
 
-> pʳ◌̅ema vaz◌̅a saema bʰ◌̅eda duraera d◌̅a
+> pʳēma vaḍā sæma bhēda duræra dā
 
 නමෝ නමෝ මාතා අප ශ්‍රී ලංකා
 
-> nam◌̅o nam◌̅o m◌̅at◌̅a apa sʰʳ◌̅i l(an)k◌̅a
+> namō namō mātā apa ◌́sʳī langgkā
 
 නමෝ නමෝ නමෝ නමෝ මාතා
 
-> nam◌̅o nam◌̅o nam◌̅o nam◌̅o m◌̅at◌̅a
+> namō namō namō namō mātā
 
 ### Sri Lanka
 
 ශ්‍රී ලංකාව බ්‍රිතාන්‍ය පාලන සමයේ දී සිලෝන් ලෙස හැඳින්වු අතර වර්තමානයේ නිල වශයෙන් ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජය ලෙස හදුන්වයි. ශ්‍රී ලංකාව සෙරන්ඩිබ්, සිලොන්, දීප්තිමත් දිවයින,ධර්ම දිවයින, ඉන්දියන් සාගරයේ මුතු ඇටය නමින්ද හදුන්වයි. විවිධ නම් ගණනාවකින් පුරාණයේ හැඳින්වූ මෙම දූපත "නම් දහසක් ඇති දූපත" ලෙස ප්‍රචලිත ද විය. මෙය දකුණු ආසියානු දූපතකි. එය ඉන්දියානු සාගරයේ, බෙංගාල බොක්කෙහි නිරිත දෙසින් සහ අරාබි මුහුදේ ගිනිකොන දෙසින් පිහිටා ඇත; එය ඉන්දියානු උප මහද්වීපය මන්නාරම් බොක්ක සහ පෝක් සමුද්‍ර සන්ධිය මගින් වෙන් කරනු ලැබේ. ශ්‍රී ලංකාවේ පිහිටීම ප්‍රධාන මුහුදු මාර්ගවල පිහිටීම හේතුවෙන් බටහිර ආසියාව සහ අග්නිදිග ආසියාව අතර උපායමාර්ගික නාවික සම්බන්ධකයක් ලෙස එය පුරාණ කාලයේ සිටම භාවිතය ගැණුනි. ඉන්දියානු ජනරජය සහ ශ්‍රී ලංකා ජනරජය 1976 මාර්තු 23 වන දින මනාර් බොක්ක සහ බෙංගාල බොක්කෙහි සමුද්‍ර මායිම් ස්ථාපිත කරමින් ගිවිසුමක් අත්සන් කරන ලදී. ශ්‍රී ලංකාවට ආසන්න ම රටවල් ලෙස ඉන්දියාව සහ මාලදිවයින හැදින්විය හැකිය.
 
-> sʰʳ◌̅i l(an)k◌̅ava bʳit◌̅an‍ya p◌̅alana samay◌̅e d◌̅i sil◌̅on lesa haeⁿdinvu atara vartam◌̅anay◌̅e nila vasʰayen sʰʳ◌̅i l(an)k◌̅a pʳaj◌̅at◌̅antʳika sam◌̅ajav◌̅ad◌̅i janarajaya lesa hadunvayi. sʰʳ◌̅i l(an)k◌̅ava seranzib, silon, d◌̅iptimat divayina,dʰarma divayina, indiyan s◌̅agaray◌̅e mutu aeqaya naminda hadunvayi. vividʰa nam gawan◌̅avakin pur◌̅away◌̅e haeⁿdinv◌̅u mema d◌̅upata "nam dahasak aeti d◌̅upata" lesa pʳacalita da viya. meya dakuwu ◌̅asiy◌̅anu d◌̅upataki. eya indiy◌̅anu s◌̅agaray◌̅e, beංg◌̅ala bokkehi nirita desin saha ar◌̅abi muhud◌̅e ginikona desin pihiq◌̅a aeta; eya indiy◌̅anu upa mahadv◌̅ipaya mann◌̅aram bokka saha p◌̅ok samudʳa sandʰiya magin ven karanu laeb◌̅e. sʰʳ◌̅i l(an)k◌̅av◌̅e pihiq◌̅ima pʳadʰ◌̅ana muhudu m◌̅argavala pihiq◌̅ima h◌̅etuven baqahira ◌̅asiy◌̅ava saha agnidiga ◌̅asiy◌̅ava atara up◌̅ayam◌̅argika n◌̅avika sambandʰakayak lesa eya pur◌̅awa k◌̅alay◌̅e siqama bʰ◌̅avitaya gaewuni. indiy◌̅anu janarajaya saha sʰʳ◌̅i l(an)k◌̅a janarajaya 1976 m◌̅artu 23 vana dina man◌̅ar bokka saha beංg◌̅ala bokkehi samudʳa m◌̅ayim stʰ◌̅apita karamin givisumak atsan karana lad◌̅i. sʰʳ◌̅i l(an)k◌̅avaqa ◌̅asanna ma raqaval lesa indiy◌̅ava saha m◌̅aladivayina haedinviya haekiya.
+> ◌́sʳī langgkāva britān-‍ya pālana samayē dī silōn- lesa hæňdin-vu atara var-tamānayē nila va◌́sayen- ◌́sʳī langgkā pʳajātān-tʳika samājavādī janarajaya lesa hadun-vayi. ◌́sʳī langgkāva seran-ḍib-, silon-, dīp-timat- divayina,dhar-ma divayina, in-diyan- sāgarayē mutu æṭaya namin-da hadun-vayi. vividha nam- gaṇanāvakin- purāṇayē hæňdin-vū mema dūpata "nam- dahasak- æti dūpata" lesa pʳacalita da viya. meya dakuṇu āsiyānu dūpataki. eya in-diyānu sāgarayē, benggāla bok-kehi nirita desin- saha arābi muhudē ginikona desin- pihiṭā æta; eya in-diyānu upa mahad-vīpaya man-nāram- bok-ka saha pōk- samudʳa san-dhiya magin- ven- karanu læbē. ◌́sʳī langgkāvē pihiṭīma pʳadhāna muhudu mār-gavala pihiṭīma hētuven- baṭahira āsiyāva saha ag-nidiga āsiyāva atara upāyamār-gika nāvika sam-ban-dhakayak- lesa eya purāṇa kālayē siṭama bhāvitaya gæṇuni. in-diyānu janarajaya saha ◌́sʳī langgkā janarajaya 1976 mār-tu 23 vana dina manār- bok-ka saha benggāla bok-kehi samudʳa māyim- s-thāpita karamin- givisumak- at-san- karana ladī. ◌́sʳī langgkāvaṭa āsan-na ma raṭaval- lesa in-diyāva saha māladivayina hædin-viya hækiya.
 
 ### Sri Lanka History
 
 ශ්‍රී ලංකාවේ ඉතිහාසය දකුණු ආසියාව, අග්නිදිග ආසියාව හා ඉන්දියන් සාගරය ඇතුළු ඉන්දියානු උප මහාද්වීපය හා ඒ අවට ප්‍රදේශවල ඉතිහාසය සමඟ බැඳී පවතී.
 
-> sʰʳ◌̅i l(an)k◌̅av◌̅e itih◌̅asaya dakuwu ◌̅asiy◌̅ava, agnidiga ◌̅asiy◌̅ava h◌̅a indiyan s◌̅agaraya aetulʰu indiy◌̅anu upa mah◌̅adv◌̅ipaya h◌̅a ◌̅e avaqa pʳad◌̅esʰavala itih◌̅asaya samaⁿga baeⁿd◌̅i pavat◌̅i.
+> ◌́sʳī langgkāvē itihāsaya dakuṇu āsiyāva, ag-nidiga āsiyāva hā in-diyan- sāgaraya ætuḷu in-diyānu upa mahād-vīpaya hā ē avaṭa pʳadē◌́savala itihāsaya samaňga bæňdī pavatī.
 
 ලක්දිවෙන් හමු වී ඇති පැරණිතම මානව අවශේෂ වසර 125,000 ක් තරම් ඈත අතීතයකට දිව යයි (බලංගොඩ මානවයා). යාල ජාතික වනෝද්‍යානයේ බ්ලොක් 2 කොටසෙහි තවත් ටික දුරකට වන්නට ගොඩ බසින ලද අප්‍රිකානු චිම්පන්සියන්ගෙන් පරිනාමය වු හෝමෝසේපියන් වරුන්ගේ සාක්ෂිය.
 
-> lakdiven hamu v◌̅i aeti paerawitama m◌̅anava avasʰ◌̅exa vasara 125,000 k taram ◌̅aeta at◌̅itayakaqa diva yayi (bal(an)goza m◌̅anavay◌̅a). y◌̅ala j◌̅atika van◌̅od‍y◌̅anay◌̅e blok 2 koqasehi tavat qika durakaqa vannaqa goza basina lada apʳik◌̅anu cimpansiyangen parin◌̅amaya vu h◌̅om◌̅os◌̅epiyan varung◌̅e s◌̅akxiya.
+> lak-diven- hamu vī æti pæraṇitama mānava ava◌́sēṣa vasara 125,000 k- taram- ǣta atītayakaṭa diva yayi (balangggoḍa mānavayā). yāla jātika vanōd-‍yānayē b-lok- 2 koṭasehi tavat- ṭika durakaṭa van-naṭa goḍa basina lada apʳikānu cim-pan-siyan-gen- parināmaya vu hōmōsēpiyan- varun-gē sāk-ṣiya.
 
 ශ්‍රී ලංකාව ජනාවාස වීම සම්බන්ධ තොරතුරු ඇතුළත් පැරණිතම ලියකියවිලි ලෙස මහාවංශය, දීපවංශය සහ චූලවංශය වැනි පාලි වංශකතා දැක්විය හැකිය. උතුරු ඉන්දියාවේ සිට සිංහල ජනතාවගේ පැමිණීමේ පටන් ඉතිහාසය එම වංශකතා මඟින් විස්තර කෙරේ.[1][2][3][4] ක්‍රි.පූ. 6 වන සියවසේ දී තම්බපණ්ණි රාජධානිය පිහිටුවීම සිංහල රාජාවලියේ ආරම්භය යි. ක්‍රි. පූ. 4 වන සියවසේ දී රජකම් කළ පණ්ඩුකාභය රජු අනුරාධපුර රාජධානියේ පළමු ශ්‍රී ලාංකීය පාලකයා ලෙස සැලකේ. මහින්දාගමනය මඟින් බුදු දහම රටට හඳුන්වා දීම සිදු වී ඇත්තේ ක්‍රි. පූ. 3 වන සියවසේ දී ය.
 
-> sʰʳ◌̅i l(an)k◌̅ava jan◌̅av◌̅asa v◌̅ima sambandʰa toraturu aetulʰat paerawitama liyakiyavili lesa mah◌̅av(an)sʰaya, d◌̅ipav(an)sʰaya saha c◌̅ulav(an)sʰaya vaeni p◌̅ali v(an)sʰakat◌̅a daekviya haekiya. uturu indiy◌̅av◌̅e siqa siංhala janat◌̅avag◌̅e paemiw◌̅im◌̅e paqan itih◌̅asaya ema v(an)sʰakat◌̅a maⁿgin vistara ker◌̅e.[1][2][3][4] kʳi.p◌̅u. 6 vana siyavas◌̅e d◌̅i tambapawwi r◌̅ajadʰ◌̅aniya pihiquv◌̅ima siංhala r◌̅aj◌̅avaliy◌̅e ◌̅arambʰaya yi. kʳi. p◌̅u. 4 vana siyavas◌̅e d◌̅i rajakam kalʰa pawzuk◌̅abʰaya raju anur◌̅adʰapura r◌̅ajadʰ◌̅aniy◌̅e palʰamu sʰʳ◌̅i l◌̅aංk◌̅iya p◌̅alakay◌̅a lesa saelak◌̅e. mahind◌̅agamanaya maⁿgin budu dahama raqaqa haⁿdunv◌̅a d◌̅ima sidu v◌̅i aett◌̅e kʳi. p◌̅u. 3 vana siyavas◌̅e d◌̅i ya.
+> ◌́sʳī langgkāva janāvāsa vīma sam-ban-dha toraturu ætuḷat- pæraṇitama liyakiyavili lesa mahāvangg◌́saya, dīpavangg◌́saya saha cūlavangg◌́saya væni pāli vangg◌́sakatā dæk-viya hækiya. uturu in-diyāvē siṭa singhala janatāvagē pæmiṇīmē paṭan- itihāsaya ema vangg◌́sakatā maňgin- vis-tara kerē.[1][2][3][4] kʳi.pū. 6 vana siyavasē dī tam-bapaṇ-ṇi rājadhāniya pihiṭuvīma singhala rājāvaliyē āram-bhaya yi. kʳi. pū. 4 vana siyavasē dī rajakam- kaḷa paṇ-ḍukābhaya raju anurādhapura rājadhāniyē paḷamu ◌́sʳī laangkīya pālakayā lesa sælakē. mahin-dāgamanaya maňgin- budu dahama raṭaṭa haňdun-vā dīma sidu vī æt-tē kʳi. pū. 3 vana siyavasē dī ya.
 
 පසුව එළැඹුණු සියවස් වල දී සිදු වූ චෝල ආක්‍රමණ හමු වේ දිවයින වරින් වර කුඩා රාජධානි වලට බෙදී වෙන් වී යාම් සහ නැවත එක්සේසත් වීම් ද සිදු විය. අනුරාධපුර යුගයේ සිට මහනුවර යුගය දක්වා ශ්‍රී ලංකාව රජවරුන් හා රැජිණියන් 181 දෙනෙකු විසින් පාලනය කර තිබේ.[5] එමෙන්ම 16 වන සියවසේ පටන් රටේ ඇතැම් වෙරළබඩ ප්‍රදේශ පෘතුගීසි, ලන්දේසි සහ බ්‍රිතාන්‍ය යන අධිරාජ්‍යයන් යටතේ පැවතුණි. 1597 සිට 1658 දක්වා කාලය තුළ දිවයිනේ සැලකිය යුතු කොටසක් පෘතුගීසින් යටතේ පාලනය විය. අසූ අවුරුදු යුද්ධයේදී ලන්දේසීන්ගේ මැදිහත් වීම හේතුවෙන් පෘතුගීසීන්ට සිය බල ප්‍රදේශ අහිමි විය. උඩරට සටන් වලින් අනතුරුව 1815 දී බ්‍රිතාන්‍ය පාලනය යටතේ දිවයින නැවත එක්සේසත් විය. 1818 ඌව වෙල්ලස්ස කැරැල්ල හා 1848 මාතලේ කැරැල්ල ලෙස බ්‍රිතාන්‍යයන්ට එරෙහිව සන්නද්ධ නැගී සිටීම් දෙකක් ද සිදු විය. අවසානයේ 1948 වසරේ දී බ්‍රිතාන්‍යන් විසින් නිදහස ලබා දෙන ලද නමුත් 1972 වන තෙක් රට බ්‍රිතාන්‍ය අධිරාජ්‍යය යටතේ ඩොමීනියන් තත්ත්වයේ පැවතුණි.
 
-> pasuva elʰae(mb)uwu siyavas vala d◌̅i sidu v◌̅u c◌̅ola ◌̅akʳamawa hamu v◌̅e divayina varin vara kuz◌̅a r◌̅ajadʰ◌̅ani valaqa bed◌̅i ven v◌̅i y◌̅am saha naevata eks◌̅esat v◌̅im da sidu viya. anur◌̅adʰapura yugay◌̅e siqa mahanuvara yugaya dakv◌̅a sʰʳ◌̅i l(an)k◌̅ava rajavarun h◌̅a raejiwiyan 181 deneku visin p◌̅alanaya kara tib◌̅e.[5] emenma 16 vana siyavas◌̅e paqan raq◌̅e aetaem veralʰabaza pʳad◌̅esʰa p(ru)tug◌̅isi, land◌̅esi saha bʳit◌̅an‍ya yana adʰir◌̅aj‍yayan yaqat◌̅e paevatuwi. 1597 siqa 1658 dakv◌̅a k◌̅alaya tulʰa divayin◌̅e saelakiya yutu koqasak p(ru)tug◌̅isin yaqat◌̅e p◌̅alanaya viya. as◌̅u avurudu yuddʰay◌̅ed◌̅i land◌̅es◌̅ing◌̅e maedihat v◌̅ima h◌̅etuven p(ru)tug◌̅is◌̅inqa siya bala pʳad◌̅esʰa ahimi viya. uzaraqa saqan valin anaturuva 1815 d◌̅i bʳit◌̅an‍ya p◌̅alanaya yaqat◌̅e divayina naevata eks◌̅esat viya. 1818 ◌̅uva vellassa kaeraella h◌̅a 1848 m◌̅atal◌̅e kaeraella lesa bʳit◌̅an‍yayanqa erehiva sannaddʰa naeg◌̅i siq◌̅im dekak da sidu viya. avas◌̅anay◌̅e 1948 vasar◌̅e d◌̅i bʳit◌̅an‍yan visin nidahasa lab◌̅a dena lada namut 1972 vana tek raqa bʳit◌̅an‍ya adʰir◌̅aj‍yaya yaqat◌̅e zom◌̅iniyan tattvay◌̅e paevatuwi.
+> pasuva eḷæ◌̌mbuṇu siyavas- vala dī sidu vū cōla ākʳamaṇa hamu vē divayina varin- vara kuḍā rājadhāni valaṭa bedī ven- vī yām- saha nævata ek-sēsat- vīm- da sidu viya. anurādhapura yugayē siṭa mahanuvara yugaya dak-vā ◌́sʳī langgkāva rajavarun- hā ræjiṇiyan- 181 deneku visin- pālanaya kara tibē.[5] emen-ma 16 vana siyavasē paṭan- raṭē ætæm- veraḷabaḍa pʳadē◌́sa prutugīsi, lan-dēsi saha britān-‍ya yana adhirāj-‍yayan- yaṭatē pævatuṇi. 1597 siṭa 1658 dak-vā kālaya tuḷa divayinē sælakiya yutu koṭasak- prutugīsin- yaṭatē pālanaya viya. asū avurudu yud-dhayēdī lan-dēsīn-gē mædihat- vīma hētuven- prutugīsīn-ṭa siya bala pʳadē◌́sa ahimi viya. uḍaraṭa saṭan- valin- anaturuva 1815 dī britān-‍ya pālanaya yaṭatē divayina nævata ek-sēsat- viya. 1818 ūva vel-las-sa kæræl-la hā 1848 mātalē kæræl-la lesa britān-‍yayan-ṭa erehiva san-nad-dha nægī siṭīm- dekak- da sidu viya. avasānayē 1948 vasarē dī britān-‍yan- visin- nidahasa labā dena lada namut- 1972 vana tek- raṭa britān-‍ya adhirāj-‍yaya yaṭatē ḍomīniyan- tat-t-vayē pævatuṇi.
 
 අනතුරුව 1978 දී රටට නව ආණ්ඩුක්‍රම ව්‍යවස්ථාවක් හඳුන්වා දෙනු ලැබූ අතර එමඟින් විධායක ජනාධිපතිවරයා රාජ්‍ය නායකයා බවට විය.
 
-> :anaturuva 1978 d◌̅i raqaqa nava ◌̅awzukʳama v‍yavastʰ◌̅avak haⁿdunv◌̅a denu laeb◌̅u atara emaⁿgin vidʰ◌̅ayaka jan◌̅adʰipativaray◌̅a r◌̅aj‍ya n◌̅ayakay◌̅a bavaqa viya.
+> :anaturuva 1978 dī raṭaṭa nava āṇ-ḍukʳama v-‍yavas-thāvak- haňdun-vā denu læbū atara emaňgin- vidhāyaka janādhipativarayā rāj-‍ya nāyakayā bavaṭa viya.
 
 1972 දී ශ්‍රී ලංකාව ජනරජයක් බවට පත් විය. අනතුරුව 1978 දී රටට නව ආණ්ඩුක්‍රම ව්‍යවස්ථාවක් හඳුන්වා දෙනු ලැබූ අතර එමඟින් විධායක ජනාධිපතිවරයා රාජ්‍ය නායකයා බවට විය. 1971 හා 1987 කැරැලි වලට අමතර ව 1983 දී ශ්‍රී ලංකාවේ සිවිල් යුද්ධය ආරම්භ වූ අතර වසර 25 ක් පුරා පැවති එය 2009 වසරේ දී අවසන් විය.
 
-> 1972 d◌̅i sʰʳ◌̅i l(an)k◌̅ava janarajayak bavaqa pat viya. anaturuva 1978 d◌̅i raqaqa nava ◌̅awzukʳama v‍yavastʰ◌̅avak haⁿdunv◌̅a denu laeb◌̅u atara emaⁿgin vidʰ◌̅ayaka jan◌̅adʰipativaray◌̅a r◌̅aj‍ya n◌̅ayakay◌̅a bavaqa viya. 1971 h◌̅a 1987 kaeraeli valaqa amatara va 1983 d◌̅i sʰʳ◌̅i l(an)k◌̅av◌̅e sivil yuddʰaya ◌̅arambʰa v◌̅u atara vasara 25 k pur◌̅a paevati eya 2009 vasar◌̅e d◌̅i avasan viya.
+> 1972 dī ◌́sʳī langgkāva janarajayak- bavaṭa pat- viya. anaturuva 1978 dī raṭaṭa nava āṇ-ḍukʳama v-‍yavas-thāvak- haňdun-vā denu læbū atara emaňgin- vidhāyaka janādhipativarayā rāj-‍ya nāyakayā bavaṭa viya. 1971 hā 1987 kæræli valaṭa amatara va 1983 dī ◌́sʳī langgkāvē sivil- yud-dhaya āram-bha vū atara vasara 25 k- purā pævati eya 2009 vasarē dī avasan- viya.
 
 ### Koggala
 
 කොග්ගල වූ කලි එක් පැත්තකින් මුහුකින්ද අනික් පැත්තෙන් සුන්දර වු නදියකින් ද සීමාවුනු බිම්තීරයකි.
 
-> koggala v◌̅u kali ek paettakin muhukinda anik paetten sundara vu nadiyakin da s◌̅im◌̅avunu bimt◌̅irayaki.
+> kog-gala vū kali ek- pæt-takin- muhukin-da anik- pæt-ten- sun-dara vu nadiyakin- da sīmāvunu bim-tīrayaki.
 
 පීත්ත පටියක් සේ දිවෙන ගාලු මාතර පාරින් වෙන් කරනු ලැබු මෙහි වෙරලබඩ වනාහි ගමෙහි සුලභ ගෙයක මිදුලට හෝ ආලින්දයට හෝ සමකල යුත්තකි.
 
-> p◌̅itta paqiyak s◌̅e divena g◌̅alu m◌̅atara p◌̅arin ven karanu laebu mehi veralabaza van◌̅ahi gamehi sulabʰa geyaka midulaqa h◌̅o ◌̅alindayaqa h◌̅o samakala yuttaki.
+> pīt-ta paṭiyak- sē divena gālu mātara pārin- ven- karanu læbu mehi veralabaḍa vanāhi gamehi sulabha geyaka midulaṭa hō ālin-dayaṭa hō samakala yut-taki.
 
 ගාලු මාතර පාර ලගින්ම දිවෙන රේල් පාර පස් කන්දක් මතුවෙහි හොවන ලද පටන් ගැන්ම හෝ කෙලවර හෝ නොදැක්ක හැකි තීරයක් වැන්න.
 
-> g◌̅alu m◌̅atara p◌̅ara laginma divena r◌̅el p◌̅ara pas kandak matuvehi hovana lada paqan gaenma h◌̅o kelavara h◌̅o nodaekka haeki t◌̅irayak vaenna.
+> gālu mātara pāra lagin-ma divena rēl- pāra pas- kan-dak- matuvehi hovana lada paṭan- gæn-ma hō kelavara hō nodæk-ka hæki tīrayak- væn-na.
 
 පස් ගොඩ ගැනිමෙන් තනන ලද රේල් පාර බිමින් ද මහ පාරින් ද අඩි කිහිපයක් උස්වූවකි.
 
-> pas goza gaenimen tanana lada r◌̅el p◌̅ara bimin da maha p◌̅arin da azi kihipayak usv◌̅uvaki.
+> pas- goḍa gænimen- tanana lada rēl- pāra bimin- da maha pārin- da aḍi kihipayak- us-vūvaki.
 
 පස් කැඩිමෙන් හෑරැන අගල්,රේල්පාර දෙපැත්තහි තැනින් තැන දැකිය හැකිය.
 
-> pas kaezimen h◌̅aeraena agal,r◌̅elp◌̅ara depaettahi taenin taena daekiya haekiya.
+> pas- kæḍimen- hǣræna agal-,rēl-pāra depæt-tahi tænin- tæna dækiya hækiya.
 
 බෝක්කුවක් අසල වන අගලක් ඇතැම් විට ඕලු නෙඵම් හා මසුන්ද සහිත කුඩා විලක විලාසය ගනියි.
 
-> b◌̅okkuvak asala vana agalak aetaem viqa ◌̅olu nepʰam h◌̅a masunda sahita kuz◌̅a vilaka vil◌̅asaya ganiyi.
+> bōk-kuvak- asala vana agalak- ætæm- viṭa ōlu nepham- hā masun-da sahita kuḍā vilaka vilāsaya ganiyi.
 
 ### The Quick Brown Fox
 
 අංක
 
-> :(an)ka
+> :angka
 
 ආගත
 
-> :◌̅agata
+> :āgata
 
 ඇජර
 
-> :aejara
+> :æjara
 
 ඈඳන
 
-> :◌̅aeⁿdana
+> :ǣňdana
 
 ඉටි
 
-> :iqi
+> :iṭi
 
 ඊයේ
 
-> :◌̅iy◌̅e
+> :īyē
 
 උච්ච
 
-> :ucca
+> :uc-ca
 
 එපා
 
-> :ep◌̅a
+> :epā
 
 ඔබම
 
@@ -220,11 +220,11 @@
 
 ඖෂධ
 
-> :auxadʰa
+> :auṣadha
 
 ඛෙළ
 
-> kʰelʰa
+> kheḷa
 
 දදුව
 
@@ -236,51 +236,51 @@
 
 සැඩ
 
-> saeza
+> sæḍa
 
 භූ භෞම
 
-> bʰ◌̅u bʰauma
+> bhū bhauma
 
 ශෝකී
 
-> sʰ◌̅ok◌̅i
+> ◌́sōkī
 
 ඒකකණක
 
-> :◌̅ekakawaka
+> :ēkakaṇaka
 
 ඕනෑ
 
-> :◌̅on◌̅ae
+> :ōnǣ
 
 ක්ඡඹ
 
-> kcʰa(mb)a
+> k-cha◌̌mba
 
 කෘතඥ
 
-> k(ru)tajhna
+> krutajhna
 
 ඝනඵලය
 
-> gʰanapʰalaya
+> ghanaphalaya
 
 නඤ්ඤර්ථ
 
-> najⁿjⁿartʰa
+> nañ-ñar-tha
 
 අඬන
 
-> :aⁿzana
+> :aňḍana
 
 ඊළඟ
 
-> :◌̅ilʰaⁿga
+> :īḷaňga
 
 ඌනනය
 
-> :◌̅unanaya
+> :ūnanaya
 
 එකෛක
 
@@ -292,32 +292,32 @@
 
 කෲර
 
-> kaෲra
+> kruura
 
 ජඨය
 
-> jaqʰaya
+> jaṭhaya
 
 හඞයි
 
-> hagⁿayi
+> haṅayi
 
 ෆෝටෝන්
 
-> f◌̅oq◌̅on
+> fōṭōn-
 
 සජ්ඣායනය
 
-> sajjʰ◌̅ayanaya
+> saj-jhāyanaya
 
 දෟශ්යතාව
 
-> daෟsʰyat◌̅ava
+> dru◌́s-yatāva
 
 අන්තඃපුරය
 
-> :ant(ah)puraya
+> :an-takkpuraya
 
 ධඍ ද්වාරය
 
-> dʰaඍ dv◌̅araya
+> dhasru d-vāraya

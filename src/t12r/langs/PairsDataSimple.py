@@ -3,7 +3,6 @@ from functools import cache
 DASH_CHAR = ''
 NO_VOWEL_CHAR = ''
 CHAR_ASPIRATE = 'ʰ'
-LONG_CHAR = '◌̅'
 CHAR_NASAL = 'ⁿ'
 
 
@@ -16,7 +15,14 @@ def bracket(x):
 @cache
 def long(x: str) -> str:
     assert x
-    return LONG_CHAR + x
+    return {
+        'a': 'ā',
+        'æ': 'ǣ',
+        'e': 'ē',
+        'i': 'ī',
+        'u': 'ū',
+        'o': 'ō',
+    }.get(x)
 
 
 @cache
@@ -46,8 +52,8 @@ class PairsDataSimple:
     VOWEL_PAIRS = [
         ('අ', 'a'),
         ('ආ', long('a')),
-        ('ඇ', 'ae'),
-        ('ඈ', long('ae')),
+        ('ඇ', 'æ'),
+        ('ඈ', long('æ')),
         ('ඉ', 'i'),
         ('ඊ', long('i')),
         ('උ', 'u'),
@@ -120,8 +126,8 @@ class PairsDataSimple:
         #
         ('්', NO_VOWEL_CHAR),
         ('ා', long('a')),
-        ('ැ', 'ae'),
-        ('ෑ', long('ae')),
+        ('ැ', 'æ'),
+        ('ෑ', long('æ')),
         ('ි', 'i'),
         ('ී', long('i')),
         ('ු', 'u'),
