@@ -10,7 +10,7 @@ log = Log('Pairs')
 
 
 # class Pairs(PairsDataFormal):
-    # class Pairs(PairsDataTyping):
+# class Pairs(PairsDataTyping):
 class Pairs(PairsDataSimple):
     @staticmethod
     @cache
